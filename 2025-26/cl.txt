@@ -1,51 +1,51 @@
 = UEFA Champions League 2025/26
 
-# Date       Tue Sep/16 2025 - Sat May/30 2026 (256d)
+# Date       Tue Sep 16 2025 - Sat May 30 2026 (256d)
 # Teams      36
 # Matches    189
 # Stages     League (144)  Playoffs (16)  Finals (29)
 
 
 
-» League, Matchday 1
-  Tue Sep/16 2025
-    18.45  Athletic Club (ESP)     v Arsenal FC (ENG)         0-2 (0-0)
+▪ League, Matchday 1
+  Tue Sep 16 2025
+    18:45  Athletic Club (ESP)     v Arsenal FC (ENG)         0-2 (0-0)
            PSV (NED)               v Royale Union Saint-Gilloise (BEL)  1-3 (0-2)
-    21.00  Juventus FC (ITA)       v Borussia Dortmund (GER)  4-4 (0-0)
+    21:00  Juventus FC (ITA)       v Borussia Dortmund (GER)  4-4 (0-0)
            Sport Lisboa e Benfica (POR) v Qarabağ Ağdam FK (AZE)   2-3 (2-1)
            Tottenham Hotspur FC (ENG) v Villarreal CF (ESP)      1-0 (1-0)
            Real Madrid CF (ESP)    v Olympique de Marseille (FRA)  2-1 (1-1)
-  Wed Sep/17
-    18.45  SK Slavia Praha (CZE)   v FK Bodø/Glimt (NOR)      2-2 (1-0)
+  Wed Sep 17
+    18:45  SK Slavia Praha (CZE)   v FK Bodø/Glimt (NOR)      2-2 (1-0)
            PAE Olympiakos SFP (GRE) v Paphos FC (CYP)          0-0
-    21.00  AFC Ajax (NED)          v FC Internazionale Milano (ITA)  0-2 (0-1)
+    21:00  AFC Ajax (NED)          v FC Internazionale Milano (ITA)  0-2 (0-1)
            Liverpool FC (ENG)      v Club Atlético de Madrid (ESP)  3-2 (2-1)
            Paris Saint-Germain FC (FRA) v Atalanta BC (ITA)        4-0 (2-0)
            FC Bayern München (GER) v Chelsea FC (ENG)         3-1 (2-1)
-  Thu Sep/18
-    18.45  FC København (DEN)      v Bayer 04 Leverkusen (GER)  2-2 (1-0)
+  Thu Sep 18
+    18:45  FC København (DEN)      v Bayer 04 Leverkusen (GER)  2-2 (1-0)
            Club Brugge KV (BEL)    v AS Monaco FC (MCO)       4-1 (3-0)
-    21.00  Newcastle United FC (ENG) v FC Barcelona (ESP)       1-2 (0-0)
+    21:00  Newcastle United FC (ENG) v FC Barcelona (ESP)       1-2 (0-0)
            Manchester City FC (ENG) v SSC Napoli (ITA)         2-0 (0-0)
            Eintracht Frankfurt (GER) v Galatasaray SK (TUR)     5-1 (3-1)
            Sporting Clube de Portugal (POR) v FK Kairat (KAZ)          4-1 (1-0)
 
 
-» League, Matchday 2
-  Tue Sep/30
-    18.45  Atalanta BC (ITA)       v Club Brugge KV (BEL)     2-1 (0-1)
+▪ League, Matchday 2
+  Tue Sep 30
+    18:45  Atalanta BC (ITA)       v Club Brugge KV (BEL)     2-1 (0-1)
            FK Kairat (KAZ)         v Real Madrid CF (ESP)     0-5 (0-1)
-    21.00  Galatasaray SK (TUR)    v Liverpool FC (ENG)       1-0 (1-0)
+    21:00  Galatasaray SK (TUR)    v Liverpool FC (ENG)       1-0 (1-0)
            Club Atlético de Madrid (ESP) v Eintracht Frankfurt (GER)  5-1 (3-0)
            Olympique de Marseille (FRA) v AFC Ajax (NED)           4-0 (3-0)
            FK Bodø/Glimt (NOR)     v Tottenham Hotspur FC (ENG)  2-2 (0-0)
            Paphos FC (CYP)         v FC Bayern München (GER)  1-5 (1-4)
            Chelsea FC (ENG)        v Sport Lisboa e Benfica (POR)  1-0 (1-0)
            FC Internazionale Milano (ITA) v SK Slavia Praha (CZE)    3-0 (2-0)
-  Wed Oct/1
-    18.45  Qarabağ Ağdam FK (AZE)  v FC København (DEN)       2-0 (1-0)
+  Wed Oct 1
+    18:45  Qarabağ Ağdam FK (AZE)  v FC København (DEN)       2-0 (1-0)
            Royale Union Saint-Gilloise (BEL) v Newcastle United FC (ENG)  0-4 (0-2)
-    21.00  Borussia Dortmund (GER) v Athletic Club (ESP)      4-1 (1-0)
+    21:00  Borussia Dortmund (GER) v Athletic Club (ESP)      4-1 (1-0)
            FC Barcelona (ESP)      v Paris Saint-Germain FC (FRA)  1-2 (1-1)
            AS Monaco FC (MCO)      v Manchester City FC (ENG)  2-2 (1-2)
            Bayer 04 Leverkusen (GER) v PSV (NED)                1-1 (0-0)
@@ -54,21 +54,21 @@
            SSC Napoli (ITA)        v Sporting Clube de Portugal (POR)  2-1 (1-0)
 
 
-» League, Matchday 3
-  Tue Oct/21
-    18.45  FC Barcelona (ESP)      v PAE Olympiakos SFP (GRE)  6-1 (2-0)
+▪ League, Matchday 3
+  Tue Oct 21
+    18:45  FC Barcelona (ESP)      v PAE Olympiakos SFP (GRE)  6-1 (2-0)
            FK Kairat (KAZ)         v Paphos FC (CYP)          0-0
-    21.00  Royale Union Saint-Gilloise (BEL) v FC Internazionale Milano (ITA)  0-4 (0-2)
+    21:00  Royale Union Saint-Gilloise (BEL) v FC Internazionale Milano (ITA)  0-4 (0-2)
            FC København (DEN)      v Borussia Dortmund (GER)  2-4 (1-1)
            Bayer 04 Leverkusen (GER) v Paris Saint-Germain FC (FRA)  2-7 (1-4)
            Villarreal CF (ESP)     v Manchester City FC (ENG)  0-2 (0-2)
            Arsenal FC (ENG)        v Club Atlético de Madrid (ESP)  4-0 (0-0)
            Newcastle United FC (ENG) v Sport Lisboa e Benfica (POR)  3-0 (1-0)
            PSV (NED)               v SSC Napoli (ITA)         6-2 (2-1)
-  Wed Oct/22
-    18.45  Galatasaray SK (TUR)    v FK Bodø/Glimt (NOR)      3-1 (2-0)
+  Wed Oct 22
+    18:45  Galatasaray SK (TUR)    v FK Bodø/Glimt (NOR)      3-1 (2-0)
            Athletic Club (ESP)     v Qarabağ Ağdam FK (AZE)   3-1 (1-1)
-    21.00  Eintracht Frankfurt (GER) v Liverpool FC (ENG)       1-5 (1-3)
+    21:00  Eintracht Frankfurt (GER) v Liverpool FC (ENG)       1-5 (1-3)
            Atalanta BC (ITA)       v SK Slavia Praha (CZE)    0-0
            Sporting Clube de Portugal (POR) v Olympique de Marseille (FRA)  2-1 (0-1)
            AS Monaco FC (MCO)      v Tottenham Hotspur FC (ENG)  0-0
@@ -77,21 +77,21 @@
            Real Madrid CF (ESP)    v Juventus FC (ITA)        1-0 (0-0)
 
 
-» League, Matchday 4
-  Tue Nov/4
-    18.45  SK Slavia Praha (CZE)   v Arsenal FC (ENG)         0-3 (0-1)
+▪ League, Matchday 4
+  Tue Nov 4
+    18:45  SK Slavia Praha (CZE)   v Arsenal FC (ENG)         0-3 (0-1)
            SSC Napoli (ITA)        v Eintracht Frankfurt (GER)  0-0
-    21.00  Juventus FC (ITA)       v Sporting Clube de Portugal (POR)  1-1 (1-1)
+    21:00  Juventus FC (ITA)       v Sporting Clube de Portugal (POR)  1-1 (1-1)
            Club Atlético de Madrid (ESP) v Royale Union Saint-Gilloise (BEL)  3-1 (1-0)
            Tottenham Hotspur FC (ENG) v FC København (DEN)       4-0 (1-0)
            FK Bodø/Glimt (NOR)     v AS Monaco FC (MCO)       0-1 (0-1)
            PAE Olympiakos SFP (GRE) v PSV (NED)                1-1 (1-0)
            Paris Saint-Germain FC (FRA) v FC Bayern München (GER)  1-2 (0-2)
            Liverpool FC (ENG)      v Real Madrid CF (ESP)     1-0 (0-0)
-  Wed Nov/5
-    18.45  Paphos FC (CYP)         v Villarreal CF (ESP)      1-0 (0-0)
+  Wed Nov 5
+    18:45  Paphos FC (CYP)         v Villarreal CF (ESP)      1-0 (0-0)
            Qarabağ Ağdam FK (AZE)  v Chelsea FC (ENG)         2-2 (2-1)
-    21.00  FC Internazionale Milano (ITA) v FK Kairat (KAZ)          2-1 (1-0)
+    21:00  FC Internazionale Milano (ITA) v FK Kairat (KAZ)          2-1 (1-0)
            Manchester City FC (ENG) v Borussia Dortmund (GER)  4-1 (2-0)
            Club Brugge KV (BEL)    v FC Barcelona (ESP)       3-3 (2-1)
            Sport Lisboa e Benfica (POR) v Bayer 04 Leverkusen (GER)  0-1 (0-0)
@@ -100,21 +100,21 @@
            Newcastle United FC (ENG) v Athletic Club (ESP)      2-0 (1-0)
 
 
-» League, Matchday 5
-  Tue Nov/25
-    18.45  AFC Ajax (NED)          v Sport Lisboa e Benfica (POR)  0-2 (0-1)
+▪ League, Matchday 5
+  Tue Nov 25
+    18:45  AFC Ajax (NED)          v Sport Lisboa e Benfica (POR)  0-2 (0-1)
            Galatasaray SK (TUR)    v Royale Union Saint-Gilloise (BEL)  0-1 (0-0)
-    21.00  Borussia Dortmund (GER) v Villarreal CF (ESP)      4-0 (1-0)
+    21:00  Borussia Dortmund (GER) v Villarreal CF (ESP)      4-0 (1-0)
            Manchester City FC (ENG) v Bayer 04 Leverkusen (GER)  0-2 (0-1)
            FK Bodø/Glimt (NOR)     v Juventus FC (ITA)        2-3 (1-0)
            Olympique de Marseille (FRA) v Newcastle United FC (ENG)  2-1 (0-1)
            SK Slavia Praha (CZE)   v Athletic Club (ESP)      0-0
            SSC Napoli (ITA)        v Qarabağ Ağdam FK (AZE)   2-0 (0-0)
            Chelsea FC (ENG)        v FC Barcelona (ESP)       3-0 (1-0)
-  Wed Nov/26
-    18.45  Paphos FC (CYP)         v AS Monaco FC (MCO)       2-2 (1-2)
+  Wed Nov 26
+    18:45  Paphos FC (CYP)         v AS Monaco FC (MCO)       2-2 (1-2)
            FC København (DEN)      v FK Kairat (KAZ)          3-2 (1-0)
-    21.00  Liverpool FC (ENG)      v PSV (NED)                1-4 (1-1)
+    21:00  Liverpool FC (ENG)      v PSV (NED)                1-4 (1-1)
            Paris Saint-Germain FC (FRA) v Tottenham Hotspur FC (ENG)  5-3 (1-1)
            Eintracht Frankfurt (GER) v Atalanta BC (ITA)        0-3 (0-0)
            Sporting Clube de Portugal (POR) v Club Brugge KV (BEL)     3-0 (2-0)
@@ -123,21 +123,21 @@
            Club Atlético de Madrid (ESP) v FC Internazionale Milano (ITA)  2-1 (1-0)
 
 
-» League, Matchday 6
-  Tue Dec/9
-    16.30  FK Kairat (KAZ)         v PAE Olympiakos SFP (GRE)  0-1 (0-0)
-    18.45  FC Bayern München (GER) v Sporting Clube de Portugal (POR)  3-1 (0-0)
-    21.00  FC Barcelona (ESP)      v Eintracht Frankfurt (GER)  2-1 (0-1)
+▪ League, Matchday 6
+  Tue Dec 9
+    16:30  FK Kairat (KAZ)         v PAE Olympiakos SFP (GRE)  0-1 (0-0)
+    18:45  FC Bayern München (GER) v Sporting Clube de Portugal (POR)  3-1 (0-0)
+    21:00  FC Barcelona (ESP)      v Eintracht Frankfurt (GER)  2-1 (0-1)
            PSV (NED)               v Club Atlético de Madrid (ESP)  2-3 (1-1)
            Royale Union Saint-Gilloise (BEL) v Olympique de Marseille (FRA)  2-3 (1-2)
            Tottenham Hotspur FC (ENG) v SK Slavia Praha (CZE)    3-0 (1-0)
            AS Monaco FC (MCO)      v Galatasaray SK (TUR)     1-0 (0-0)
            Atalanta BC (ITA)       v Chelsea FC (ENG)         2-1 (0-1)
            FC Internazionale Milano (ITA) v Liverpool FC (ENG)       0-1 (0-0)
-  Wed Dec/10
-    18.45  Villarreal CF (ESP)     v FC København (DEN)       2-3 (0-1)
+  Wed Dec 10
+    18:45  Villarreal CF (ESP)     v FC København (DEN)       2-3 (0-1)
            Qarabağ Ağdam FK (AZE)  v AFC Ajax (NED)           2-4 (1-1)
-    21.00  Borussia Dortmund (GER) v FK Bodø/Glimt (NOR)      2-2 (1-1)
+    21:00  Borussia Dortmund (GER) v FK Bodø/Glimt (NOR)      2-2 (1-1)
            Athletic Club (ESP)     v Paris Saint-Germain FC (FRA)  0-0
            Bayer 04 Leverkusen (GER) v Newcastle United FC (ENG)  2-2 (1-0)
            Club Brugge KV (BEL)    v Arsenal FC (ENG)         0-3 (0-1)
@@ -146,21 +146,21 @@
            Real Madrid CF (ESP)    v Manchester City FC (ENG)  1-2 (1-2)
 
 
-» League, Matchday 7
-  Tue Jan/20 2026
-    16.30  FK Kairat (KAZ)         v Club Brugge KV (BEL)     1-4 (0-2)
-    18.45  FK Bodø/Glimt (NOR)     v Manchester City FC (ENG)  3-1 (2-0)
-    21.00  Tottenham Hotspur FC (ENG) v Borussia Dortmund (GER)  2-0 (2-0)
+▪ League, Matchday 7
+  Tue Jan 20 2026
+    16:30  FK Kairat (KAZ)         v Club Brugge KV (BEL)     1-4 (0-2)
+    18:45  FK Bodø/Glimt (NOR)     v Manchester City FC (ENG)  3-1 (2-0)
+    21:00  Tottenham Hotspur FC (ENG) v Borussia Dortmund (GER)  2-0 (2-0)
            Sporting Clube de Portugal (POR) v Paris Saint-Germain FC (FRA)  2-1 (0-0)
            PAE Olympiakos SFP (GRE) v Bayer 04 Leverkusen (GER)  2-0 (2-0)
            Villarreal CF (ESP)     v AFC Ajax (NED)           1-2 (0-0)
            FC København (DEN)      v SSC Napoli (ITA)         1-1 (0-1)
            Real Madrid CF (ESP)    v AS Monaco FC (MCO)       6-1 (2-0)
            FC Internazionale Milano (ITA) v Arsenal FC (ENG)         1-3 (1-2)
-  Wed Jan/21
-    18.45  Qarabağ Ağdam FK (AZE)  v Eintracht Frankfurt (GER)  3-2 (1-1)
+  Wed Jan 21
+    18:45  Qarabağ Ağdam FK (AZE)  v Eintracht Frankfurt (GER)  3-2 (1-1)
            Galatasaray SK (TUR)    v Club Atlético de Madrid (ESP)  1-1 (1-1)
-    21.00  Olympique de Marseille (FRA) v Liverpool FC (ENG)       0-3 (0-1)
+    21:00  Olympique de Marseille (FRA) v Liverpool FC (ENG)       0-3 (0-1)
            SK Slavia Praha (CZE)   v FC Barcelona (ESP)       2-4 (2-2)
            Atalanta BC (ITA)       v Athletic Club (ESP)      2-3 (1-0)
            Juventus FC (ITA)       v Sport Lisboa e Benfica (POR)  2-0 (0-0)
@@ -169,9 +169,9 @@
            Chelsea FC (ENG)        v Paphos FC (CYP)          1-0 (0-0)
 
 
-» League, Matchday 8
-  Wed Jan/28
-    21.00  Liverpool FC (ENG)      v Qarabağ Ağdam FK (AZE)   6-0 (2-0)
+▪ League, Matchday 8
+  Wed Jan 28
+    21:00  Liverpool FC (ENG)      v Qarabağ Ağdam FK (AZE)   6-0 (2-0)
            FC Barcelona (ESP)      v FC København (DEN)       4-1 (0-1)
            Manchester City FC (ENG) v Galatasaray SK (TUR)     2-0 (2-0)
            Bayer 04 Leverkusen (GER) v Villarreal CF (ESP)      3-0 (2-0)
@@ -191,81 +191,81 @@
            Borussia Dortmund (GER) v FC Internazionale Milano (ITA)  0-2 (0-0)
 
 
-» Playoffs, Matchday 1
-  Tue Feb/17
-    18.45  Galatasaray SK (TUR)    v Juventus FC (ITA)        5-2 (1-2)
-    21.00  Sport Lisboa e Benfica (POR) v Real Madrid CF (ESP)     0-1 (0-0)
+▪ Playoffs, Matchday 1
+  Tue Feb 17
+    18:45  Galatasaray SK (TUR)    v Juventus FC (ITA)        5-2 (1-2)
+    21:00  Sport Lisboa e Benfica (POR) v Real Madrid CF (ESP)     0-1 (0-0)
            AS Monaco FC (MCO)      v Paris Saint-Germain FC (FRA)  2-3 (2-2)
-    21.15  Borussia Dortmund (GER) v Atalanta BC (ITA)        2-0 (2-0)
-  Wed Feb/18
-    18.45  Qarabağ Ağdam FK (AZE)  v Newcastle United FC (ENG)  1-6 (0-5)
-    21.00  Club Brugge KV (BEL)    v Club Atlético de Madrid (ESP)  3-3 (0-2)
+    21:15  Borussia Dortmund (GER) v Atalanta BC (ITA)        2-0 (2-0)
+  Wed Feb 18
+    18:45  Qarabağ Ağdam FK (AZE)  v Newcastle United FC (ENG)  1-6 (0-5)
+    21:00  Club Brugge KV (BEL)    v Club Atlético de Madrid (ESP)  3-3 (0-2)
            PAE Olympiakos SFP (GRE) v Bayer 04 Leverkusen (GER)  0-2 (0-0)
            FK Bodø/Glimt (NOR)     v FC Internazionale Milano (ITA)  3-1 (1-1)
 
 
-» Playoffs, Matchday 2
-  Tue Feb/24
-    18.45  Club Atlético de Madrid (ESP) v Club Brugge KV (BEL)     4-1 (1-1)
-    21.00  Newcastle United FC (ENG) v Qarabağ Ağdam FK (AZE)   3-2 (2-0)
+▪ Playoffs, Matchday 2
+  Tue Feb 24
+    18:45  Club Atlético de Madrid (ESP) v Club Brugge KV (BEL)     4-1 (1-1)
+    21:00  Newcastle United FC (ENG) v Qarabağ Ağdam FK (AZE)   3-2 (2-0)
            Bayer 04 Leverkusen (GER) v PAE Olympiakos SFP (GRE)  0-0
            FC Internazionale Milano (ITA) v FK Bodø/Glimt (NOR)      1-2 (0-0)
-  Wed Feb/25
-    18.45  Atalanta BC (ITA)       v Borussia Dortmund (GER)  4-1 (2-0)
-    21.00  Real Madrid CF (ESP)    v Sport Lisboa e Benfica (POR)  2-1 (1-1)
+  Wed Feb 25
+    18:45  Atalanta BC (ITA)       v Borussia Dortmund (GER)  4-1 (2-0)
+    21:00  Real Madrid CF (ESP)    v Sport Lisboa e Benfica (POR)  2-1 (1-1)
            Paris Saint-Germain FC (FRA) v AS Monaco FC (MCO)       2-2 (0-1)
            Juventus FC (ITA)       v Galatasaray SK (TUR)     3-2 a.e.t. (3-0, 1-0)
 
 
-» Finals, Round of 16
-  Tue Mar/10
-    18.45  Galatasaray SK (TUR)    v Liverpool FC (ENG)       1-0 (1-0)
-    21.00  Atalanta BC (ITA)       v FC Bayern München (GER)  1-6 (0-3)
+▪ Finals, Round of 16
+  Tue Mar 10
+    18:45  Galatasaray SK (TUR)    v Liverpool FC (ENG)       1-0 (1-0)
+    21:00  Atalanta BC (ITA)       v FC Bayern München (GER)  1-6 (0-3)
            Newcastle United FC (ENG) v FC Barcelona (ESP)       1-1 (0-0)
            Club Atlético de Madrid (ESP) v Tottenham Hotspur FC (ENG)  5-2 (4-1)
-  Wed Mar/11
-    18.45  Bayer 04 Leverkusen (GER) v Arsenal FC (ENG)         1-1 (0-0)
-    21.00  Paris Saint-Germain FC (FRA) v Chelsea FC (ENG)         5-2 (2-1)
+  Wed Mar 11
+    18:45  Bayer 04 Leverkusen (GER) v Arsenal FC (ENG)         1-1 (0-0)
+    21:00  Paris Saint-Germain FC (FRA) v Chelsea FC (ENG)         5-2 (2-1)
            Real Madrid CF (ESP)    v Manchester City FC (ENG)  3-0 (3-0)
            FK Bodø/Glimt (NOR)     v Sporting Clube de Portugal (POR)  3-0 (2-0)
-  Tue Mar/17
-    18.45  Sporting Clube de Portugal (POR) v FK Bodø/Glimt (NOR)      5-0 a.e.t. (3-0, 1-0)
-    21.00  Chelsea FC (ENG)        v Paris Saint-Germain FC (FRA)  0-3 (0-2)
+  Tue Mar 17
+    18:45  Sporting Clube de Portugal (POR) v FK Bodø/Glimt (NOR)      5-0 a.e.t. (3-0, 1-0)
+    21:00  Chelsea FC (ENG)        v Paris Saint-Germain FC (FRA)  0-3 (0-2)
            Manchester City FC (ENG) v Real Madrid CF (ESP)     1-2 (1-1)
            Arsenal FC (ENG)        v Bayer 04 Leverkusen (GER)  2-0 (1-0)
-  Wed Mar/18
-    18.45  FC Barcelona (ESP)      v Newcastle United FC (ENG)  7-2 (3-2)
-    21.00  Liverpool FC (ENG)      v Galatasaray SK (TUR)     4-0 (1-0)
+  Wed Mar 18
+    18:45  FC Barcelona (ESP)      v Newcastle United FC (ENG)  7-2 (3-2)
+    21:00  Liverpool FC (ENG)      v Galatasaray SK (TUR)     4-0 (1-0)
            FC Bayern München (GER) v Atalanta BC (ITA)        4-1 (1-0)
            Tottenham Hotspur FC (ENG) v Club Atlético de Madrid (ESP)  3-2 (1-0)
 
 
-» Finals, Quarterfinals
-  Tue Apr/7
-    21.00  Real Madrid CF (ESP)    v FC Bayern München (GER)  1-2 (0-1)
+▪ Finals, Quarterfinals
+  Tue Apr 7
+    21:00  Real Madrid CF (ESP)    v FC Bayern München (GER)  1-2 (0-1)
            Sporting Clube de Portugal (POR) v Arsenal FC (ENG)         0-1 (0-0)
-  Wed Apr/8
-    21.00  Paris Saint-Germain FC (FRA) v Liverpool FC (ENG)       2-0 (1-0)
+  Wed Apr 8
+    21:00  Paris Saint-Germain FC (FRA) v Liverpool FC (ENG)       2-0 (1-0)
            FC Barcelona (ESP)      v Club Atlético de Madrid (ESP)  0-2 (0-1)
-  Tue Apr/14
-    21.00  Liverpool FC (ENG)      v Paris Saint-Germain FC (FRA)  0-2 (0-0)
+  Tue Apr 14
+    21:00  Liverpool FC (ENG)      v Paris Saint-Germain FC (FRA)  0-2 (0-0)
            Club Atlético de Madrid (ESP) v FC Barcelona (ESP)       1-2 (1-2)
-  Wed Apr/15
-    21.00  FC Bayern München (GER) v Real Madrid CF (ESP)     4-3 (2-3)
+  Wed Apr 15
+    21:00  FC Bayern München (GER) v Real Madrid CF (ESP)     4-3 (2-3)
            Arsenal FC (ENG)        v Sporting Clube de Portugal (POR)  0-0
 
 
-» Finals, Semifinals
-  Tue Apr/28
-    21.00  Paris Saint-Germain FC (FRA) v FC Bayern München (GER)  5-4 (3-2)
-  Wed Apr/29
-    21.00  Club Atlético de Madrid (ESP) v Arsenal FC (ENG)         1-1 (0-1)
-  Tue May/5
-    21.00  Arsenal FC (ENG)        v Club Atlético de Madrid (ESP)  1-0 (1-0)
-  Wed May/6
-    21.00  FC Bayern München (GER) v Paris Saint-Germain FC (FRA)  1-1 (0-1)
+▪ Finals, Semifinals
+  Tue Apr 28
+    21:00  Paris Saint-Germain FC (FRA) v FC Bayern München (GER)  5-4 (3-2)
+  Wed Apr 29
+    21:00  Club Atlético de Madrid (ESP) v Arsenal FC (ENG)         1-1 (0-1)
+  Tue May 5
+    21:00  Arsenal FC (ENG)        v Club Atlético de Madrid (ESP)  1-0 (1-0)
+  Wed May 6
+    21:00  FC Bayern München (GER) v Paris Saint-Germain FC (FRA)  1-1 (0-1)
 
 
-» Finals, Final
-  Sat May/30
-    18.00  Paris Saint-Germain FC (FRA) v Arsenal FC (ENG)
+▪ Finals, Final
+  Sat May 30
+    18:00  Paris Saint-Germain FC (FRA) v Arsenal FC (ENG)
