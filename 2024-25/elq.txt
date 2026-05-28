@@ -1,109 +1,109 @@
 = UEFA Europa League - Quali 2024/25
 
-# Date       Thu Jul/11 - Thu Aug/29 2024 (49d)
+# Date       Thu Jul 11 - Thu Aug 29 2024 (49d)
 # Teams      52
 # Matches    80
 
 
 
-» Round 1
-  Thu Jul/11 2024
-    19.00  IF Elfsborg (SWE)       v Paphos FC (CYP)          3-0 (1-0)
+▪ Round 1
+  Thu Jul 11 2024
+    19:00  IF Elfsborg (SWE)       v Paphos FC (CYP)          3-0 (1-0)
            Paksi SE (HUN)          v FC Corvinul Hunedoara (ROU)  0-4 (0-2)
            FC Sheriff (MDA)        v Zira FK (AZE)            0-1 (0-0)
            MFK Ružomberok (SVK)    v Tobyl Kostanay (KAZ)     5-2 (3-2)
-    20.00  Botev Plovdiv (BUL)     v NK Maribor (SVN)         2-1 (1-1)
-    20.30  Wisła Kraków (POL)      v KF Llapi (KOS)           2-0 (1-0)
-  Thu Jul/18
-    16.30  KF Llapi (KOS)          v Wisła Kraków (POL)       1-2 (0-0)
-    17.00  Tobyl Kostanay (KAZ)    v MFK Ružomberok (SVK)     1-0 (1-0)
-    18.00  Paphos FC (CYP)         v IF Elfsborg (SWE)        2-5 (2-1)
+    20:00  Botev Plovdiv (BUL)     v NK Maribor (SVN)         2-1 (1-1)
+    20:30  Wisła Kraków (POL)      v KF Llapi (KOS)           2-0 (1-0)
+  Thu Jul 18
+    16:30  KF Llapi (KOS)          v Wisła Kraków (POL)       1-2 (0-0)
+    17:00  Tobyl Kostanay (KAZ)    v MFK Ružomberok (SVK)     1-0 (1-0)
+    18:00  Paphos FC (CYP)         v IF Elfsborg (SWE)        2-5 (2-1)
            Zira FK (AZE)           v FC Sheriff (MDA)         4-5 pen. 1-2 a.e.t. (1-2, 1-0)
-    20.00  FC Corvinul Hunedoara (ROU) v Paksi SE (HUN)           0-2 (0-0)
-    20.15  NK Maribor (SVN)        v Botev Plovdiv (BUL)      2-2 (1-0)
+    20:00  FC Corvinul Hunedoara (ROU) v Paksi SE (HUN)           0-2 (0-0)
+    20:15  NK Maribor (SVN)        v Botev Plovdiv (BUL)      2-2 (1-0)
 
 
-» Round 2
-  Thu Jul/25
-    18.00  Wisła Kraków (POL)      v Rapid Wien (AUT)         1-2 (0-1)
-    18.30  MFK Ružomberok (SVK)    v Trabzonspor (TUR)        0-2 (0-1)
-    19.00  Molde FK (NOR)          v Silkeborg IF (DEN)       3-1 (2-1)
+▪ Round 2
+  Thu Jul 25
+    18:00  Wisła Kraków (POL)      v Rapid Wien (AUT)         1-2 (0-1)
+    18:30  MFK Ružomberok (SVK)    v Trabzonspor (TUR)        0-2 (0-1)
+    19:00  Molde FK (NOR)          v Silkeborg IF (DEN)       3-1 (2-1)
            FC Sheriff (MDA)        v IF Elfsborg (SWE)        0-1 (0-0)
            FC Corvinul Hunedoara (ROU) v HNK Rijeka (CRO)         0-0
-    20.00  Panathinaikos (GRE)     v Botev Plovdiv (BUL)      2-1 (2-0)
-    20.30  AFC Ajax (NED)          v Vojvodina (SRB)          1-0 (0-0)
+    20:00  Panathinaikos (GRE)     v Botev Plovdiv (BUL)      2-1 (2-0)
+    20:30  AFC Ajax (NED)          v Vojvodina (SRB)          1-0 (0-0)
            Kilmarnock FC (SCO)     v Cercle Brugge (BEL)      1-1 (0-0)
-    21.30  Sporting Braga (POR)    v Maccabi Petach-Tikva (ISR)  2-0 (0-0)
-  Thu Aug/1
-    19.00  IF Elfsborg (SWE)       v FC Sheriff (MDA)         2-0 (1-0)
-    19.15  Silkeborg IF (DEN)      v Molde FK (NOR)           3-2 (1-1)
-    19.30  Trabzonspor (TUR)       v MFK Ružomberok (SVK)     1-0 (0-0)
+    21:30  Sporting Braga (POR)    v Maccabi Petach-Tikva (ISR)  2-0 (0-0)
+  Thu Aug 1
+    19:00  IF Elfsborg (SWE)       v FC Sheriff (MDA)         2-0 (1-0)
+    19:15  Silkeborg IF (DEN)      v Molde FK (NOR)           3-2 (1-1)
+    19:30  Trabzonspor (TUR)       v MFK Ružomberok (SVK)     1-0 (0-0)
            Maccabi Petach-Tikva (ISR) v Sporting Braga (POR)     0-5 (0-3)
-    20.00  Vojvodina (SRB)         v AFC Ajax (NED)           1-3 (0-0)
+    20:00  Vojvodina (SRB)         v AFC Ajax (NED)           1-3 (0-0)
            Cercle Brugge (BEL)     v Kilmarnock FC (SCO)      1-0 (1-0)
            Botev Plovdiv (BUL)     v Panathinaikos (GRE)      0-4 (0-3)
            HNK Rijeka (CRO)        v FC Corvinul Hunedoara (ROU)  1-0 (1-0)
-    20.30  Rapid Wien (AUT)        v Wisła Kraków (POL)       6-1 (5-0)
+    20:30  Rapid Wien (AUT)        v Wisła Kraków (POL)       6-1 (5-0)
 
 
-» Round 3
-  Tue Aug/6
-    18.30  FK Panevėžys (LTU)      v Maccabi Tel Aviv (ISR)   1-2 (0-2)
-    19.00  CS Petrocub (MDA)       v The New Saints (WAL)     1-0 (1-0)
-  Thu Aug/8
-    19.00  KÍ Klaksvík (FRO)       v Borac Banja Luka (BIH)   2-1 (2-1)
+▪ Round 3
+  Tue Aug 6
+    18:30  FK Panevėžys (LTU)      v Maccabi Tel Aviv (ISR)   1-2 (0-2)
+    19:00  CS Petrocub (MDA)       v The New Saints (WAL)     1-0 (1-0)
+  Thu Aug 8
+    19:00  KÍ Klaksvík (FRO)       v Borac Banja Luka (BIH)   2-1 (2-1)
            Molde FK (NOR)          v Cercle Brugge (BEL)      3-0 (3-0)
            Trabzonspor (TUR)       v Rapid Wien (AUT)         0-1 (0-0)
-    20.00  UE Santa Coloma (AND)   v FK RFS (LVA)             0-2 (0-2)
+    20:00  UE Santa Coloma (AND)   v FK RFS (LVA)             0-2 (0-2)
            Partizan (SRB)          v FC Lugano (SUI)          0-1 (0-0)
            Panathinaikos (GRE)     v AFC Ajax (NED)           0-1 (0-1)
            HNK Rijeka (CRO)        v IF Elfsborg (SWE)        1-1 (1-1)
            Kryvbas Kryvyi Rih (UKR) v Viktoria Plzeň (CZE)     1-2 (1-0)
-    20.15  NK Celje (SVN)          v Shamrock Rovers (IRL)    1-0 (1-0)
-    20.45  Dinamo Minsk (BLR)      v Lincoln Red Imps (GIB)   2-0 (1-0)
-    21.30  Sporting Braga (POR)    v Servette FC (SUI)        0-0
-  Tue Aug/13
-    19.30  The New Saints (WAL)    v CS Petrocub (MDA)        0-0
-  Wed Aug/14
-    18.00  FK RFS (LVA)            v UE Santa Coloma (AND)    7-0 (5-0)
-  Thu Aug/15
-    18.00  Lincoln Red Imps (GIB)  v Dinamo Minsk (BLR)       2-1 (1-0)
+    20:15  NK Celje (SVN)          v Shamrock Rovers (IRL)    1-0 (1-0)
+    20:45  Dinamo Minsk (BLR)      v Lincoln Red Imps (GIB)   2-0 (1-0)
+    21:30  Sporting Braga (POR)    v Servette FC (SUI)        0-0
+  Tue Aug 13
+    19:30  The New Saints (WAL)    v CS Petrocub (MDA)        0-0
+  Wed Aug 14
+    18:00  FK RFS (LVA)            v UE Santa Coloma (AND)    7-0 (5-0)
+  Thu Aug 15
+    18:00  Lincoln Red Imps (GIB)  v Dinamo Minsk (BLR)       2-1 (1-0)
            Rapid Wien (AUT)        v Trabzonspor (TUR)        2-0 (0-0)
-    19.00  IF Elfsborg (SWE)       v HNK Rijeka (CRO)         2-0 (0-0)
+    19:00  IF Elfsborg (SWE)       v HNK Rijeka (CRO)         2-0 (0-0)
            Viktoria Plzeň (CZE)    v Kryvbas Kryvyi Rih (UKR)  1-0 (0-0)
-    20.00  Cercle Brugge (BEL)     v Molde FK (NOR)           1-0 (1-0)
-    20.15  AFC Ajax (NED)          v Panathinaikos (GRE)      13-12 pen. 0-1 a.e.t. (0-1, 0-0)
-    20.30  Maccabi Tel Aviv (ISR)  v FK Panevėžys (LTU)       3-0 (1-0)
+    20:00  Cercle Brugge (BEL)     v Molde FK (NOR)           1-0 (1-0)
+    20:15  AFC Ajax (NED)          v Panathinaikos (GRE)      13-12 pen. 0-1 a.e.t. (0-1, 0-0)
+    20:30  Maccabi Tel Aviv (ISR)  v FK Panevėžys (LTU)       3-0 (1-0)
            FC Lugano (SUI)         v Partizan (SRB)           2-2 a.e.t. (1-2, 0-1)
            Servette FC (SUI)       v Sporting Braga (POR)     1-2 (0-1)
-    21.00  Borac Banja Luka (BIH)  v KÍ Klaksvík (FRO)        3-1 a.e.t. (2-1, 1-0)
+    21:00  Borac Banja Luka (BIH)  v KÍ Klaksvík (FRO)        3-1 a.e.t. (2-1, 1-0)
            Shamrock Rovers (IRL)   v NK Celje (SVN)           3-1 a.e.t. (2-1, 2-0)
 
 
-» Playoffs
-  Thu Aug/22
-    19.00  LASK (AUT)              v FCSB (ROU)               1-1 (1-1)
+▪ Playoffs
+  Thu Aug 22
+    19:00  LASK (AUT)              v FCSB (ROU)               1-1 (1-1)
            FK RFS (LVA)            v APOEL Nikosia (CYP)      2-1 (2-0)
            Molde FK (NOR)          v IF Elfsborg (SWE)        0-1 (0-1)
            Viktoria Plzeň (CZE)    v Heart of Midlothian (SCO)  1-0 (0-0)
-    19.30  PAOK Saloniki (GRE)     v Shamrock Rovers (IRL)    4-0 (1-0)
-    20.00  PFC Ludogorets Razgrad (BUL) v CS Petrocub (MDA)        4-0 (1-0)
+    19:30  PAOK Saloniki (GRE)     v Shamrock Rovers (IRL)    4-0 (1-0)
+    20:00  PFC Ludogorets Razgrad (BUL) v CS Petrocub (MDA)        4-0 (1-0)
            Maccabi Tel Aviv (ISR)  v TSC Bačka Topola (SRB)   3-0 (1-0)
-    20.30  FC Lugano (SUI)         v Beşiktaş (TUR)           3-3 (1-1)
-    20.45  Dinamo Minsk (BLR)      v RSC Anderlecht (BEL)     0-1 (0-1)
+    20:30  FC Lugano (SUI)         v Beşiktaş (TUR)           3-3 (1-1)
+    20:45  Dinamo Minsk (BLR)      v RSC Anderlecht (BEL)     0-1 (0-1)
            Jagiellonia Białystok (POL) v AFC Ajax (NED)           1-4 (1-2)
-    21.00  Ferencvárosi TC (HUN)   v Borac Banja Luka (BIH)   0-0
-    21.30  Sporting Braga (POR)    v Rapid Wien (AUT)         2-1 (1-1)
-  Thu Aug/29
-    19.00  CS Petrocub (MDA)       v PFC Ludogorets Razgrad (BUL)  1-2 (1-0)
+    21:00  Ferencvárosi TC (HUN)   v Borac Banja Luka (BIH)   0-0
+    21:30  Sporting Braga (POR)    v Rapid Wien (AUT)         2-1 (1-1)
+  Thu Aug 29
+    19:00  CS Petrocub (MDA)       v PFC Ludogorets Razgrad (BUL)  1-2 (1-0)
            APOEL Nikosia (CYP)     v FK RFS (LVA)             2-4 pen. 2-1 a.e.t. (2-1, 0-1)
            IF Elfsborg (SWE)       v Molde FK (NOR)           4-2 pen. 0-1 a.e.t. (0-1, 0-0)
-    20.00  RSC Anderlecht (BEL)    v Dinamo Minsk (BLR)       1-0 (0-0)
+    20:00  RSC Anderlecht (BEL)    v Dinamo Minsk (BLR)       1-0 (0-0)
            AFC Ajax (NED)          v Jagiellonia Białystok (POL)  3-0 (1-0)
            Beşiktaş (TUR)          v FC Lugano (SUI)          5-1 (1-0)
-    20.30  FCSB (ROU)              v LASK (AUT)               1-0 (0-0)
-    20.45  Heart of Midlothian (SCO) v Viktoria Plzeň (CZE)     0-1 (0-0)
-    21.00  TSC Bačka Topola (SRB)  v Maccabi Tel Aviv (ISR)   1-5 (0-3)
+    20:30  FCSB (ROU)              v LASK (AUT)               1-0 (0-0)
+    20:45  Heart of Midlothian (SCO) v Viktoria Plzeň (CZE)     0-1 (0-0)
+    21:00  TSC Bačka Topola (SRB)  v Maccabi Tel Aviv (ISR)   1-5 (0-3)
            Shamrock Rovers (IRL)   v PAOK Saloniki (GRE)      0-2 (0-0)
            Borac Banja Luka (BIH)  v Ferencvárosi TC (HUN)    2-3 pen. 1-1 a.e.t. (0-0)
            Rapid Wien (AUT)        v Sporting Braga (POR)     2-2 (1-0)

@@ -1,246 +1,246 @@
 = UEFA Conference League 2022/23
 
-# Date       Thu Sep/8 2022 - Wed Jun/7 2023 (272d)
+# Date       Thu Sep 8 2022 - Wed Jun 7 2023 (272d)
 # Teams      40
 # Matches    141
 
 
 
-» Group A
-  Thu Sep/8 2022
-    18.45  Heart of Midlothian (SCO) v İstanbul Başakşehir (TUR)  0-4 (0-1)
+▪ Group A
+  Thu Sep 8 2022
+    18:45  Heart of Midlothian (SCO) v İstanbul Başakşehir (TUR)  0-4 (0-1)
            ACF Fiorentina (ITA)    v FK RFS (LVA)             1-1 (0-0)
-  Thu Sep/15
-    21.00  İstanbul Başakşehir (TUR) v ACF Fiorentina (ITA)     3-0 (0-0)
+  Thu Sep 15
+    21:00  İstanbul Başakşehir (TUR) v ACF Fiorentina (ITA)     3-0 (0-0)
            FK RFS (LVA)            v Heart of Midlothian (SCO)  0-2 (0-1)
-  Thu Oct/6
-    21.00  Heart of Midlothian (SCO) v ACF Fiorentina (ITA)     0-3 (0-2)
+  Thu Oct 6
+    21:00  Heart of Midlothian (SCO) v ACF Fiorentina (ITA)     0-3 (0-2)
            FK RFS (LVA)            v İstanbul Başakşehir (TUR)  0-0
-  Thu Oct/13
-    18.45  ACF Fiorentina (ITA)    v Heart of Midlothian (SCO)  5-1 (4-0)
+  Thu Oct 13
+    18:45  ACF Fiorentina (ITA)    v Heart of Midlothian (SCO)  5-1 (4-0)
            İstanbul Başakşehir (TUR) v FK RFS (LVA)             3-0 (2-0)
-  Thu Oct/27
-    18.45  ACF Fiorentina (ITA)    v İstanbul Başakşehir (TUR)  2-1 (1-1)
-    21.00  Heart of Midlothian (SCO) v FK RFS (LVA)             2-1 (2-1)
-  Thu Nov/3
-    16.30  İstanbul Başakşehir (TUR) v Heart of Midlothian (SCO)  3-1 (2-0)
+  Thu Oct 27
+    18:45  ACF Fiorentina (ITA)    v İstanbul Başakşehir (TUR)  2-1 (1-1)
+    21:00  Heart of Midlothian (SCO) v FK RFS (LVA)             2-1 (2-1)
+  Thu Nov 3
+    16:30  İstanbul Başakşehir (TUR) v Heart of Midlothian (SCO)  3-1 (2-0)
            FK RFS (LVA)            v ACF Fiorentina (ITA)     0-3 (0-3)
 
 
-» Group B
-  Thu Sep/8
-    18.45  RSC Anderlecht (BEL)    v Silkeborg IF (DEN)       1-0 (0-0)
-    21.00  West Ham United (ENG)   v FCSB (ROU)               3-1 (0-1)
-  Thu Sep/15
-    21.00  FCSB (ROU)              v RSC Anderlecht (BEL)     0-0
+▪ Group B
+  Thu Sep 8
+    18:45  RSC Anderlecht (BEL)    v Silkeborg IF (DEN)       1-0 (0-0)
+    21:00  West Ham United (ENG)   v FCSB (ROU)               3-1 (0-1)
+  Thu Sep 15
+    21:00  FCSB (ROU)              v RSC Anderlecht (BEL)     0-0
            Silkeborg IF (DEN)      v West Ham United (ENG)    2-3 (1-3)
-  Thu Oct/6
-    18.45  RSC Anderlecht (BEL)    v West Ham United (ENG)    0-1 (0-0)
+  Thu Oct 6
+    18:45  RSC Anderlecht (BEL)    v West Ham United (ENG)    0-1 (0-0)
            Silkeborg IF (DEN)      v FCSB (ROU)               5-0 (3-0)
-  Thu Oct/13
-    21.00  West Ham United (ENG)   v RSC Anderlecht (BEL)     2-1 (2-0)
+  Thu Oct 13
+    21:00  West Ham United (ENG)   v RSC Anderlecht (BEL)     2-1 (2-0)
            FCSB (ROU)              v Silkeborg IF (DEN)       0-5 (0-2)
-  Thu Oct/27
-    18.45  RSC Anderlecht (BEL)    v FCSB (ROU)               2-2 (1-0)
-    21.00  West Ham United (ENG)   v Silkeborg IF (DEN)       1-0 (1-0)
-  Thu Nov/3
-    21.00  FCSB (ROU)              v West Ham United (ENG)    0-3 (0-1)
+  Thu Oct 27
+    18:45  RSC Anderlecht (BEL)    v FCSB (ROU)               2-2 (1-0)
+    21:00  West Ham United (ENG)   v Silkeborg IF (DEN)       1-0 (1-0)
+  Thu Nov 3
+    21:00  FCSB (ROU)              v West Ham United (ENG)    0-3 (0-1)
            Silkeborg IF (DEN)      v RSC Anderlecht (BEL)     0-2 (0-1)
 
 
-» Group C
-  Thu Sep/8
-    18.45  Austria Wien (AUT)      v Hapoel Be'er Sheva (ISR)  0-0
+▪ Group C
+  Thu Sep 8
+    18:45  Austria Wien (AUT)      v Hapoel Be'er Sheva (ISR)  0-0
            Villarreal CF (ESP)     v Lech Poznań (POL)        4-3 (3-1)
-  Thu Sep/15
-    21.00  Hapoel Be'er Sheva (ISR) v Villarreal CF (ESP)      1-2 (0-1)
+  Thu Sep 15
+    21:00  Hapoel Be'er Sheva (ISR) v Villarreal CF (ESP)      1-2 (0-1)
            Lech Poznań (POL)       v Austria Wien (AUT)       4-1 (1-1)
-  Thu Oct/6
-    18.45  Lech Poznań (POL)       v Hapoel Be'er Sheva (ISR)  0-0
-    21.00  Villarreal CF (ESP)     v Austria Wien (AUT)       5-0 (2-0)
-  Thu Oct/13
-    18.45  Austria Wien (AUT)      v Villarreal CF (ESP)      0-1 (0-0)
-    21.00  Hapoel Be'er Sheva (ISR) v Lech Poznań (POL)        1-1 (1-1)
-  Thu Oct/27
-    18.45  Villarreal CF (ESP)     v Hapoel Be'er Sheva (ISR)  2-2 (0-0)
+  Thu Oct 6
+    18:45  Lech Poznań (POL)       v Hapoel Be'er Sheva (ISR)  0-0
+    21:00  Villarreal CF (ESP)     v Austria Wien (AUT)       5-0 (2-0)
+  Thu Oct 13
+    18:45  Austria Wien (AUT)      v Villarreal CF (ESP)      0-1 (0-0)
+    21:00  Hapoel Be'er Sheva (ISR) v Lech Poznań (POL)        1-1 (1-1)
+  Thu Oct 27
+    18:45  Villarreal CF (ESP)     v Hapoel Be'er Sheva (ISR)  2-2 (0-0)
            Austria Wien (AUT)      v Lech Poznań (POL)        1-1 (0-0)
-  Thu Nov/3
-    21.00  Hapoel Be'er Sheva (ISR) v Austria Wien (AUT)       4-0 (2-0)
+  Thu Nov 3
+    21:00  Hapoel Be'er Sheva (ISR) v Austria Wien (AUT)       4-0 (2-0)
            Lech Poznań (POL)       v Villarreal CF (ESP)      3-0 (1-0)
 
 
-» Group D
-  Thu Sep/8
-    18.45  1. FC Slovácko (CZE)    v Partizan (SRB)           3-3 (2-0)
-    19.40  OGC Nice (FRA)          v 1. FC Köln (GER)         1-1 (0-1)
-  Thu Sep/15
-    21.00  Partizan (SRB)          v OGC Nice (FRA)           1-1 (0-1)
+▪ Group D
+  Thu Sep 8
+    18:45  1. FC Slovácko (CZE)    v Partizan (SRB)           3-3 (2-0)
+    19:40  OGC Nice (FRA)          v 1. FC Köln (GER)         1-1 (0-1)
+  Thu Sep 15
+    21:00  Partizan (SRB)          v OGC Nice (FRA)           1-1 (0-1)
            1. FC Köln (GER)        v 1. FC Slovácko (CZE)     4-2 (2-0)
-  Thu Oct/6
-    18.45  1. FC Slovácko (CZE)    v OGC Nice (FRA)           0-1 (0-0)
-    21.00  1. FC Köln (GER)        v Partizan (SRB)           0-1 (0-1)
-  Thu Oct/13
-    18.45  Partizan (SRB)          v 1. FC Köln (GER)         2-0 (1-0)
-    21.00  OGC Nice (FRA)          v 1. FC Slovácko (CZE)     1-2 (1-0)
-  Thu Oct/27
-    18.45  OGC Nice (FRA)          v Partizan (SRB)           2-1 (1-0)
-  Fri Oct/28
-    13.00  1. FC Slovácko (CZE)    v 1. FC Köln (GER)         0-1 (0-0)
-  Thu Nov/3
-    21.00  1. FC Köln (GER)        v OGC Nice (FRA)           2-2 (0-2)
+  Thu Oct 6
+    18:45  1. FC Slovácko (CZE)    v OGC Nice (FRA)           0-1 (0-0)
+    21:00  1. FC Köln (GER)        v Partizan (SRB)           0-1 (0-1)
+  Thu Oct 13
+    18:45  Partizan (SRB)          v 1. FC Köln (GER)         2-0 (1-0)
+    21:00  OGC Nice (FRA)          v 1. FC Slovácko (CZE)     1-2 (1-0)
+  Thu Oct 27
+    18:45  OGC Nice (FRA)          v Partizan (SRB)           2-1 (1-0)
+  Fri Oct 28
+    13:00  1. FC Slovácko (CZE)    v 1. FC Köln (GER)         0-1 (0-0)
+  Thu Nov 3
+    21:00  1. FC Köln (GER)        v OGC Nice (FRA)           2-2 (0-2)
            Partizan (SRB)          v 1. FC Slovácko (CZE)     1-1 (1-0)
 
 
-» Group E
-  Thu Sep/8
-    21.00  FC Vaduz (LIE)          v Apollon Limassol (CYP)   0-0
+▪ Group E
+  Thu Sep 8
+    21:00  FC Vaduz (LIE)          v Apollon Limassol (CYP)   0-0
            SK Dnipro-1 (UKR)       v AZ Alkmaar (NED)         0-1 (0-0)
-  Thu Sep/15
-    18.45  AZ Alkmaar (NED)        v FC Vaduz (LIE)           4-1 (1-1)
+  Thu Sep 15
+    18:45  AZ Alkmaar (NED)        v FC Vaduz (LIE)           4-1 (1-1)
            Apollon Limassol (CYP)  v SK Dnipro-1 (UKR)        1-3 (0-3)
-  Thu Oct/6
-    18.45  SK Dnipro-1 (UKR)       v FC Vaduz (LIE)           2-2 (1-1)
-    21.00  AZ Alkmaar (NED)        v Apollon Limassol (CYP)   3-2 (1-1)
-  Thu Oct/13
-    18.45  Apollon Limassol (CYP)  v AZ Alkmaar (NED)         1-0 (1-0)
-    21.00  FC Vaduz (LIE)          v SK Dnipro-1 (UKR)        1-2 (1-1)
-  Thu Oct/27
-    18.45  FC Vaduz (LIE)          v AZ Alkmaar (NED)         1-2 (0-0)
-    21.00  SK Dnipro-1 (UKR)       v Apollon Limassol (CYP)   1-0 (1-0)
-  Thu Nov/3
-    18.45  Apollon Limassol (CYP)  v FC Vaduz (LIE)           1-0 (1-0)
+  Thu Oct 6
+    18:45  SK Dnipro-1 (UKR)       v FC Vaduz (LIE)           2-2 (1-1)
+    21:00  AZ Alkmaar (NED)        v Apollon Limassol (CYP)   3-2 (1-1)
+  Thu Oct 13
+    18:45  Apollon Limassol (CYP)  v AZ Alkmaar (NED)         1-0 (1-0)
+    21:00  FC Vaduz (LIE)          v SK Dnipro-1 (UKR)        1-2 (1-1)
+  Thu Oct 27
+    18:45  FC Vaduz (LIE)          v AZ Alkmaar (NED)         1-2 (0-0)
+    21:00  SK Dnipro-1 (UKR)       v Apollon Limassol (CYP)   1-0 (1-0)
+  Thu Nov 3
+    18:45  Apollon Limassol (CYP)  v FC Vaduz (LIE)           1-0 (1-0)
            AZ Alkmaar (NED)        v SK Dnipro-1 (UKR)        2-1 (1-1)
 
 
-» Group F
-  Thu Sep/8
-    21.00  Molde FK (NOR)          v KAA Gent (BEL)           0-0
+▪ Group F
+  Thu Sep 8
+    21:00  Molde FK (NOR)          v KAA Gent (BEL)           0-0
            Shamrock Rovers (IRL)   v Djurgårdens IF (SWE)     0-0
-  Thu Sep/15
-    18.45  KAA Gent (BEL)          v Shamrock Rovers (IRL)    3-0 (2-0)
+  Thu Sep 15
+    18:45  KAA Gent (BEL)          v Shamrock Rovers (IRL)    3-0 (2-0)
            Djurgårdens IF (SWE)    v Molde FK (NOR)           3-2 (0-1)
-  Thu Oct/6
-    18.45  Molde FK (NOR)          v Shamrock Rovers (IRL)    3-0 (1-0)
-    21.00  KAA Gent (BEL)          v Djurgårdens IF (SWE)     0-1 (0-1)
-  Thu Oct/13
-    18.45  Djurgårdens IF (SWE)    v KAA Gent (BEL)           4-2 (3-0)
-    21.00  Shamrock Rovers (IRL)   v Molde FK (NOR)           0-2 (0-1)
-  Thu Oct/27
-    21.00  Shamrock Rovers (IRL)   v KAA Gent (BEL)           1-1 (1-0)
+  Thu Oct 6
+    18:45  Molde FK (NOR)          v Shamrock Rovers (IRL)    3-0 (1-0)
+    21:00  KAA Gent (BEL)          v Djurgårdens IF (SWE)     0-1 (0-1)
+  Thu Oct 13
+    18:45  Djurgårdens IF (SWE)    v KAA Gent (BEL)           4-2 (3-0)
+    21:00  Shamrock Rovers (IRL)   v Molde FK (NOR)           0-2 (0-1)
+  Thu Oct 27
+    21:00  Shamrock Rovers (IRL)   v KAA Gent (BEL)           1-1 (1-0)
            Molde FK (NOR)          v Djurgårdens IF (SWE)     2-3 (2-1)
-  Thu Nov/3
-    18.45  KAA Gent (BEL)          v Molde FK (NOR)           4-0 (0-0)
+  Thu Nov 3
+    18:45  KAA Gent (BEL)          v Molde FK (NOR)           4-0 (0-0)
            Djurgårdens IF (SWE)    v Shamrock Rovers (IRL)    1-0 (1-0)
 
 
-» Gruppe G
-  Thu Sep/8
-    18.45  KF Ballkani (KOS)       v CFR Cluj (ROU)           1-1 (0-0)
-    21.00  Sivasspor (TUR)         v Slavia Praha (CZE)       1-1 (1-1)
-  Thu Sep/15
-    18.45  CFR Cluj (ROU)          v Sivasspor (TUR)          0-1 (0-1)
+▪ Gruppe G
+  Thu Sep 8
+    18:45  KF Ballkani (KOS)       v CFR Cluj (ROU)           1-1 (0-0)
+    21:00  Sivasspor (TUR)         v Slavia Praha (CZE)       1-1 (1-1)
+  Thu Sep 15
+    18:45  CFR Cluj (ROU)          v Sivasspor (TUR)          0-1 (0-1)
            Slavia Praha (CZE)      v KF Ballkani (KOS)        3-2 (3-2)
-  Thu Oct/6
-    18.45  Sivasspor (TUR)         v KF Ballkani (KOS)        3-4 (1-2)
-    21.00  Slavia Praha (CZE)      v CFR Cluj (ROU)           0-1 (0-1)
-  Thu Oct/13
-    18.45  CFR Cluj (ROU)          v Slavia Praha (CZE)       2-0 (1-0)
-    21.00  KF Ballkani (KOS)       v Sivasspor (TUR)          1-2 (1-0)
-  Thu Oct/27
-    21.00  Sivasspor (TUR)         v CFR Cluj (ROU)           3-0 (1-0)
+  Thu Oct 6
+    18:45  Sivasspor (TUR)         v KF Ballkani (KOS)        3-4 (1-2)
+    21:00  Slavia Praha (CZE)      v CFR Cluj (ROU)           0-1 (0-1)
+  Thu Oct 13
+    18:45  CFR Cluj (ROU)          v Slavia Praha (CZE)       2-0 (1-0)
+    21:00  KF Ballkani (KOS)       v Sivasspor (TUR)          1-2 (1-0)
+  Thu Oct 27
+    21:00  Sivasspor (TUR)         v CFR Cluj (ROU)           3-0 (1-0)
            KF Ballkani (KOS)       v Slavia Praha (CZE)       0-1 (0-0)
-  Thu Nov/3
-    18.45  Slavia Praha (CZE)      v Sivasspor (TUR)          1-1 (0-1)
+  Thu Nov 3
+    18:45  Slavia Praha (CZE)      v Sivasspor (TUR)          1-1 (0-1)
            CFR Cluj (ROU)          v KF Ballkani (KOS)        1-0 (1-0)
 
 
-» Gruppe H
-  Thu Sep/8
-    21.00  Slovan Bratislava (SVK) v FK Žalgiris (LTU)        0-0
+▪ Gruppe H
+  Thu Sep 8
+    21:00  Slovan Bratislava (SVK) v FK Žalgiris (LTU)        0-0
            FC Basel 1893 (SUI)     v Pyunik FC (ARM)          3-1 (1-1)
-  Thu Sep/15
-    18.45  FK Žalgiris (LTU)       v FC Basel 1893 (SUI)      0-1 (0-0)
+  Thu Sep 15
+    18:45  FK Žalgiris (LTU)       v FC Basel 1893 (SUI)      0-1 (0-0)
            Pyunik FC (ARM)         v Slovan Bratislava (SVK)  2-0 (2-0)
-  Thu Oct/6
-    18.45  Pyunik FC (ARM)         v FK Žalgiris (LTU)        2-0 (1-0)
-    21.00  FC Basel 1893 (SUI)     v Slovan Bratislava (SVK)  0-2 (0-2)
-  Thu Oct/13
-    18.45  Slovan Bratislava (SVK) v FC Basel 1893 (SUI)      3-3 (1-1)
-    21.00  FK Žalgiris (LTU)       v Pyunik FC (ARM)          2-1 (2-0)
-  Thu Oct/27
-    21.00  FC Basel 1893 (SUI)     v FK Žalgiris (LTU)        2-2 (2-1)
+  Thu Oct 6
+    18:45  Pyunik FC (ARM)         v FK Žalgiris (LTU)        2-0 (1-0)
+    21:00  FC Basel 1893 (SUI)     v Slovan Bratislava (SVK)  0-2 (0-2)
+  Thu Oct 13
+    18:45  Slovan Bratislava (SVK) v FC Basel 1893 (SUI)      3-3 (1-1)
+    21:00  FK Žalgiris (LTU)       v Pyunik FC (ARM)          2-1 (2-0)
+  Thu Oct 27
+    21:00  FC Basel 1893 (SUI)     v FK Žalgiris (LTU)        2-2 (2-1)
            Slovan Bratislava (SVK) v Pyunik FC (ARM)          2-1 (0-0)
-  Thu Nov/3
-    18.45  FK Žalgiris (LTU)       v Slovan Bratislava (SVK)  1-2 (0-2)
+  Thu Nov 3
+    18:45  FK Žalgiris (LTU)       v Slovan Bratislava (SVK)  1-2 (0-2)
            Pyunik FC (ARM)         v FC Basel 1893 (SUI)      1-2 (0-2)
 
 
-» Playoffs
-  Thu Feb/16 2023
-    18.45  Qarabağ FK (AZE)        v KAA Gent (BEL)           1-0 (0-0)
+▪ Playoffs
+  Thu Feb 16 2023
+    18:45  Qarabağ FK (AZE)        v KAA Gent (BEL)           1-0 (0-0)
            Trabzonspor (TUR)       v FC Basel 1893 (SUI)      1-0 (0-0)
            FK Bodø/Glimt (NOR)     v Lech Poznań (POL)        0-0
            Sporting Braga (POR)    v ACF Fiorentina (ITA)     0-4 (0-1)
-    21.00  Lazio Roma (ITA)        v CFR Cluj (ROU)           1-0 (1-0)
+    21:00  Lazio Roma (ITA)        v CFR Cluj (ROU)           1-0 (1-0)
            AEK Larnaca (CYP)       v SK Dnipro-1 (UKR)        1-0 (0-0)
            FC Sheriff (MDA)        v Partizan (SRB)           0-1 (0-1)
            PFC Ludogorets Razgrad (BUL) v RSC Anderlecht (BEL)     1-0 (1-0)
-  Thu Feb/23
-    18.45  CFR Cluj (ROU)          v Lazio Roma (ITA)         0-0
+  Thu Feb 23
+    18:45  CFR Cluj (ROU)          v Lazio Roma (ITA)         0-0
            SK Dnipro-1 (UKR)       v AEK Larnaca (CYP)        0-0
            Partizan (SRB)          v FC Sheriff (MDA)         1-3 (1-2)
            RSC Anderlecht (BEL)    v PFC Ludogorets Razgrad (BUL)  3-0 pen. 2-1 a.e.t. (2-1, 1-0)
-    21.00  KAA Gent (BEL)          v Qarabağ FK (AZE)         5-3 pen. 1-0 a.e.t. (1-0, 0-0)
+    21:00  KAA Gent (BEL)          v Qarabağ FK (AZE)         5-3 pen. 1-0 a.e.t. (1-0, 0-0)
            FC Basel 1893 (SUI)     v Trabzonspor (TUR)        2-0 (1-0)
            Lech Poznań (POL)       v FK Bodø/Glimt (NOR)      1-0 (0-0)
            ACF Fiorentina (ITA)    v Sporting Braga (POR)     3-2 (1-2)
 
 
-» Round of 16
-  Tue Mar/7
-    18.45  Lazio Roma (ITA)        v AZ Alkmaar (NED)         1-2 (1-1)
-  Thu Mar/9
-    18.45  AEK Larnaca (CYP)       v West Ham United (ENG)    0-2 (0-2)
+▪ Round of 16
+  Tue Mar 7
+    18:45  Lazio Roma (ITA)        v AZ Alkmaar (NED)         1-2 (1-1)
+  Thu Mar 9
+    18:45  AEK Larnaca (CYP)       v West Ham United (ENG)    0-2 (0-2)
            FC Sheriff (MDA)        v OGC Nice (FRA)           0-1 (0-1)
            RSC Anderlecht (BEL)    v Villarreal CF (ESP)      1-1 (0-1)
-    21.00  ACF Fiorentina (ITA)    v Sivasspor (TUR)          1-0 (0-0)
+    21:00  ACF Fiorentina (ITA)    v Sivasspor (TUR)          1-0 (0-0)
            Lech Poznań (POL)       v Djurgårdens IF (SWE)     2-0 (1-0)
            FC Basel 1893 (SUI)     v Slovan Bratislava (SVK)  2-2 (2-1)
            KAA Gent (BEL)          v İstanbul Başakşehir (TUR)  1-1 (1-1)
-  Wed Mar/15
-    18.00  İstanbul Başakşehir (TUR) v KAA Gent (BEL)           1-4 (0-4)
-  Thu Mar/16
-    18.45  Sivasspor (TUR)         v ACF Fiorentina (ITA)     1-4 (1-1)
+  Wed Mar 15
+    18:00  İstanbul Başakşehir (TUR) v KAA Gent (BEL)           1-4 (0-4)
+  Thu Mar 16
+    18:45  Sivasspor (TUR)         v ACF Fiorentina (ITA)     1-4 (1-1)
            Djurgårdens IF (SWE)    v Lech Poznań (POL)        0-3 (0-0)
            Slovan Bratislava (SVK) v FC Basel 1893 (SUI)      1-4 pen. 2-2 a.e.t. (2-2, 2-0)
-    21.00  West Ham United (ENG)   v AEK Larnaca (CYP)        4-0 (1-0)
+    21:00  West Ham United (ENG)   v AEK Larnaca (CYP)        4-0 (1-0)
            AZ Alkmaar (NED)        v Lazio Roma (ITA)         2-1 (1-1)
            OGC Nice (FRA)          v FC Sheriff (MDA)         3-1 (1-0)
            Villarreal CF (ESP)     v RSC Anderlecht (BEL)     0-1 (0-0)
 
 
-» Quarterfinals
-  Thu Apr/13
-    18.45  KAA Gent (BEL)          v West Ham United (ENG)    1-1 (0-1)
-    21.00  Lech Poznań (POL)       v ACF Fiorentina (ITA)     1-4 (1-2)
+▪ Quarterfinals
+  Thu Apr 13
+    18:45  KAA Gent (BEL)          v West Ham United (ENG)    1-1 (0-1)
+    21:00  Lech Poznań (POL)       v ACF Fiorentina (ITA)     1-4 (1-2)
            RSC Anderlecht (BEL)    v AZ Alkmaar (NED)         2-0 (1-0)
            FC Basel 1893 (SUI)     v OGC Nice (FRA)           2-2 (1-2)
-  Thu Apr/20
-    18.45  ACF Fiorentina (ITA)    v Lech Poznań (POL)        2-3 (0-1)
+  Thu Apr 20
+    18:45  ACF Fiorentina (ITA)    v Lech Poznań (POL)        2-3 (0-1)
            AZ Alkmaar (NED)        v RSC Anderlecht (BEL)     4-1 pen. 2-0 a.e.t. (2-0, 2-0)
-    21.00  West Ham United (ENG)   v KAA Gent (BEL)           4-1 (1-1)
+    21:00  West Ham United (ENG)   v KAA Gent (BEL)           4-1 (1-1)
            OGC Nice (FRA)          v FC Basel 1893 (SUI)      1-2 a.e.t. (1-1, 1-0)
 
 
-» Semifinals
-  Thu May/11
-    21.00  ACF Fiorentina (ITA)    v FC Basel 1893 (SUI)      1-2 (1-0)
+▪ Semifinals
+  Thu May 11
+    21:00  ACF Fiorentina (ITA)    v FC Basel 1893 (SUI)      1-2 (1-0)
            West Ham United (ENG)   v AZ Alkmaar (NED)         2-1 (0-1)
-  Thu May/18
-    21.00  FC Basel 1893 (SUI)     v ACF Fiorentina (ITA)     1-3 a.e.t. (1-2, 0-1)
+  Thu May 18
+    21:00  FC Basel 1893 (SUI)     v ACF Fiorentina (ITA)     1-3 a.e.t. (1-2, 0-1)
            AZ Alkmaar (NED)        v West Ham United (ENG)    0-1 (0-0)
 
 
-» Final
-  Wed Jun/7
-    21.00  ACF Fiorentina (ITA)    v West Ham United (ENG)    1-2 (0-0)
+▪ Final
+  Wed Jun 7
+    21:00  ACF Fiorentina (ITA)    v West Ham United (ENG)    1-2 (0-0)

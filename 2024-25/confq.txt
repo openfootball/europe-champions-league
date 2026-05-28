@@ -1,82 +1,82 @@
 = UEFA Conference League - Quali 2024/25
 
-# Date       Wed Jul/10 - Thu Aug/29 2024 (50d)
+# Date       Wed Jul 10 - Thu Aug 29 2024 (50d)
 # Teams      152
 # Matches    256
 
 
 
-» Round 1
-  Wed Jul/10 2024
-    20.00  Velež Mostar (BIH)      v Inter Club d'Escaldes (AND)  1-1 (0-1)
-    21.00  FK Auda (LVA)           v B36 Tórshavn (FRO)       2-0 (1-0)
-  Thu Jul/11
-    17.00  FA Šiauliai (LTU)       v FCI Levadia (EST)        0-2 (0-2)
+▪ Round 1
+  Wed Jul 10 2024
+    20:00  Velež Mostar (BIH)      v Inter Club d'Escaldes (AND)  1-1 (0-1)
+    21:00  FK Auda (LVA)           v B36 Tórshavn (FRO)       2-0 (1-0)
+  Thu Jul 11
+    17:00  FA Šiauliai (LTU)       v FCI Levadia (EST)        0-2 (0-2)
            KF Malisheva (KOS)      v FK Budućnost Podgorica (MNE)  1-0 (0-0)
            FK Aktobe (KAZ)         v FK Sarajevo (BIH)        0-1 (0-0)
            FK Liepāja (LVA)        v Víkingur (FRO)           1-1 (0-1)
-    18.00  FCB Magpies (GIB)       v Derry City (IRL)         2-0 (0-0)
+    18:00  FCB Magpies (GIB)       v Derry City (IRL)         2-0 (0-0)
            NK Bravo (SVN)          v Connah's Quay Nomads (WAL)  0-1 (0-0)
            FC Noah (ARM)           v KF Shkëndija 79 (MKD)    2-0 (0-0)
-    18.30  JK Tallinna Kalev (EST) v FC Urartu (ARM)          1-2 (1-1)
+    18:30  JK Tallinna Kalev (EST) v FC Urartu (ARM)          1-2 (1-1)
            Atlétic Escaldes (AND)  v F91 Dudelange (LUX)      0-1 (0-1)
-    19.00  Floriana FC (MLT)       v SP Tre Penne (SMR)       3-1 (0-0)
+    19:00  Floriana FC (MLT)       v SP Tre Penne (SMR)       3-1 (0-0)
            Torpedo-BelAZ Zhodino (BLR) v FC Milsami (MDA)         2-4 (1-2)
            Torpedo Kutaisi (GEO)   v KF Tiranë (ALB)          1-1 (1-0)
            UNA Strassen (LUX)      v Kuopion PS (FIN)         0-0
            Vaasan PS (FIN)         v FK Žalgiris (LTU)        1-2 (0-1)
-    19.30  Caernarfon Town (WAL)   v Crusaders FC (NIR)       2-0 (2-0)
-    20.00  Bala Town (WAL)         v Paide Linnameeskond (EST)  1-2 (0-0)
+    19:30  Caernarfon Town (WAL)   v Crusaders FC (NIR)       2-0 (2-0)
+    20:00  Bala Town (WAL)         v Paide Linnameeskond (EST)  1-2 (0-0)
            FK Partizani (ALB)      v Marsaxlokk FC (MLT)      1-1 (1-1)
-    20.30  GFK Tikvesh (MKD)       v Breiðablik (ISL)         3-2 (0-2)
-    20.45  SP La Fiorita (SMR)     v FK Isloch Minsk (BLR)    0-1 (0-1)
+    20:30  GFK Tikvesh (MKD)       v Breiðablik (ISL)         3-2 (0-2)
+    20:45  SP La Fiorita (SMR)     v FK Isloch Minsk (BLR)    0-1 (0-1)
            Shelbourne FC (IRL)     v St. Joseph's FC (GIB)    2-1 (1-1)
            FK Mornar (MNE)         v Dinamo Tbilisi (GEO)     2-1 (2-0)
-    21.00  Valur Reykjavík (ISL)   v FK Vllaznia (ALB)        2-2 (1-1)
+    21:00  Valur Reykjavík (ISL)   v FK Vllaznia (ALB)        2-2 (1-1)
            UMF Stjarnan (ISL)      v Linfield FC (NIR)        2-0 (1-0)
-  Wed Jul/17
-    19.00  B36 Tórshavn (FRO)      v FK Auda (LVA)            0-1 (0-0)
-    20.45  Crusaders FC (NIR)      v Caernarfon Town (WAL)    7-8 pen. 3-1 a.e.t. (3-1, 0-1)
-  Thu Jul/18
-    17.00  FC Urartu (ARM)         v JK Tallinna Kalev (EST)  2-0 (1-0)
+  Wed Jul 17
+    19:00  B36 Tórshavn (FRO)      v FK Auda (LVA)            0-1 (0-0)
+    20:45  Crusaders FC (NIR)      v Caernarfon Town (WAL)    7-8 pen. 3-1 a.e.t. (3-1, 0-1)
+  Thu Jul 18
+    17:00  FC Urartu (ARM)         v JK Tallinna Kalev (EST)  2-0 (1-0)
            Kuopion PS (FIN)        v UNA Strassen (LUX)       5-0 (2-0)
-    18.00  Inter Club d'Escaldes (AND) v Velež Mostar (BIH)       5-1 (2-0)
+    18:00  Inter Club d'Escaldes (AND) v Velež Mostar (BIH)       5-1 (2-0)
            FC Milsami (MDA)        v Torpedo-BelAZ Zhodino (BLR)  0-0
            FCI Levadia (EST)       v FA Šiauliai (LTU)        0-0
            St. Joseph's FC (GIB)   v Shelbourne FC (IRL)      1-1 (1-1)
            FK Žalgiris (LTU)       v Vaasan PS (FIN)          1-0 (1-0)
-    18.30  Paide Linnameeskond (EST) v Bala Town (WAL)          1-1 a.e.t. (0-1, 0-1)
-    19.00  F91 Dudelange (LUX)     v Atlétic Escaldes (AND)   2-0 (0-0)
+    18:30  Paide Linnameeskond (EST) v Bala Town (WAL)          1-1 a.e.t. (0-1, 0-1)
+    19:00  F91 Dudelange (LUX)     v Atlétic Escaldes (AND)   2-0 (0-0)
            Marsaxlokk FC (MLT)     v FK Partizani (ALB)       1-2 (0-0)
            Dinamo Tbilisi (GEO)    v FK Mornar (MNE)          1-1 (1-0)
-    19.30  FK Isloch Minsk (BLR)   v SP La Fiorita (SMR)      2-4 pen. 0-1 a.e.t. (0-1, 0-0)
+    19:30  FK Isloch Minsk (BLR)   v SP La Fiorita (SMR)      2-4 pen. 0-1 a.e.t. (0-1, 0-0)
            Connah's Quay Nomads (WAL) v NK Bravo (SVN)           0-2 a.e.t. (0-1, 0-0)
-    20.00  KF Tiranë (ALB)         v Torpedo Kutaisi (GEO)    0-1 (0-1)
+    20:00  KF Tiranë (ALB)         v Torpedo Kutaisi (GEO)    0-1 (0-1)
            Víkingur (FRO)          v FK Liepāja (LVA)         2-0 (2-0)
            KF Shkëndija 79 (MKD)   v FC Noah (ARM)            1-2 (0-1)
-    20.30  FK Vllaznia (ALB)       v Valur Reykjavík (ISL)    0-4 (0-3)
-    20.45  SP Tre Penne (SMR)      v Floriana FC (MLT)        1-1 (0-0)
+    20:30  FK Vllaznia (ALB)       v Valur Reykjavík (ISL)    0-4 (0-3)
+    20:45  SP Tre Penne (SMR)      v Floriana FC (MLT)        1-1 (0-0)
            Derry City (IRL)        v FCB Magpies (GIB)        2-1 a.e.t. (2-0, 1-0)
            Linfield FC (NIR)       v UMF Stjarnan (ISL)       3-2 (1-0)
-    21.00  FK Budućnost Podgorica (MNE) v KF Malisheva (KOS)       3-0 (1-0)
+    21:00  FK Budućnost Podgorica (MNE) v KF Malisheva (KOS)       3-0 (1-0)
            FK Sarajevo (BIH)       v FK Aktobe (KAZ)          4-3 pen. 2-3 a.e.t. (1-2, 0-1)
-    21.15  Breiðablik (ISL)        v GFK Tikvesh (MKD)        3-1 (1-1)
+    21:15  Breiðablik (ISL)        v GFK Tikvesh (MKD)        3-1 (1-1)
 
 
-» Round 2
-  Tue Jul/23
-    18.00  KF Ballkani (KOS)       v Hamrun Spartans (MLT)    0-0
-    19.00  FC Differdange 03 (LUX) v FK Ordabasy (KAZ)        1-0 (1-0)
-    21.00  SS Virtus (SMR)         v FC Flora (EST)           0-0
-  Wed Jul/24
-    17.00  FC Struga (MKD)         v Pyunik FC (ARM)          2-1 (1-1)
-    18.00  Riga FC (LVA)           v Śląsk Wrocław (POL)      1-0 (1-0)
-    19.00  Dinamo Batumi (GEO)     v FK Dečić Tuzi (MNE)      0-2 (0-0)
-    20.00  AEK Athen (GRE)         v Inter Club d'Escaldes (AND)  4-3 (3-0)
-    20.45  Cliftonville FC (NIR)   v FK Auda (LVA)            1-2 (1-1)
-  Thu Jul/25
-    17.00  Kuopion PS (FIN)        v Tromsø IL (NOR)          0-1 (0-0)
-    18.00  Sumgayıt FK (AZE)       v Fehérvár FC (HUN)        1-2 (1-1)
+▪ Round 2
+  Tue Jul 23
+    18:00  KF Ballkani (KOS)       v Hamrun Spartans (MLT)    0-0
+    19:00  FC Differdange 03 (LUX) v FK Ordabasy (KAZ)        1-0 (1-0)
+    21:00  SS Virtus (SMR)         v FC Flora (EST)           0-0
+  Wed Jul 24
+    17:00  FC Struga (MKD)         v Pyunik FC (ARM)          2-1 (1-1)
+    18:00  Riga FC (LVA)           v Śląsk Wrocław (POL)      1-0 (1-0)
+    19:00  Dinamo Batumi (GEO)     v FK Dečić Tuzi (MNE)      0-2 (0-0)
+    20:00  AEK Athen (GRE)         v Inter Club d'Escaldes (AND)  4-3 (3-0)
+    20:45  Cliftonville FC (NIR)   v FK Auda (LVA)            1-2 (1-1)
+  Thu Jul 25
+    17:00  Kuopion PS (FIN)        v Tromsø IL (NOR)          0-1 (0-0)
+    18:00  Sumgayıt FK (AZE)       v Fehérvár FC (HUN)        1-2 (1-1)
            Ilves Tampere (FIN)     v Austria Wien (AUT)       2-1 (0-0)
            FCB Magpies (GIB)       v FC København (DEN)       0-3 (0-1)
            FK Žalgiris (LTU)       v Paphos FC (CYP)          2-1 (2-0)
@@ -84,11 +84,11 @@
            FC Noah (ARM)           v Sliema Wanderers (MLT)   7-0 (3-0)
            FC Iberia 1999 (GEO)    v FK Partizani (ALB)       2-0 (1-0)
            FC Milsami (MDA)        v FK Astana (KAZ)          1-1 (0-0)
-    18.30  Go Ahead Eagles (NED)   v SK Brann (NOR)           0-0
+    18:30  Go Ahead Eagles (NED)   v SK Brann (NOR)           0-0
            Omonia Nikosia (CYP)    v Torpedo Kutaisi (GEO)    3-1 (1-0)
            Zira FK (AZE)           v FC DAC 1904 (SVK)        4-0 (2-0)
-    18.45  FC Zimbru (MDA)         v FC Ararat-Armenia (ARM)  0-3 (0-1)
-    19.00  Olimpija Ljubljana (SVN) v Polissya Zhytomyr (UKR)  2-0 (0-0)
+    18:45  FC Zimbru (MDA)         v FC Ararat-Armenia (ARM)  0-3 (0-1)
+    19:00  Olimpija Ljubljana (SVN) v Polissya Zhytomyr (UKR)  2-0 (0-0)
            SK Dnipro-1 (UKR)       v Puskás FC (HUN)          0-3    [awarded]
            Djurgårdens IF (SWE)    v Progrès Niedercorn (LUX)  3-0 (2-0)
            F91 Dudelange (LUX)     v BK Häcken (SWE)          2-6 (2-4)
@@ -97,55 +97,55 @@
            Baník Ostrava (CZE)     v FC Urartu (ARM)          5-1 (3-0)
            FC Zürich (SUI)         v Shelbourne FC (IRL)      3-0 (2-0)
            Brøndby IF (DEN)        v KF Llapi (KOS)           6-0 (4-0)
-    19.15  Maccabi Haifa (ISR)     v Sabah FK (AZE)           0-3 (0-0)
-    19.30  CSKA 1948 Sofia (BUL)   v FK Budućnost Podgorica (MNE)  1-0 (1-0)
+    19:15  Maccabi Haifa (ISR)     v Sabah FK (AZE)           0-3 (0-0)
+    19:30  CSKA 1948 Sofia (BUL)   v FK Budućnost Podgorica (MNE)  1-0 (1-0)
            CFR Cluj (ROU)          v Neman Grodno (BLR)       0-0
-    19.45  İstanbul Başakşehir (TUR) v SP La Fiorita (SMR)      6-1 (4-0)
-    20.00  NK Osijek (CRO)         v FCI Levadia (EST)        5-1 (4-1)
+    19:45  İstanbul Başakşehir (TUR) v SP La Fiorita (SMR)      6-1 (4-0)
+    20:00  NK Osijek (CRO)         v FCI Levadia (EST)        5-1 (4-1)
            KAA Gent (BEL)          v Víkingur (FRO)           4-1 (1-1)
            FC St. Gallen (SUI)     v Tobyl Kostanay (KAZ)     4-1 (2-1)
            FK Radnički 1923 (SRB)  v FK Mornar (MNE)          1-0 (0-0)
            Paksi SE (HUN)          v AEK Larnaca (CYP)        3-0 (1-0)
-    20.15  NK Maribor (SVN)        v CS Universitatea Craiova (ROU)  2-0 (0-0)
-    20.45  Víkingur Reykjavík (ISL) v Egnatia Rrogozhine (ALB)  0-1 (0-1)
+    20:15  NK Maribor (SVN)        v CS Universitatea Craiova (ROU)  2-0 (0-0)
+    20:45  Víkingur Reykjavík (ISL) v Egnatia Rrogozhine (ALB)  0-1 (0-1)
            Valur Reykjavík (ISL)   v St. Mirren FC (SCO)      0-0
            St Patrick's Athletic (IRL) v FC Vaduz (LIE)           3-1 (2-0)
            Legia Warszawa (POL)    v Caernarfon Town (WAL)    6-0 (2-0)
-    21.00  Hajduk Split (CRO)      v HB Tórshavn (FRO)        2-0 (2-0)
+    21:00  Hajduk Split (CRO)      v HB Tórshavn (FRO)        2-0 (2-0)
            Zrinjski Mostar (BIH)   v NK Bravo (SVN)           0-1 (0-1)
            UMF Stjarnan (ISL)      v Paide Linnameeskond (EST)  2-1 (1-0)
            FK Sarajevo (BIH)       v Spartak Trnava (SVK)     0-0
-    21.15  Breiðablik (ISL)        v Drita Gjilan (KOS)       1-2 (0-2)
-  Tue Jul/30
-    17.00  Drita Gjilan (KOS)      v Breiðablik (ISL)         1-0 (0-0)
-    18.00  FC Flora (EST)          v SS Virtus (SMR)          5-2 a.e.t. (2-2, 1-0)
+    21:15  Breiðablik (ISL)        v Drita Gjilan (KOS)       1-2 (0-2)
+  Tue Jul 30
+    17:00  Drita Gjilan (KOS)      v Breiðablik (ISL)         1-0 (0-0)
+    18:00  FC Flora (EST)          v SS Virtus (SMR)          5-2 a.e.t. (2-2, 1-0)
            Pyunik FC (ARM)         v FC Struga (MKD)          3-1 (2-1)
-    20.00  Hamrun Spartans (MLT)   v KF Ballkani (KOS)        0-2 (0-0)
-    21.00  FK Dečić Tuzi (MNE)     v Dinamo Batumi (GEO)      0-0
-  Wed Jul/31
-    17.00  FK Auda (LVA)           v Cliftonville FC (NIR)    2-0 (0-0)
-    19.00  Fehérvár FC (HUN)       v Sumgayıt FK (AZE)        0-0
+    20:00  Hamrun Spartans (MLT)   v KF Ballkani (KOS)        0-2 (0-0)
+    21:00  FK Dečić Tuzi (MNE)     v Dinamo Batumi (GEO)      0-0
+  Wed Jul 31
+    17:00  FK Auda (LVA)           v Cliftonville FC (NIR)    2-0 (0-0)
+    19:00  Fehérvár FC (HUN)       v Sumgayıt FK (AZE)        0-0
            BK Häcken (SWE)         v F91 Dudelange (LUX)      6-1 (3-1)
-    20.30  Austria Wien (AUT)      v Ilves Tampere (FIN)      4-5 pen. 4-3 a.e.t. (3-2, 2-1)
+    20:30  Austria Wien (AUT)      v Ilves Tampere (FIN)      4-5 pen. 4-3 a.e.t. (3-2, 2-1)
            Spartak Trnava (SVK)    v FK Sarajevo (BIH)        3-0 (2-0)
-    20.45  FK Mornar (MNE)         v FK Radnički 1923 (SRB)   4-3 pen. 2-1 a.e.t. (2-1, 1-0)
-  Thu Aug/1
-    16.00  FK Astana (KAZ)         v FC Milsami (MDA)         1-0 (0-0)
-    17.00  FK Ordabasy (KAZ)       v FC Differdange 03 (LUX)  4-3 pen. 4-3 a.e.t. (3-2, 1-1)
+    20:45  FK Mornar (MNE)         v FK Radnički 1923 (SRB)   4-3 pen. 2-1 a.e.t. (2-1, 1-0)
+  Thu Aug 1
+    16:00  FK Astana (KAZ)         v FC Milsami (MDA)         1-0 (0-0)
+    17:00  FK Ordabasy (KAZ)       v FC Differdange 03 (LUX)  4-3 pen. 4-3 a.e.t. (3-2, 1-1)
            NK Bravo (SVN)          v Zrinjski Mostar (BIH)    1-3 (1-1)
            FC Urartu (ARM)         v Baník Ostrava (CZE)      0-2 (0-1)
            KF Llapi (KOS)          v Brøndby IF (DEN)         2-2 (1-0)
            FC Ararat-Armenia (ARM) v FC Zimbru (MDA)          3-1 (1-0)
-    18.00  FCI Levadia (EST)       v NK Osijek (CRO)          0-1 (0-0)
+    18:00  FCI Levadia (EST)       v NK Osijek (CRO)          0-1 (0-0)
            Polissya Zhytomyr (UKR) v Olimpija Ljubljana (SVN)  1-2 (1-1)
            Paphos FC (CYP)         v FK Žalgiris (LTU)        3-0 a.e.t. (1-0, 1-0)
            Tobyl Kostanay (KAZ)    v FC St. Gallen (SUI)      0-1 (0-0)
            FK TransINVEST (LTU)    v FK Mladá Boleslav (CZE)  0-1 (0-0)
            Sabah FK (AZE)          v Maccabi Haifa (ISR)      3-2 pen. 3-6 a.e.t. (2-5, 0-1)
            AEK Larnaca (CYP)       v Paksi SE (HUN)           0-2 (0-2)
-    18.30  Inter Club d'Escaldes (AND) v AEK Athen (GRE)          0-4 (0-1)
+    18:30  Inter Club d'Escaldes (AND) v AEK Athen (GRE)          0-4 (0-1)
            Paide Linnameeskond (EST) v UMF Stjarnan (ISL)       4-0 (1-0)
-    19.00  SK Brann (NOR)          v Go Ahead Eagles (NED)    2-1 (1-1)
+    19:00  SK Brann (NOR)          v Go Ahead Eagles (NED)    2-1 (1-1)
            Torpedo Kutaisi (GEO)   v Omonia Nikosia (CYP)     1-2 (0-1)
            Tromsø IL (NOR)         v Kuopion PS (FIN)         1-0 (1-0)
            CS Universitatea Craiova (ROU) v NK Maribor (SVN)         3-2 (0-0)
@@ -153,70 +153,70 @@
            Caernarfon Town (WAL)   v Legia Warszawa (POL)     0-5 (0-0)
            Progrès Niedercorn (LUX) v Djurgårdens IF (SWE)     1-0 (1-0)
            Sliema Wanderers (MLT)  v FC Noah (ARM)            0-0
-    19.30  FC Vaduz (LIE)          v St Patrick's Athletic (IRL)  2-2 (1-1)
+    19:30  FC Vaduz (LIE)          v St Patrick's Athletic (IRL)  2-2 (1-1)
            Cherno More Varna (BUL) v Hapoel Be'er Sheva (ISR)  1-2 (1-1)
-    20.00  Egnatia Rrogozhine (ALB) v Víkingur Reykjavík (ISL)  0-2 (0-1)
+    20:00  Egnatia Rrogozhine (ALB) v Víkingur Reykjavík (ISL)  0-2 (0-1)
            Víkingur (FRO)          v KAA Gent (BEL)           0-3 (0-0)
            Neman Grodno (BLR)      v CFR Cluj (ROU)           0-5 (0-2)
            FK Partizani (ALB)      v FC Iberia 1999 (GEO)     0-0
-    20.30  FC DAC 1904 (SVK)       v Zira FK (AZE)            1-2 (1-1)
+    20:30  FC DAC 1904 (SVK)       v Zira FK (AZE)            1-2 (1-1)
            Śląsk Wrocław (POL)     v Riga FC (LVA)            3-1 (1-1)
-    20.45  St. Mirren FC (SCO)     v Valur Reykjavík (ISL)    4-1 (1-0)
+    20:45  St. Mirren FC (SCO)     v Valur Reykjavík (ISL)    4-1 (1-0)
            SP La Fiorita (SMR)     v İstanbul Başakşehir (TUR)  0-4 (0-3)
            Shelbourne FC (IRL)     v FC Zürich (SUI)          0-0
-    21.00  FK Budućnost Podgorica (MNE) v CSKA 1948 Sofia (BUL)    1-1 a.e.t. (1-0, 0-0)
+    21:00  FK Budućnost Podgorica (MNE) v CSKA 1948 Sofia (BUL)    1-1 a.e.t. (1-0, 0-0)
            Puskás FC (HUN)         v SK Dnipro-1 (UKR)        3-0    [awarded]
            HB Tórshavn (FRO)       v Hajduk Split (CRO)       0-0
-    21.15  Vitória Guimarães (POR) v Floriana FC (MLT)        4-0 (4-0)
+    21:15  Vitória Guimarães (POR) v Floriana FC (MLT)        4-0 (4-0)
 
 
-» Round 3
-  Tue Aug/6
-    18.00  FC Noah (ARM)           v AEK Athen (GRE)          3-1 (1-1)
-  Wed Aug/7
-    19.00  Paksi SE (HUN)          v FK Mornar (MNE)          3-0 (0-0)
+▪ Round 3
+  Tue Aug 6
+    18:00  FC Noah (ARM)           v AEK Athen (GRE)          3-1 (1-1)
+  Wed Aug 7
+    19:00  Paksi SE (HUN)          v FK Mornar (MNE)          3-0 (0-0)
            BK Häcken (SWE)         v Paide Linnameeskond (EST)  6-1 (3-1)
            FC København (DEN)      v Baník Ostrava (CZE)      1-0 (0-0)
-    20.30  FC St. Gallen (SUI)     v Śląsk Wrocław (POL)      2-0 (2-0)
-  Thu Aug/8
-    17.00  FK Ordabasy (KAZ)       v Pyunik FC (ARM)          0-1 (0-0)
+    20:30  FC St. Gallen (SUI)     v Śląsk Wrocław (POL)      2-0 (2-0)
+  Thu Aug 8
+    17:00  FK Ordabasy (KAZ)       v Pyunik FC (ARM)          0-1 (0-0)
            FC Ararat-Armenia (ARM) v Puskás FC (HUN)          0-1 (0-0)
            FK Auda (LVA)           v Drita Gjilan (KOS)       1-0 (1-0)
-    18.00  HJK Helsinki (FIN)      v FK Dečić Tuzi (MNE)      1-0 (0-0)
+    18:00  HJK Helsinki (FIN)      v FK Dečić Tuzi (MNE)      1-0 (0-0)
            FK Mladá Boleslav (CZE) v Hapoel Be'er Sheva (ISR)  1-1 (1-0)
            Ilves Tampere (FIN)     v Djurgårdens IF (SWE)     1-1 (0-0)
            FC Iberia 1999 (GEO)    v İstanbul Başakşehir (TUR)  0-1 (0-0)
-    18.30  MFK Ružomberok (SVK)    v Hajduk Split (CRO)       0-0
+    18:30  MFK Ružomberok (SVK)    v Hajduk Split (CRO)       0-0
            Silkeborg IF (DEN)      v KAA Gent (BEL)           2-2 (0-0)
-    19.00  FC Zürich (SUI)         v Vitória Guimarães (POR)  0-3 (0-0)
+    19:00  FC Zürich (SUI)         v Vitória Guimarães (POR)  0-3 (0-0)
            Brøndby IF (DEN)        v Legia Warszawa (POL)     2-3 (2-1)
            Omonia Nikosia (CYP)    v Fehérvár FC (HUN)        1-0 (0-0)
            Olimpija Ljubljana (SVN) v FC Sheriff (MDA)         3-0 (1-0)
-    19.30  CSKA 1948 Sofia (BUL)   v Paphos FC (CYP)          2-1 (1-1)
-    20.00  KF Ballkani (KOS)       v Larne FC (NIR)           0-1 (0-0)
+    19:30  CSKA 1948 Sofia (BUL)   v Paphos FC (CYP)          2-1 (1-1)
+    20:00  KF Ballkani (KOS)       v Larne FC (NIR)           0-1 (0-0)
            Kilmarnock FC (SCO)     v Tromsø IL (NOR)          2-2 (1-0)
            FC Corvinul Hunedoara (ROU) v FK Astana (KAZ)          1-2 (1-0)
            Maccabi Petach-Tikva (ISR) v CFR Cluj (ROU)           0-1 (0-1)
            NK Osijek (CRO)         v Zira FK (AZE)            1-1 (1-0)
            Botev Plovdiv (BUL)     v Zrinjski Mostar (BIH)    2-1 (1-0)
-    20.15  Víkingur Reykjavík (ISL) v FC Flora (EST)           1-1 (1-1)
+    20:15  Víkingur Reykjavík (ISL) v FC Flora (EST)           1-1 (1-1)
            NK Maribor (SVN)        v Vojvodina (SRB)          2-1 (0-0)
-    20.30  Spartak Trnava (SVK)    v Wisła Kraków (POL)       3-1 (0-1)
-    20.45  St Patrick's Athletic (IRL) v Sabah FK (AZE)           1-0 (1-0)
+    20:30  Spartak Trnava (SVK)    v Wisła Kraków (POL)       3-1 (0-1)
+    20:45  St Patrick's Athletic (IRL) v Sabah FK (AZE)           1-0 (1-0)
            St. Mirren FC (SCO)     v SK Brann (NOR)           1-1 (0-0)
-  Tue Aug/13
-    18.30  Paide Linnameeskond (EST) v BK Häcken (SWE)          1-1 (1-1)
-    20.45  FK Mornar (MNE)         v Paksi SE (HUN)           2-2 (1-1)
-  Wed Aug/14
-    16.00  FK Astana (KAZ)         v FC Corvinul Hunedoara (ROU)  6-1 (1-0)
-    18.00  Fehérvár FC (HUN)       v Omonia Nikosia (CYP)     0-2 (0-1)
-  Thu Aug/15
-    18.00  FC Flora (EST)          v Víkingur Reykjavík (ISL)  1-2 (0-2)
+  Tue Aug 13
+    18:30  Paide Linnameeskond (EST) v BK Häcken (SWE)          1-1 (1-1)
+    20:45  FK Mornar (MNE)         v Paksi SE (HUN)           2-2 (1-1)
+  Wed Aug 14
+    16:00  FK Astana (KAZ)         v FC Corvinul Hunedoara (ROU)  6-1 (1-0)
+    18:00  Fehérvár FC (HUN)       v Omonia Nikosia (CYP)     0-2 (0-1)
+  Thu Aug 15
+    18:00  FC Flora (EST)          v Víkingur Reykjavík (ISL)  1-2 (0-2)
            Pyunik FC (ARM)         v FK Ordabasy (KAZ)        1-0 (0-0)
            Sabah FK (AZE)          v St Patrick's Athletic (IRL)  0-1 (0-0)
            Legia Warszawa (POL)    v Brøndby IF (DEN)         1-1 (1-1)
-    18.30  Zira FK (AZE)           v NK Osijek (CRO)          2-1 pen. 2-2 a.e.t. (2-2, 0-1)
-    19.00  Hapoel Be'er Sheva (ISR) v FK Mladá Boleslav (CZE)  2-4 (2-0)
+    18:30  Zira FK (AZE)           v NK Osijek (CRO)          2-1 pen. 2-2 a.e.t. (2-2, 0-1)
+    19:00  Hapoel Be'er Sheva (ISR) v FK Mladá Boleslav (CZE)  2-4 (2-0)
            Tromsø IL (NOR)         v Kilmarnock FC (SCO)      0-1 (0-1)
            SK Brann (NOR)          v St. Mirren FC (SCO)      3-1 (1-0)
            Paphos FC (CYP)         v CSKA 1948 Sofia (BUL)    4-0 a.e.t. (1-0, 0-0)
@@ -224,72 +224,72 @@
            CFR Cluj (ROU)          v Maccabi Petach-Tikva (ISR)  1-0 (0-0)
            Baník Ostrava (CZE)     v FC København (DEN)       1-2 pen. 1-0 a.e.t. (1-0, 1-0)
            FC Sheriff (MDA)        v Olimpija Ljubljana (SVN)  0-1 (0-0)
-    19.30  AEK Athen (GRE)         v FC Noah (ARM)            1-0 (0-0)
-    19.45  İstanbul Başakşehir (TUR) v FC Iberia 1999 (GEO)     2-0 (0-0)
-    20.00  Vojvodina (SRB)         v NK Maribor (SVN)         2-4 pen. 1-0 a.e.t. (1-0, 1-0)
+    19:30  AEK Athen (GRE)         v FC Noah (ARM)            1-0 (0-0)
+    19:45  İstanbul Başakşehir (TUR) v FC Iberia 1999 (GEO)     2-0 (0-0)
+    20:00  Vojvodina (SRB)         v NK Maribor (SVN)         2-4 pen. 1-0 a.e.t. (1-0, 1-0)
            Drita Gjilan (KOS)      v FK Auda (LVA)            3-1 a.e.t. (1-0, 0-0)
            Zrinjski Mostar (BIH)   v Botev Plovdiv (BUL)      2-0 (1-0)
-    20.30  Wisła Kraków (POL)      v Spartak Trnava (SVK)     12-11 pen. 3-1 a.e.t. (2-0, 1-0)
+    20:30  Wisła Kraków (POL)      v Spartak Trnava (SVK)     12-11 pen. 3-1 a.e.t. (2-0, 1-0)
            KAA Gent (BEL)          v Silkeborg IF (DEN)       3-2 a.e.t. (2-2, 1-1)
            Śląsk Wrocław (POL)     v FC St. Gallen (SUI)      3-2 (3-1)
-    21.00  Larne FC (NIR)          v KF Ballkani (KOS)        4-1 pen. 0-1 a.e.t. (0-1, 0-1)
+    21:00  Larne FC (NIR)          v KF Ballkani (KOS)        4-1 pen. 0-1 a.e.t. (0-1, 0-1)
            FK Dečić Tuzi (MNE)     v HJK Helsinki (FIN)       3-4 pen. 2-1 a.e.t. (2-1, 1-1)
            Puskás FC (HUN)         v FC Ararat-Armenia (ARM)  3-3 (1-2)
            Hajduk Split (CRO)      v MFK Ružomberok (SVK)     0-1 (0-1)
-    21.15  Vitória Guimarães (POR) v FC Zürich (SUI)          2-0 (0-0)
+    21:15  Vitória Guimarães (POR) v FC Zürich (SUI)          2-0 (0-0)
 
 
-» Playoffs
-  Tue Aug/20
-    18.00  FC Noah (ARM)           v MFK Ružomberok (SVK)     3-0 (1-0)
-  Wed Aug/21
-    18.45  Vitória Guimarães (POR) v Zrinjski Mostar (BIH)    3-0 (0-0)
-  Thu Aug/22
-    18.00  Pyunik FC (ARM)         v NK Celje (SVN)           1-0 (0-0)
+▪ Playoffs
+  Tue Aug 20
+    18:00  FC Noah (ARM)           v MFK Ružomberok (SVK)     3-0 (1-0)
+  Wed Aug 21
+    18:45  Vitória Guimarães (POR) v Zrinjski Mostar (BIH)    3-0 (0-0)
+  Thu Aug 22
+    18:00  Pyunik FC (ARM)         v NK Celje (SVN)           1-0 (0-0)
            Legia Warszawa (POL)    v Drita Gjilan (KOS)       2-0 (0-0)
            FK Mladá Boleslav (CZE) v Paksi SE (HUN)           2-2 (0-0)
-    18.30  FK Panevėžys (LTU)      v The New Saints (WAL)     0-3 (0-0)
-    19.00  Omonia Nikosia (CYP)    v Zira FK (AZE)            6-0 (3-0)
+    18:30  FK Panevėžys (LTU)      v The New Saints (WAL)     0-3 (0-0)
+    19:00  Omonia Nikosia (CYP)    v Zira FK (AZE)            6-0 (3-0)
            Djurgårdens IF (SWE)    v NK Maribor (SVN)         1-0 (0-0)
            SK Brann (NOR)          v FK Astana (KAZ)          2-0 (1-0)
            BK Häcken (SWE)         v 1. FC Heidenheim 1846 (GER)  1-2 (1-1)
            FC København (DEN)      v Kilmarnock FC (SCO)      2-0 (0-0)
-    19.30  CFR Cluj (ROU)          v Paphos FC (CYP)          1-0 (1-0)
-    20.00  Víkingur Reykjavík (ISL) v UE Santa Coloma (AND)    5-0 (1-0)
+    19:30  CFR Cluj (ROU)          v Paphos FC (CYP)          1-0 (1-0)
+    20:00  Víkingur Reykjavík (ISL) v UE Santa Coloma (AND)    5-0 (1-0)
            HNK Rijeka (CRO)        v Olimpija Ljubljana (SVN)  1-1 (1-0)
            ACF Fiorentina (ITA)    v Puskás FC (HUN)          3-3 (1-2)
            Kryvbas Kryvyi Rih (UKR) v Real Betis (ESP)         0-2 (0-1)
-    20.15  Partizan (SRB)          v KAA Gent (BEL)           0-1 (0-1)
-    20.30  Wisła Kraków (POL)      v Cercle Brugge (BEL)      1-6 (0-3)
-    20.45  KÍ Klaksvík (FRO)       v HJK Helsinki (FIN)       2-2 (0-1)
+    20:15  Partizan (SRB)          v KAA Gent (BEL)           0-1 (0-1)
+    20:30  Wisła Kraków (POL)      v Cercle Brugge (BEL)      1-6 (0-3)
+    20:45  KÍ Klaksvík (FRO)       v HJK Helsinki (FIN)       2-2 (0-1)
            St Patrick's Athletic (IRL) v İstanbul Başakşehir (TUR)  0-0
-    21.00  Lincoln Red Imps (GIB)  v Larne FC (NIR)           2-1 (2-1)
+    21:00  Lincoln Red Imps (GIB)  v Larne FC (NIR)           2-1 (2-1)
            FC St. Gallen (SUI)     v Trabzonspor (TUR)        0-0
            RC Lens (FRA)           v Panathinaikos (GRE)      2-1 (2-0)
            Chelsea FC (ENG)        v Servette FC (SUI)        2-0 (0-0)
-  Wed Aug/28
-    18.00  İstanbul Başakşehir (TUR) v St Patrick's Athletic (IRL)  2-0 (0-0)
+  Wed Aug 28
+    18:00  İstanbul Başakşehir (TUR) v St Patrick's Athletic (IRL)  2-0 (0-0)
            KAA Gent (BEL)          v Partizan (SRB)           1-0 (0-0)
-  Thu Aug/29
-    16.00  FK Astana (KAZ)         v SK Brann (NOR)           3-0 (0-0)
-    18.00  HJK Helsinki (FIN)      v KÍ Klaksvík (FRO)        2-1 (0-0)
+  Thu Aug 29
+    16:00  FK Astana (KAZ)         v SK Brann (NOR)           3-0 (0-0)
+    18:00  HJK Helsinki (FIN)      v KÍ Klaksvík (FRO)        2-1 (0-0)
            Zira FK (AZE)           v Omonia Nikosia (CYP)     1-0 (0-0)
-    18.30  MFK Ružomberok (SVK)    v FC Noah (ARM)            3-1 (2-0)
-    19.00  Trabzonspor (TUR)       v FC St. Gallen (SUI)      4-5 pen. 1-1 a.e.t. (1-1, 0-1)
+    18:30  MFK Ružomberok (SVK)    v FC Noah (ARM)            3-1 (2-0)
+    19:00  Trabzonspor (TUR)       v FC St. Gallen (SUI)      4-5 pen. 1-1 a.e.t. (1-1, 0-1)
            Paksi SE (HUN)          v FK Mladá Boleslav (CZE)  0-3 (0-0)
            Olimpija Ljubljana (SVN) v HNK Rijeka (CRO)         5-0 (4-0)
            Paphos FC (CYP)         v CFR Cluj (ROU)           3-0 (2-0)
-    19.30  The New Saints (WAL)    v FK Panevėžys (LTU)       0-0
-    20.00  UE Santa Coloma (AND)   v Víkingur Reykjavík (ISL)  0-0
+    19:30  The New Saints (WAL)    v FK Panevėžys (LTU)       0-0
+    20:00  UE Santa Coloma (AND)   v Víkingur Reykjavík (ISL)  0-0
            Zrinjski Mostar (BIH)   v Vitória Guimarães (POR)  0-4 (0-3)
            Cercle Brugge (BEL)     v Wisła Kraków (POL)       1-4 (0-2)
            Panathinaikos (GRE)     v RC Lens (FRA)            2-0 (0-0)
            Drita Gjilan (KOS)      v Legia Warszawa (POL)     0-1 (0-0)
            Kilmarnock FC (SCO)     v FC København (DEN)       1-1 (1-0)
-    20.15  NK Celje (SVN)          v Pyunik FC (ARM)          4-1 (2-0)
+    20:15  NK Celje (SVN)          v Pyunik FC (ARM)          4-1 (2-0)
            NK Maribor (SVN)        v Djurgårdens IF (SWE)     0-1 (0-1)
-    20.30  1. FC Heidenheim 1846 (GER) v BK Häcken (SWE)          3-2 (1-0)
+    20:30  1. FC Heidenheim 1846 (GER) v BK Häcken (SWE)          3-2 (1-0)
            Servette FC (SUI)       v Chelsea FC (ENG)         2-1 (1-1)
-    21.00  Larne FC (NIR)          v Lincoln Red Imps (GIB)   3-1 (2-1)
+    21:00  Larne FC (NIR)          v Lincoln Red Imps (GIB)   3-1 (2-1)
            Puskás FC (HUN)         v ACF Fiorentina (ITA)     4-5 pen. 1-1 a.e.t. (1-1, 0-0)
            Real Betis (ESP)        v Kryvbas Kryvyi Rih (UKR)  3-0 (3-0)

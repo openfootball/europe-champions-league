@@ -1,123 +1,123 @@
 = UEFA Champions League - Quali 2024/25
 
-# Date       Tue Jul/9 - Wed Aug/28 2024 (50d)
+# Date       Tue Jul 9 - Wed Aug 28 2024 (50d)
 # Teams      52
 # Matches    90
 
 
 
-» Round 1
-  Tue Jul/9 2024
-    17.30  FK Panevėžys (LTU)      v HJK Helsinki (FIN)       3-0 (1-0)
-    18.45  Hamrun Spartans (MLT)   v Lincoln Red Imps (GIB)   0-1 (0-1)
-    20.00  The New Saints (WAL)    v FK Dečić Tuzi (MNE)      3-0 (3-0)
+▪ Round 1
+  Tue Jul 9 2024
+    17:30  FK Panevėžys (LTU)      v HJK Helsinki (FIN)       3-0 (1-0)
+    18:45  Hamrun Spartans (MLT)   v Lincoln Red Imps (GIB)   0-1 (0-1)
+    20:00  The New Saints (WAL)    v FK Dečić Tuzi (MNE)      3-0 (3-0)
            UE Santa Coloma (AND)   v KF Ballkani (KOS)        1-2 (1-1)
-    20.45  Víkingur Reykjavík (ISL) v Shamrock Rovers (IRL)    0-0
-    21.00  SS Virtus (SMR)         v FCSB (ROU)               1-7 (0-5)
-  Wed Jul/10
-    17.00  FK Ordabasy (KAZ)       v CS Petrocub (MDA)        0-0
-    18.00  FC Flora (EST)          v NK Celje (SVN)           0-5 (0-3)
-    19.00  Slovan Bratislava (SVK) v FC Struga (MKD)          4-2 (2-0)
+    20:45  Víkingur Reykjavík (ISL) v Shamrock Rovers (IRL)    0-0
+    21:00  SS Virtus (SMR)         v FCSB (ROU)               1-7 (0-5)
+  Wed Jul 10
+    17:00  FK Ordabasy (KAZ)       v CS Petrocub (MDA)        0-0
+    18:00  FC Flora (EST)          v NK Celje (SVN)           0-5 (0-3)
+    19:00  Slovan Bratislava (SVK) v FC Struga (MKD)          4-2 (2-0)
            FK RFS (LVA)            v Larne FC (NIR)           3-0 (1-0)
-    20.00  KÍ Klaksvík (FRO)       v FC Differdange 03 (LUX)  2-0 (2-0)
+    20:00  KÍ Klaksvík (FRO)       v FC Differdange 03 (LUX)  2-0 (2-0)
            PFC Ludogorets Razgrad (BUL) v Dinamo Batumi (GEO)      3-1 (2-0)
-    20.45  Dinamo Minsk (BLR)      v Pyunik FC (ARM)          0-0
-    21.00  Borac Banja Luka (BIH)  v Egnatia Rrogozhine (ALB)  1-0 (0-0)
-  Tue Jul/16
-    16.30  KF Ballkani (KOS)       v UE Santa Coloma (AND)    5-6 pen. 1-2 a.e.t. (0-1, 0-0)
-    18.00  Lincoln Red Imps (GIB)  v Hamrun Spartans (MLT)    5-4 pen. 0-1 a.e.t. (0-1, 0-0)
+    20:45  Dinamo Minsk (BLR)      v Pyunik FC (ARM)          0-0
+    21:00  Borac Banja Luka (BIH)  v Egnatia Rrogozhine (ALB)  1-0 (0-0)
+  Tue Jul 16
+    16:30  KF Ballkani (KOS)       v UE Santa Coloma (AND)    5-6 pen. 1-2 a.e.t. (0-1, 0-0)
+    18:00  Lincoln Red Imps (GIB)  v Hamrun Spartans (MLT)    5-4 pen. 0-1 a.e.t. (0-1, 0-0)
            HJK Helsinki (FIN)      v FK Panevėžys (LTU)       1-1 (1-1)
            Pyunik FC (ARM)         v Dinamo Minsk (BLR)       0-1 (0-0)
-    19.00  NK Celje (SVN)          v FC Flora (EST)           2-1 (0-1)
-    19.30  FCSB (ROU)              v SS Virtus (SMR)          4-0 (3-0)
-    21.00  FK Dečić Tuzi (MNE)     v The New Saints (WAL)     1-1 (0-1)
+    19:00  NK Celje (SVN)          v FC Flora (EST)           2-1 (0-1)
+    19:30  FCSB (ROU)              v SS Virtus (SMR)          4-0 (3-0)
+    21:00  FK Dečić Tuzi (MNE)     v The New Saints (WAL)     1-1 (0-1)
            Shamrock Rovers (IRL)   v Víkingur Reykjavík (ISL)  2-1 (2-0)
-  Wed Jul/17
-    17.00  FC Struga (MKD)         v Slovan Bratislava (SVK)  1-2 (0-2)
-    19.00  FC Differdange 03 (LUX) v KÍ Klaksvík (FRO)        0-0
+  Wed Jul 17
+    17:00  FC Struga (MKD)         v Slovan Bratislava (SVK)  1-2 (0-2)
+    19:00  FC Differdange 03 (LUX) v KÍ Klaksvík (FRO)        0-0
            Dinamo Batumi (GEO)     v PFC Ludogorets Razgrad (BUL)  1-0 (1-0)
            CS Petrocub (MDA)       v FK Ordabasy (KAZ)        1-0 (1-0)
-    21.00  Egnatia Rrogozhine (ALB) v Borac Banja Luka (BIH)   1-4 pen. 2-1 a.e.t. (2-1, 1-1)
+    21:00  Egnatia Rrogozhine (ALB) v Borac Banja Luka (BIH)   1-4 pen. 2-1 a.e.t. (2-1, 1-1)
            Larne FC (NIR)          v FK RFS (LVA)             0-4 (0-3)
 
 
-» Round 2
-  Tue Jul/23
-    17.00  FK Bodø/Glimt (NOR)     v FK RFS (LVA)             4-0 (3-0)
-    17.30  FK Panevėžys (LTU)      v Jagiellonia Białystok (POL)  0-4 (0-3)
-    18.00  Lincoln Red Imps (GIB)  v Qarabağ FK (AZE)         0-2 (0-1)
-    19.00  APOEL Nikosia (CYP)     v CS Petrocub (MDA)        1-0 (1-0)
+▪ Round 2
+  Tue Jul 23
+    17:00  FK Bodø/Glimt (NOR)     v FK RFS (LVA)             4-0 (3-0)
+    17:30  FK Panevėžys (LTU)      v Jagiellonia Białystok (POL)  0-4 (0-3)
+    18:00  Lincoln Red Imps (GIB)  v Qarabağ FK (AZE)         0-2 (0-1)
+    19:00  APOEL Nikosia (CYP)     v CS Petrocub (MDA)        1-0 (1-0)
            Malmö FF (SWE)          v KÍ Klaksvík (FRO)        4-1 (3-0)
-    19.30  FCSB (ROU)              v Maccabi Tel Aviv (ISR)   1-1 (0-0)
-    20.00  Ferencvárosi TC (HUN)   v The New Saints (WAL)     5-0 (3-0)
+    19:30  FCSB (ROU)              v Maccabi Tel Aviv (ISR)   1-1 (0-0)
+    20:00  Ferencvárosi TC (HUN)   v The New Saints (WAL)     5-0 (3-0)
            UE Santa Coloma (AND)   v FC Midtjylland (DEN)     0-3 (0-2)
            Dinamo Kiev (UKR)       v Partizan (SRB)           6-2 (3-1)
-    20.30  FC Lugano (SUI)         v Fenerbahçe (TUR)         3-4 (1-1)
-    21.00  Shamrock Rovers (IRL)   v AC Sparta Praha (CZE)    0-2 (0-1)
-  Wed Jul/24
-    19.30  PAOK Saloniki (GRE)     v Borac Banja Luka (BIH)   3-2 (2-2)
-    20.00  PFC Ludogorets Razgrad (BUL) v Dinamo Minsk (BLR)       2-0 (2-0)
-    20.15  NK Celje (SVN)          v Slovan Bratislava (SVK)  1-1 (1-1)
-  Tue Jul/30
-    18.00  Qarabağ FK (AZE)        v Lincoln Red Imps (GIB)   5-0 (3-0)
-    19.00  CS Petrocub (MDA)       v APOEL Nikosia (CYP)      1-1 (0-0)
+    20:30  FC Lugano (SUI)         v Fenerbahçe (TUR)         3-4 (1-1)
+    21:00  Shamrock Rovers (IRL)   v AC Sparta Praha (CZE)    0-2 (0-1)
+  Wed Jul 24
+    19:30  PAOK Saloniki (GRE)     v Borac Banja Luka (BIH)   3-2 (2-2)
+    20:00  PFC Ludogorets Razgrad (BUL) v Dinamo Minsk (BLR)       2-0 (2-0)
+    20:15  NK Celje (SVN)          v Slovan Bratislava (SVK)  1-1 (1-1)
+  Tue Jul 30
+    18:00  Qarabağ FK (AZE)        v Lincoln Red Imps (GIB)   5-0 (3-0)
+    19:00  CS Petrocub (MDA)       v APOEL Nikosia (CYP)      1-1 (0-0)
            AC Sparta Praha (CZE)   v Shamrock Rovers (IRL)    4-2 (2-1)
            Fenerbahçe (TUR)        v FC Lugano (SUI)          2-1 (0-1)
-    20.00  The New Saints (WAL)    v Ferencvárosi TC (HUN)    1-2 (0-1)
-    20.30  Slovan Bratislava (SVK) v NK Celje (SVN)           5-0 (2-0)
-    20.45  KÍ Klaksvík (FRO)       v Malmö FF (SWE)           3-2 (1-1)
-  Wed Jul/31
-    19.00  FK RFS (LVA)            v FK Bodø/Glimt (NOR)      1-3 (1-1)
-    19.15  FC Midtjylland (DEN)    v UE Santa Coloma (AND)    1-0 (0-0)
-    20.00  Partizan (SRB)          v Dinamo Kiev (UKR)        0-3 (0-1)
+    20:00  The New Saints (WAL)    v Ferencvárosi TC (HUN)    1-2 (0-1)
+    20:30  Slovan Bratislava (SVK) v NK Celje (SVN)           5-0 (2-0)
+    20:45  KÍ Klaksvík (FRO)       v Malmö FF (SWE)           3-2 (1-1)
+  Wed Jul 31
+    19:00  FK RFS (LVA)            v FK Bodø/Glimt (NOR)      1-3 (1-1)
+    19:15  FC Midtjylland (DEN)    v UE Santa Coloma (AND)    1-0 (0-0)
+    20:00  Partizan (SRB)          v Dinamo Kiev (UKR)        0-3 (0-1)
            Maccabi Tel Aviv (ISR)  v FCSB (ROU)               0-1 (0-0)
-    20.30  Jagiellonia Białystok (POL) v FK Panevėžys (LTU)       3-1 (1-0)
-    20.45  Dinamo Minsk (BLR)      v PFC Ludogorets Razgrad (BUL)  1-0 (1-0)
-    21.00  Borac Banja Luka (BIH)  v PAOK Saloniki (GRE)      0-1 (0-1)
+    20:30  Jagiellonia Białystok (POL) v FK Panevėžys (LTU)       3-1 (1-0)
+    20:45  Dinamo Minsk (BLR)      v PFC Ludogorets Razgrad (BUL)  1-0 (1-0)
+    21:00  Borac Banja Luka (BIH)  v PAOK Saloniki (GRE)      0-1 (0-1)
 
 
-» Round 3
-  Tue Aug/6
-    18.00  Qarabağ FK (AZE)        v PFC Ludogorets Razgrad (BUL)  1-2 (0-0)
-    19.00  Malmö FF (SWE)          v PAOK Saloniki (GRE)      2-2 (1-1)
-    19.15  FC Midtjylland (DEN)    v Ferencvárosi TC (HUN)    2-0 (1-0)
-    20.00  AC Sparta Praha (CZE)   v FCSB (ROU)               1-1 (0-0)
+▪ Round 3
+  Tue Aug 6
+    18:00  Qarabağ FK (AZE)        v PFC Ludogorets Razgrad (BUL)  1-2 (0-0)
+    19:00  Malmö FF (SWE)          v PAOK Saloniki (GRE)      2-2 (1-1)
+    19:15  FC Midtjylland (DEN)    v Ferencvárosi TC (HUN)    2-0 (1-0)
+    20:00  AC Sparta Praha (CZE)   v FCSB (ROU)               1-1 (0-0)
            Dinamo Kiev (UKR)       v Rangers FC (SCO)         1-1 (1-0)
-    20.30  Lille OSC (FRA)         v Fenerbahçe (TUR)         2-1 (1-0)
-    20.45  RB Salzburg (AUT)       v FC Twente (NED)          2-1 (1-0)
-  Wed Aug/7
-    19.00  Slavia Praha (CZE)      v Union Saint-Gilloise (BEL)  3-1 (2-0)
-    20.30  Slovan Bratislava (SVK) v APOEL Nikosia (CYP)      2-0 (0-0)
-    20.45  Jagiellonia Białystok (POL) v FK Bodø/Glimt (NOR)      0-1 (0-0)
-  Tue Aug/13
-    19.00  APOEL Nikosia (CYP)     v Slovan Bratislava (SVK)  0-0
+    20:30  Lille OSC (FRA)         v Fenerbahçe (TUR)         2-1 (1-0)
+    20:45  RB Salzburg (AUT)       v FC Twente (NED)          2-1 (1-0)
+  Wed Aug 7
+    19:00  Slavia Praha (CZE)      v Union Saint-Gilloise (BEL)  3-1 (2-0)
+    20:30  Slovan Bratislava (SVK) v APOEL Nikosia (CYP)      2-0 (0-0)
+    20:45  Jagiellonia Białystok (POL) v FK Bodø/Glimt (NOR)      0-1 (0-0)
+  Tue Aug 13
+    19:00  APOEL Nikosia (CYP)     v Slovan Bratislava (SVK)  0-0
            FK Bodø/Glimt (NOR)     v Jagiellonia Białystok (POL)  4-1 (2-1)
            Fenerbahçe (TUR)        v Lille OSC (FRA)          1-1 a.e.t. (1-0, 0-0)
            FC Twente (NED)         v RB Salzburg (AUT)        3-3 (1-2)
-    19.30  PAOK Saloniki (GRE)     v Malmö FF (SWE)           3-4 a.e.t. (3-3, 3-2)
-    20.00  PFC Ludogorets Razgrad (BUL) v Qarabağ FK (AZE)         2-7 a.e.t. (2-3, 2-3)
+    19:30  PAOK Saloniki (GRE)     v Malmö FF (SWE)           3-4 a.e.t. (3-3, 3-2)
+    20:00  PFC Ludogorets Razgrad (BUL) v Qarabağ FK (AZE)         2-7 a.e.t. (2-3, 2-3)
            Ferencvárosi TC (HUN)   v FC Midtjylland (DEN)     1-1 (1-0)
-    20.30  FCSB (ROU)              v AC Sparta Praha (CZE)    2-3 (0-3)
+    20:30  FCSB (ROU)              v AC Sparta Praha (CZE)    2-3 (0-3)
            Union Saint-Gilloise (BEL) v Slavia Praha (CZE)       0-1 (0-0)
-    20.45  Rangers FC (SCO)        v Dinamo Kiev (UKR)        0-2 (0-0)
+    20:45  Rangers FC (SCO)        v Dinamo Kiev (UKR)        0-2 (0-0)
 
 
-» Playoffs
-  Tue Aug/20
-    21.00  Dinamo Zagreb (CRO)     v Qarabağ FK (AZE)         3-0 (1-0)
+▪ Playoffs
+  Tue Aug 20
+    21:00  Dinamo Zagreb (CRO)     v Qarabağ FK (AZE)         3-0 (1-0)
            FK Bodø/Glimt (NOR)     v Crvena Zvezda (SRB)      2-1 (0-0)
            Lille OSC (FRA)         v Slavia Praha (CZE)       2-0 (0-0)
-  Wed Aug/21
-    21.00  BSC Young Boys (SUI)    v Galatasaray (TUR)        3-2 (2-0)
+  Wed Aug 21
+    21:00  BSC Young Boys (SUI)    v Galatasaray (TUR)        3-2 (2-0)
            FC Midtjylland (DEN)    v Slovan Bratislava (SVK)  1-1 (0-0)
            Malmö FF (SWE)          v AC Sparta Praha (CZE)    0-2 (0-1)
            Dinamo Kiev (UKR)       v RB Salzburg (AUT)        0-2 (0-1)
-  Tue Aug/27
-    21.00  Galatasaray (TUR)       v BSC Young Boys (SUI)     0-1 (0-0)
+  Tue Aug 27
+    21:00  Galatasaray (TUR)       v BSC Young Boys (SUI)     0-1 (0-0)
            AC Sparta Praha (CZE)   v Malmö FF (SWE)           2-0 (0-0)
            RB Salzburg (AUT)       v Dinamo Kiev (UKR)        1-1 (1-1)
-  Wed Aug/28
-    18.45  Qarabağ FK (AZE)        v Dinamo Zagreb (CRO)      0-2 (0-1)
-    21.00  Slovan Bratislava (SVK) v FC Midtjylland (DEN)     3-2 (1-1)
+  Wed Aug 28
+    18:45  Qarabağ FK (AZE)        v Dinamo Zagreb (CRO)      0-2 (0-1)
+    21:00  Slovan Bratislava (SVK) v FC Midtjylland (DEN)     3-2 (1-1)
            Crvena Zvezda (SRB)     v FK Bodø/Glimt (NOR)      2-0 (1-0)
            Slavia Praha (CZE)      v Lille OSC (FRA)          2-1 (1-0)

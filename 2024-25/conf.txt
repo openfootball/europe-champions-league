@@ -1,17 +1,17 @@
 = UEFA Conference League 2024/25
 
-# Date       Wed Oct/2 2024 - Wed May/28 2025 (238d)
+# Date       Wed Oct 2 2024 - Wed May 28 2025 (238d)
 # Teams      36
 # Matches    153
 
 
 
-» League phase
-  Wed Oct/2 2024
-    16.30  İstanbul Başakşehir (TUR) v Rapid Wien (AUT)         1-2 (1-1)
+▪ League phase
+  Wed Oct 2 2024
+    16:30  İstanbul Başakşehir (TUR) v Rapid Wien (AUT)         1-2 (1-1)
            Vitória Guimarães (POR) v NK Celje (SVN)           3-1 (2-0)
-  Thu Oct/3
-    18.45  Legia Warszawa (POL)    v Real Betis (ESP)         1-0 (1-0)
+  Thu Oct 3
+    18:45  Legia Warszawa (POL)    v Real Betis (ESP)         1-0 (1-0)
            Molde FK (NOR)          v Larne FC (NIR)           3-0 (0-0)
            1. FC Heidenheim 1846 (GER) v Olimpija Ljubljana (SVN)  2-1 (1-0)
            Omonia Nikosia (CYP)    v Víkingur Reykjavík (ISL)  4-0 (0-0)
@@ -19,7 +19,7 @@
            Cercle Brugge (BEL)     v FC St. Gallen (SUI)      6-2 (3-0)
            Dinamo Minsk (BLR)      v Heart of Midlothian (SCO)  1-2 (1-1)
            FC Noah (ARM)           v FK Mladá Boleslav (CZE)  2-0 (0-0)
-    21.00  Chelsea FC (ENG)        v KAA Gent (BEL)           4-2 (1-0)
+    21:00  Chelsea FC (ENG)        v KAA Gent (BEL)           4-2 (1-0)
            FC København (DEN)      v Jagiellonia Białystok (POL)  1-2 (1-0)
            ACF Fiorentina (ITA)    v The New Saints (WAL)     2-0 (0-0)
            LASK (AUT)              v Djurgårdens IF (SWE)     2-2 (1-0)
@@ -27,9 +27,9 @@
            FC Lugano (SUI)         v HJK Helsinki (FIN)       3-0 (1-0)
            Borac Banja Luka (BIH)  v Panathinaikos (GRE)      1-1 (0-1)
            CS Petrocub (MDA)       v Paphos FC (CYP)          1-4 (1-2)
-  Thu Oct/24
-    16.30  Víkingur Reykjavík (ISL) v Cercle Brugge (BEL)      3-1 (1-1)
-    18.45  KAA Gent (BEL)          v Molde FK (NOR)           2-1 (1-0)
+  Thu Oct 24
+    16:30  Víkingur Reykjavík (ISL) v Cercle Brugge (BEL)      3-1 (1-1)
+    18:45  KAA Gent (BEL)          v Molde FK (NOR)           2-1 (1-0)
            Djurgårdens IF (SWE)    v Vitória Guimarães (POR)  1-2 (0-0)
            APOEL Nikosia (CYP)     v Borac Banja Luka (BIH)   0-1 (0-0)
            Rapid Wien (AUT)        v FC Noah (ARM)            1-0 (1-0)
@@ -39,23 +39,23 @@
            Jagiellonia Białystok (POL) v CS Petrocub (MDA)        2-0 (0-0)
            NK Celje (SVN)          v İstanbul Başakşehir (TUR)  5-1 (3-0)
            Larne FC (NIR)          v Shamrock Rovers (IRL)    1-4 (0-3)
-    21.00  Real Betis (ESP)        v FC København (DEN)       1-1 (1-0)
+    21:00  Real Betis (ESP)        v FC København (DEN)       1-1 (1-0)
            HJK Helsinki (FIN)      v Dinamo Minsk (BLR)       1-0 (0-0)
            Olimpija Ljubljana (SVN) v LASK (AUT)               2-0 (1-0)
            The New Saints (WAL)    v FK Astana (KAZ)          2-0 (1-0)
            FK Mladá Boleslav (CZE) v FC Lugano (SUI)          0-1 (0-1)
            TSC Bačka Topola (SRB)  v Legia Warszawa (POL)     0-3 (0-1)
            Paphos FC (CYP)         v 1. FC Heidenheim 1846 (GER)  0-1 (0-1)
-  Thu Nov/7
-    15.30  Víkingur Reykjavík (ISL) v Borac Banja Luka (BIH)   2-0 (2-0)
-    18.45  KAA Gent (BEL)          v Omonia Nikosia (CYP)     1-0 (1-0)
+  Thu Nov 7
+    15:30  Víkingur Reykjavík (ISL) v Borac Banja Luka (BIH)   2-0 (2-0)
+    18:45  KAA Gent (BEL)          v Omonia Nikosia (CYP)     1-0 (1-0)
            Legia Warszawa (POL)    v Dinamo Minsk (BLR)       4-0 (1-0)
            HJK Helsinki (FIN)      v Olimpija Ljubljana (SVN)  0-2 (0-0)
            Shamrock Rovers (IRL)   v The New Saints (WAL)     2-1 (2-1)
            TSC Bačka Topola (SRB)  v FC Lugano (SUI)          4-1 (1-0)
            CS Petrocub (MDA)       v Rapid Wien (AUT)         0-3 (0-1)
            Paphos FC (CYP)         v FK Astana (KAZ)          1-0 (0-0)
-    21.00  Chelsea FC (ENG)        v FC Noah (ARM)            8-0 (6-0)
+    21:00  Chelsea FC (ENG)        v FC Noah (ARM)            8-0 (6-0)
            FC København (DEN)      v İstanbul Başakşehir (TUR)  2-2 (0-1)
            Real Betis (ESP)        v NK Celje (SVN)           2-1 (0-0)
            LASK (AUT)              v Cercle Brugge (BEL)      0-0
@@ -65,11 +65,11 @@
            Heart of Midlothian (SCO) v 1. FC Heidenheim 1846 (GER)  0-2 (0-0)
            Jagiellonia Białystok (POL) v Molde FK (NOR)           3-0 (1-0)
            Larne FC (NIR)          v FC St. Gallen (SUI)      1-2 (1-1)
-  Wed Nov/27
-    16.30  İstanbul Başakşehir (TUR) v CS Petrocub (MDA)        1-1 (1-0)
-  Thu Nov/28
-    16.30  FK Astana (KAZ)         v Vitória Guimarães (POR)  1-1 (1-0)
-    18.45  Molde FK (NOR)          v APOEL Nikosia (CYP)      0-1 (0-1)
+  Wed Nov 27
+    16:30  İstanbul Başakşehir (TUR) v CS Petrocub (MDA)        1-1 (1-0)
+  Thu Nov 28
+    16:30  FK Astana (KAZ)         v Vitória Guimarães (POR)  1-1 (1-0)
+    18:45  Molde FK (NOR)          v APOEL Nikosia (CYP)      0-1 (0-1)
            1. FC Heidenheim 1846 (GER) v Chelsea FC (ENG)         0-2 (0-0)
            Cercle Brugge (BEL)     v Heart of Midlothian (SCO)  2-0 (1-0)
            The New Saints (WAL)    v Djurgårdens IF (SWE)     0-1 (0-1)
@@ -79,16 +79,16 @@
            NK Celje (SVN)          v Jagiellonia Białystok (POL)  3-3 (1-1)
            Dinamo Minsk (BLR)      v FC København (DEN)       1-2 (1-1)
            FC Noah (ARM)           v Víkingur Reykjavík (ISL)  0-0
-    21.00  ACF Fiorentina (ITA)    v Paphos FC (CYP)          3-2 (1-0)
+    21:00  ACF Fiorentina (ITA)    v Paphos FC (CYP)          3-2 (1-0)
            Olimpija Ljubljana (SVN) v Larne FC (NIR)           1-0 (0-0)
            Omonia Nikosia (CYP)    v Legia Warszawa (POL)     0-3 (0-1)
            Rapid Wien (AUT)        v Shamrock Rovers (IRL)    1-1 (1-0)
            FK Mladá Boleslav (CZE) v Real Betis (ESP)         2-1 (0-1)
            FC Lugano (SUI)         v KAA Gent (BEL)           2-0 (1-0)
-  Thu Dec/12
-    14.00  Víkingur Reykjavík (ISL) v Djurgårdens IF (SWE)     1-2 (0-0)
-    16.30  FK Astana (KAZ)         v Chelsea FC (ENG)         1-3 (1-3)
-    18.45  FC København (DEN)      v Heart of Midlothian (SCO)  2-0 (0-0)
+  Thu Dec 12
+    14:00  Víkingur Reykjavík (ISL) v Djurgårdens IF (SWE)     1-2 (0-0)
+    16:30  FK Astana (KAZ)         v Chelsea FC (ENG)         1-3 (1-3)
+    18:45  FC København (DEN)      v Heart of Midlothian (SCO)  2-0 (0-0)
            ACF Fiorentina (ITA)    v LASK (AUT)               7-0 (3-0)
            İstanbul Başakşehir (TUR) v 1. FC Heidenheim 1846 (GER)  3-1 (2-0)
            Legia Warszawa (POL)    v FC Lugano (SUI)          1-2 (1-1)
@@ -97,15 +97,15 @@
            CS Petrocub (MDA)       v Real Betis (ESP)         0-1 (0-0)
            Dinamo Minsk (BLR)      v Larne FC (NIR)           2-0 (0-0)
            FC Noah (ARM)           v APOEL Nikosia (CYP)      1-3 (1-1)
-    21.00  KAA Gent (BEL)          v TSC Bačka Topola (SRB)   3-0 (3-0)
+    21:00  KAA Gent (BEL)          v TSC Bačka Topola (SRB)   3-0 (3-0)
            Omonia Nikosia (CYP)    v Rapid Wien (AUT)         3-1 (0-0)
            Shamrock Rovers (IRL)   v Borac Banja Luka (BIH)   3-0 (1-0)
            The New Saints (WAL)    v Panathinaikos (GRE)      0-2 (0-1)
            FK Mladá Boleslav (CZE) v Jagiellonia Białystok (POL)  1-0 (0-0)
            FC St. Gallen (SUI)     v Vitória Guimarães (POR)  1-4 (0-1)
            Paphos FC (CYP)         v NK Celje (SVN)           2-0 (0-0)
-  Thu Dec/19
-    21.00  Chelsea FC (ENG)        v Shamrock Rovers (IRL)    5-1 (4-1)
+  Thu Dec 19
+    21:00  Chelsea FC (ENG)        v Shamrock Rovers (IRL)    5-1 (4-1)
            Real Betis (ESP)        v HJK Helsinki (FIN)       1-0 (1-0)
            LASK (AUT)              v Víkingur Reykjavík (ISL)  1-1 (1-1)
            Djurgårdens IF (SWE)    v Legia Warszawa (POL)     3-1 (2-0)
@@ -125,70 +125,70 @@
            Larne FC (NIR)          v KAA Gent (BEL)           1-0 (0-0)
 
 
-» Playoffs
-  Thu Feb/13 2025
-    18.45  TSC Bačka Topola (SRB)  v Jagiellonia Białystok (POL)  1-3 (1-1)
+▪ Playoffs
+  Thu Feb 13 2025
+    18:45  TSC Bačka Topola (SRB)  v Jagiellonia Białystok (POL)  1-3 (1-1)
            Molde FK (NOR)          v Shamrock Rovers (IRL)    0-1 (0-0)
            NK Celje (SVN)          v APOEL Nikosia (CYP)      2-2 (1-1)
            Víkingur Reykjavík (ISL) v Panathinaikos (GRE)      2-1 (1-0)
-    21.00  Omonia Nikosia (CYP)    v Paphos FC (CYP)          1-1 (0-0)
+    21:00  Omonia Nikosia (CYP)    v Paphos FC (CYP)          1-1 (0-0)
            Borac Banja Luka (BIH)  v Olimpija Ljubljana (SVN)  1-0 (0-0)
            KAA Gent (BEL)          v Real Betis (ESP)         0-3 (0-0)
            FC København (DEN)      v 1. FC Heidenheim 1846 (GER)  1-2 (1-0)
-  Thu Feb/20
-    18.45  Paphos FC (CYP)         v Omonia Nikosia (CYP)     2-1 (1-0)
+  Thu Feb 20
+    18:45  Paphos FC (CYP)         v Omonia Nikosia (CYP)     2-1 (1-0)
            Olimpija Ljubljana (SVN) v Borac Banja Luka (BIH)   0-0
            Real Betis (ESP)        v KAA Gent (BEL)           0-1 (0-0)
            1. FC Heidenheim 1846 (GER) v FC København (DEN)       1-3 a.e.t. (1-2, 0-1)
-    21.00  Jagiellonia Białystok (POL) v TSC Bačka Topola (SRB)   3-1 (1-1)
+    21:00  Jagiellonia Białystok (POL) v TSC Bačka Topola (SRB)   3-1 (1-1)
            Shamrock Rovers (IRL)   v Molde FK (NOR)           4-5 pen. 0-1 a.e.t. (0-1, 0-1)
            APOEL Nikosia (CYP)     v NK Celje (SVN)           0-2 (0-1)
            Panathinaikos (GRE)     v Víkingur Reykjavík (ISL)  2-0 (0-0)
 
 
-» Round of 16
-  Thu Mar/6
-    18.45  Real Betis (ESP)        v Vitória Guimarães (POR)  2-2 (0-0)
+▪ Round of 16
+  Thu Mar 6
+    18:45  Real Betis (ESP)        v Vitória Guimarães (POR)  2-2 (0-0)
            FC København (DEN)      v Chelsea FC (ENG)         1-2 (0-0)
            Panathinaikos (GRE)     v ACF Fiorentina (ITA)     3-2 (2-2)
            Molde FK (NOR)          v Legia Warszawa (POL)     3-2 (3-0)
-    21.00  Jagiellonia Białystok (POL) v Cercle Brugge (BEL)      3-0 (0-0)
+    21:00  Jagiellonia Białystok (POL) v Cercle Brugge (BEL)      3-0 (0-0)
            Borac Banja Luka (BIH)  v Rapid Wien (AUT)         1-1 (0-1)
            Paphos FC (CYP)         v Djurgårdens IF (SWE)     1-0 (0-0)
            NK Celje (SVN)          v FC Lugano (SUI)          1-0 (1-0)
-  Thu Mar/13
-    18.45  Cercle Brugge (BEL)     v Jagiellonia Białystok (POL)  2-0 (1-0)
+  Thu Mar 13
+    18:45  Cercle Brugge (BEL)     v Jagiellonia Białystok (POL)  2-0 (1-0)
            Rapid Wien (AUT)        v Borac Banja Luka (BIH)   2-1 a.e.t. (1-1, 0-0)
            Djurgårdens IF (SWE)    v Paphos FC (CYP)          3-0 (1-0)
            FC Lugano (SUI)         v NK Celje (SVN)           1-3 pen. 5-4 a.e.t. (4-3, 3-1)
-    21.00  Vitória Guimarães (POR) v Real Betis (ESP)         0-4 (0-2)
+    21:00  Vitória Guimarães (POR) v Real Betis (ESP)         0-4 (0-2)
            Chelsea FC (ENG)        v FC København (DEN)       1-0 (0-0)
            ACF Fiorentina (ITA)    v Panathinaikos (GRE)      3-1 (2-0)
            Legia Warszawa (POL)    v Molde FK (NOR)           2-0 a.e.t. (1-0, 1-0)
 
 
-» Quarterfinals
-  Thu Apr/10
-    18.45  Legia Warszawa (POL)    v Chelsea FC (ENG)         0-3 (0-0)
-    21.00  Real Betis (ESP)        v Jagiellonia Białystok (POL)  2-0 (2-0)
+▪ Quarterfinals
+  Thu Apr 10
+    18:45  Legia Warszawa (POL)    v Chelsea FC (ENG)         0-3 (0-0)
+    21:00  Real Betis (ESP)        v Jagiellonia Białystok (POL)  2-0 (2-0)
            NK Celje (SVN)          v ACF Fiorentina (ITA)     1-2 (0-1)
            Djurgårdens IF (SWE)    v Rapid Wien (AUT)         0-1 (0-0)
-  Thu Apr/17
-    18.45  Jagiellonia Białystok (POL) v Real Betis (ESP)         1-1 (0-0)
+  Thu Apr 17
+    18:45  Jagiellonia Białystok (POL) v Real Betis (ESP)         1-1 (0-0)
            ACF Fiorentina (ITA)    v NK Celje (SVN)           2-2 (1-0)
-    21.00  Chelsea FC (ENG)        v Legia Warszawa (POL)     1-2 (1-1)
+    21:00  Chelsea FC (ENG)        v Legia Warszawa (POL)     1-2 (1-1)
            Rapid Wien (AUT)        v Djurgårdens IF (SWE)     1-4 a.e.t. (1-2, 1-1)
 
 
-» Semifinals
-  Thu May/1
-    21.00  Real Betis (ESP)        v ACF Fiorentina (ITA)     2-1 (1-0)
+▪ Semifinals
+  Thu May 1
+    21:00  Real Betis (ESP)        v ACF Fiorentina (ITA)     2-1 (1-0)
            Djurgårdens IF (SWE)    v Chelsea FC (ENG)         1-4 (0-2)
-  Thu May/8
-    21.00  ACF Fiorentina (ITA)    v Real Betis (ESP)         2-2 a.e.t. (2-1, 2-1)
+  Thu May 8
+    21:00  ACF Fiorentina (ITA)    v Real Betis (ESP)         2-2 a.e.t. (2-1, 2-1)
            Chelsea FC (ENG)        v Djurgårdens IF (SWE)     1-0 (1-0)
 
 
-» Final
-  Wed May/28
-    21.00  Real Betis (ESP)        v Chelsea FC (ENG)         1-4 (1-0)
+▪ Final
+  Wed May 28
+    21:00  Real Betis (ESP)        v Chelsea FC (ENG)         1-4 (1-0)

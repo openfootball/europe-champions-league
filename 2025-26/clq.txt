@@ -1,125 +1,125 @@
 = UEFA Champions League - Quali 2025/26
 
-# Date       Tue Jul/8 - Wed Aug/27 2025 (50d)
+# Date       Tue Jul 8 - Wed Aug 27 2025 (50d)
 # Teams      53
 # Matches    92
 
 
 
-» 1. Round
-  Tue Jul/8 2025
-    16.00  Kuopion PS (FIN)        v FC Milsami (MDA)         1-0 (0-0)
-    17.00  FC Iberia 1999 (GEO)    v Malmö FF (SWE)           1-3 (0-1)
+▪ 1. Round
+  Tue Jul 8 2025
+    16:00  Kuopion PS (FIN)        v FC Milsami (MDA)         1-0 (0-0)
+    17:00  FC Iberia 1999 (GEO)    v Malmö FF (SWE)           1-3 (0-1)
            FC Noah (ARM)           v FK Budućnost Podgorica (MNE)  1-0 (0-0)
-    17.30  FCI Levadia (EST)       v FK RFS (LVA)             0-1 (0-0)
-    18.00  Olimpija Ljubljana (SVN) v FK Kairat (KAZ)          1-1 (0-0)
-    19.00  The New Saints (WAL)    v KF Shkëndija 79 (MKD)    0-0
+    17:30  FCI Levadia (EST)       v FK RFS (LVA)             0-1 (0-0)
+    18:00  Olimpija Ljubljana (SVN) v FK Kairat (KAZ)          1-1 (0-0)
+    19:00  The New Saints (WAL)    v KF Shkëndija 79 (MKD)    0-0
            KF Drita (KOS)          v FC Differdange 03 (LUX)  1-0 (0-0)
            Víkingur (FRO)          v Lincoln Red Imps (GIB)   2-3 (2-3)
-    20.00  Egnatia Rrogozhine (ALB) v Breiðablik (ISL)         1-0 (0-0)
+    20:00  Egnatia Rrogozhine (ALB) v Breiðablik (ISL)         1-0 (0-0)
            SS Virtus (SMR)         v Zrinjski Mostar (BIH)    0-2 (0-1)
-  Wed Jul/9
-    17.00  FK Žalgiris (LTU)       v Hamrun Spartans (MLT)    2-0 (0-0)
-    18.30  FCSB (ROU)              v Inter Club d'Escaldes (AND)  3-1 (2-0)
+  Wed Jul 9
+    17:00  FK Žalgiris (LTU)       v Hamrun Spartans (MLT)    2-0 (0-0)
+    18:30  FCSB (ROU)              v Inter Club d'Escaldes (AND)  3-1 (2-0)
            PFC Ludogorets Razgrad (BUL) v Dinamo Minsk (BLR)       1-0 (0-0)
-    19.45  Shelbourne FC (IRL)     v Linfield FC (NIR)        1-0 (0-0)
-  Tue Jul/15
-    16.00  FK Kairat (KAZ)         v Olimpija Ljubljana (SVN)  2-0 (2-0)
-    16.30  Lincoln Red Imps (GIB)  v Víkingur (FRO)           1-0 (0-0)
-    18.00  Hamrun Spartans (MLT)   v FK Žalgiris (LTU)        11-10 pen. 2-0 a.e.t. (2-0, 2-0)
+    19:45  Shelbourne FC (IRL)     v Linfield FC (NIR)        1-0 (0-0)
+  Tue Jul 15
+    16:00  FK Kairat (KAZ)         v Olimpija Ljubljana (SVN)  2-0 (2-0)
+    16:30  Lincoln Red Imps (GIB)  v Víkingur (FRO)           1-0 (0-0)
+    18:00  Hamrun Spartans (MLT)   v FK Žalgiris (LTU)        11-10 pen. 2-0 a.e.t. (2-0, 2-0)
            FC Milsami (MDA)        v Kuopion PS (FIN)         0-0
            Malmö FF (SWE)          v FC Iberia 1999 (GEO)     3-1 (0-0)
            FK RFS (LVA)            v FCI Levadia (EST)        1-0 (0-0)
-    19.00  KF Shkëndija 79 (MKD)   v The New Saints (WAL)     2-1 a.e.t. (1-1, 1-1)
+    19:00  KF Shkëndija 79 (MKD)   v The New Saints (WAL)     2-1 a.e.t. (1-1, 1-1)
            FC Differdange 03 (LUX) v KF Drita (KOS)           2-3 (1-2)
-    19.30  Inter Club d'Escaldes (AND) v FCSB (ROU)               2-1 (0-0)
-    20.00  Breiðablik (ISL)        v Egnatia Rrogozhine (ALB)  5-0 (4-0)
+    19:30  Inter Club d'Escaldes (AND) v FCSB (ROU)               2-1 (0-0)
+    20:00  Breiðablik (ISL)        v Egnatia Rrogozhine (ALB)  5-0 (4-0)
            Zrinjski Mostar (BIH)   v SS Virtus (SMR)          2-1 (1-0)
            FK Budućnost Podgorica (MNE) v FC Noah (ARM)            2-2 (0-2)
-  Wed Jul/16
-    19.45  Linfield FC (NIR)       v Shelbourne FC (IRL)      1-1 (1-1)
+  Wed Jul 16
+    19:45  Linfield FC (NIR)       v Shelbourne FC (IRL)      1-1 (1-1)
            Dinamo Minsk (BLR)      v PFC Ludogorets Razgrad (BUL)  2-2 a.e.t. (2-1, 0-1)
 
 
-» 2. Round
-  Tue Jul/22
-    16.00  Kuopion PS (FIN)        v FK Kairat (KAZ)          2-0 (0-0)
-    17.00  Lincoln Red Imps (GIB)  v Crvena Zvezda (SRB)      0-1 (0-1)
+▪ 2. Round
+  Tue Jul 22
+    16:00  Kuopion PS (FIN)        v FK Kairat (KAZ)          2-0 (0-0)
+    17:00  Lincoln Red Imps (GIB)  v Crvena Zvezda (SRB)      0-1 (0-1)
            FC Noah (ARM)           v Ferencvárosi TC (HUN)    1-2 (1-1)
-    18.00  FK RFS (LVA)            v Malmö FF (SWE)           1-4 (1-2)
+    18:00  FK RFS (LVA)            v Malmö FF (SWE)           1-4 (1-2)
            Hamrun Spartans (MLT)   v Dinamo Kiev (UKR)        0-3 (0-1)
            Pafos FC (CYP)          v Maccabi Tel Aviv (ISR)   1-1 (0-0)
            FC København (DEN)      v KF Drita (KOS)           2-0 (0-0)
            Viktoria Plzeň (CZE)    v Servette FC (SUI)        0-1 (0-1)
-    19.00  KF Shkëndija 79 (MKD)   v FCSB (ROU)               1-0 (0-0)
-    19.15  Slovan Bratislava (SVK) v Zrinjski Mostar (BIH)    4-0 (2-0)
-    19.30  Lech Poznań (POL)       v Breiðablik (ISL)         7-1 (5-1)
-    19.45  HNK Rijeka (CRO)        v PFC Ludogorets Razgrad (BUL)  0-0
+    19:00  KF Shkëndija 79 (MKD)   v FCSB (ROU)               1-0 (0-0)
+    19:15  Slovan Bratislava (SVK) v Zrinjski Mostar (BIH)    4-0 (2-0)
+    19:30  Lech Poznań (POL)       v Breiðablik (ISL)         7-1 (5-1)
+    19:45  HNK Rijeka (CRO)        v PFC Ludogorets Razgrad (BUL)  0-0
            Rangers FC (SCO)        v Panathinaikos (GRE)      2-0 (0-0)
-  Wed Jul/23
-    18.00  SK Brann (NOR)          v RB Salzburg (AUT)        1-4 (1-0)
-    19.45  Shelbourne FC (IRL)     v Qarabağ FK (AZE)         0-3 (0-1)
-  Tue Jul/29
-    16.00  FK Kairat (KAZ)         v Kuopion PS (FIN)         3-0 (3-0)
-    19.00  Dinamo Kiev (UKR)       v Hamrun Spartans (MLT)    3-0 (2-0)
+  Wed Jul 23
+    18:00  SK Brann (NOR)          v RB Salzburg (AUT)        1-4 (1-0)
+    19:45  Shelbourne FC (IRL)     v Qarabağ FK (AZE)         0-3 (0-1)
+  Tue Jul 29
+    16:00  FK Kairat (KAZ)         v Kuopion PS (FIN)         3-0 (3-0)
+    19:00  Dinamo Kiev (UKR)       v Hamrun Spartans (MLT)    3-0 (2-0)
            KF Drita (KOS)          v FC København (DEN)       0-1 (0-1)
-    20.00  Crvena Zvezda (SRB)     v Lincoln Red Imps (GIB)   5-1 (4-0)
+    20:00  Crvena Zvezda (SRB)     v Lincoln Red Imps (GIB)   5-1 (4-0)
            Zrinjski Mostar (BIH)   v Slovan Bratislava (SVK)  2-2 (0-0)
-  Wed Jul/30
-    17.00  Qarabağ FK (AZE)        v Shelbourne FC (IRL)      1-0 (1-0)
-    18.00  Malmö FF (SWE)          v FK RFS (LVA)             1-0 (1-0)
-    18.30  PFC Ludogorets Razgrad (BUL) v HNK Rijeka (CRO)         3-1 a.e.t. (1-1, 1-0)
+  Wed Jul 30
+    17:00  Qarabağ FK (AZE)        v Shelbourne FC (IRL)      1-0 (1-0)
+    18:00  Malmö FF (SWE)          v FK RFS (LVA)             1-0 (1-0)
+    18:30  PFC Ludogorets Razgrad (BUL) v HNK Rijeka (CRO)         3-1 a.e.t. (1-1, 1-0)
            FCSB (ROU)              v KF Shkëndija 79 (MKD)    1-2 (1-1)
-    19.00  Maccabi Tel Aviv (ISR)  v Pafos FC (CYP)           0-1 (0-1)
+    19:00  Maccabi Tel Aviv (ISR)  v Pafos FC (CYP)           0-1 (0-1)
            Ferencvárosi TC (HUN)   v FC Noah (ARM)            4-3 (2-2)
            Panathinaikos (GRE)     v Rangers FC (SCO)         1-1 (0-0)
-    19.30  Breiðablik (ISL)        v Lech Poznań (POL)        0-1 (0-1)
-    19.45  RB Salzburg (AUT)       v SK Brann (NOR)           1-1 (1-1)
-    20.00  Servette FC (SUI)       v Viktoria Plzeň (CZE)     1-3 (1-2)
+    19:30  Breiðablik (ISL)        v Lech Poznań (POL)        0-1 (0-1)
+    19:45  RB Salzburg (AUT)       v SK Brann (NOR)           1-1 (1-1)
+    20:00  Servette FC (SUI)       v Viktoria Plzeň (CZE)     1-3 (1-2)
 
 
-» 3. Round
-  Tue Aug/5
-    18.00  Malmö FF (SWE)          v FC København (DEN)       0-0
-    19.00  Dinamo Kiev (UKR)       v Pafos FC (CYP)           0-1 (0-0)
+▪ 3. Round
+  Tue Aug 5
+    18:00  Malmö FF (SWE)          v FC København (DEN)       0-0
+    19:00  Dinamo Kiev (UKR)       v Pafos FC (CYP)           0-1 (0-0)
            KF Shkëndija 79 (MKD)   v Qarabağ FK (AZE)         0-1 (0-1)
-    19.45  Rangers FC (SCO)        v Viktoria Plzeň (CZE)     3-0 (2-0)
-  Wed Aug/6
-    16.00  FK Kairat (KAZ)         v Slovan Bratislava (SVK)  1-0 (0-0)
-    18.00  RB Salzburg (AUT)       v Club Brugge KV (BEL)     0-1 (0-0)
-    18.30  PFC Ludogorets Razgrad (BUL) v Ferencvárosi TC (HUN)    0-0
-    19.30  Lech Poznań (POL)       v Crvena Zvezda (SRB)      1-3 (1-1)
-    20.00  OGC Nice (FRA)          v SL Benfica (POR)         0-2 (0-0)
+    19:45  Rangers FC (SCO)        v Viktoria Plzeň (CZE)     3-0 (2-0)
+  Wed Aug 6
+    16:00  FK Kairat (KAZ)         v Slovan Bratislava (SVK)  1-0 (0-0)
+    18:00  RB Salzburg (AUT)       v Club Brugge KV (BEL)     0-1 (0-0)
+    18:30  PFC Ludogorets Razgrad (BUL) v Ferencvárosi TC (HUN)    0-0
+    19:30  Lech Poznań (POL)       v Crvena Zvezda (SRB)      1-3 (1-1)
+    20:00  OGC Nice (FRA)          v SL Benfica (POR)         0-2 (0-0)
            Feyenoord (NED)         v Fenerbahçe (TUR)         2-1 (1-0)
-  Tue Aug/12
-    17.00  Qarabağ FK (AZE)        v KF Shkëndija 79 (MKD)    5-1 (4-1)
-    18.00  FC København (DEN)      v Malmö FF (SWE)           5-0 (2-0)
+  Tue Aug 12
+    17:00  Qarabağ FK (AZE)        v KF Shkëndija 79 (MKD)    5-1 (4-1)
+    18:00  FC København (DEN)      v Malmö FF (SWE)           5-0 (2-0)
            Pafos FC (CYP)          v Dinamo Kiev (UKR)        2-0 (1-0)
            Viktoria Plzeň (CZE)    v Rangers FC (SCO)         2-1 (1-0)
            Fenerbahçe (TUR)        v Feyenoord (NED)          5-2 (2-1)
-    18.30  Club Brugge KV (BEL)    v RB Salzburg (AUT)        3-2 (0-2)
-    19.15  Slovan Bratislava (SVK) v FK Kairat (KAZ)          3-4 pen. 1-0 a.e.t. (1-0, 1-0)
+    18:30  Club Brugge KV (BEL)    v RB Salzburg (AUT)        3-2 (0-2)
+    19:15  Slovan Bratislava (SVK) v FK Kairat (KAZ)          3-4 pen. 1-0 a.e.t. (1-0, 1-0)
            Ferencvárosi TC (HUN)   v PFC Ludogorets Razgrad (BUL)  3-0 (1-0)
-    20.00  Crvena Zvezda (SRB)     v Lech Poznań (POL)        1-1 (1-0)
+    20:00  Crvena Zvezda (SRB)     v Lech Poznań (POL)        1-1 (1-0)
            SL Benfica (POR)        v OGC Nice (FRA)           2-0 (2-0)
 
 
-» Play-offs
-  Tue Aug/19
-    20.00  Ferencvárosi TC (HUN)   v Qarabağ FK (AZE)         1-3 (1-0)
+▪ Play-offs
+  Tue Aug 19
+    20:00  Ferencvárosi TC (HUN)   v Qarabağ FK (AZE)         1-3 (1-0)
            Crvena Zvezda (SRB)     v Pafos FC (CYP)           1-2 (0-1)
            Rangers FC (SCO)        v Club Brugge KV (BEL)     1-3 (0-3)
-  Wed Aug/20
-    20.00  FK Bodø/Glimt (NOR)     v Sturm Graz (AUT)         5-0 (3-0)
+  Wed Aug 20
+    20:00  FK Bodø/Glimt (NOR)     v Sturm Graz (AUT)         5-0 (3-0)
            Celtic FC (SCO)         v FK Kairat (KAZ)          0-0
            FC Basel 1893 (SUI)     v FC København (DEN)       1-1 (1-1)
            Fenerbahçe (TUR)        v SL Benfica (POR)         0-0
-  Tue Aug/26
-    17.45  FK Kairat (KAZ)         v Celtic FC (SCO)          3-2 pen. 0-0 a.e.t. (0-0)
-    20.00  Pafos FC (CYP)          v Crvena Zvezda (SRB)      1-1 (0-0)
+  Tue Aug 26
+    17:45  FK Kairat (KAZ)         v Celtic FC (SCO)          3-2 pen. 0-0 a.e.t. (0-0)
+    20:00  Pafos FC (CYP)          v Crvena Zvezda (SRB)      1-1 (0-0)
            Sturm Graz (AUT)        v FK Bodø/Glimt (NOR)      2-1 (1-1)
-  Wed Aug/27
-    17.45  Qarabağ FK (AZE)        v Ferencvárosi TC (HUN)    2-3 (2-1)
-    20.00  FC København (DEN)      v FC Basel 1893 (SUI)      2-0 (0-0)
+  Wed Aug 27
+    17:45  Qarabağ FK (AZE)        v Ferencvárosi TC (HUN)    2-3 (2-1)
+    20:00  FC København (DEN)      v FC Basel 1893 (SUI)      2-0 (0-0)
            SL Benfica (POR)        v Fenerbahçe (TUR)         1-0 (1-0)
            Club Brugge KV (BEL)    v Rangers FC (SCO)         6-0 (5-0)

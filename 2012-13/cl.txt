@@ -1,232 +1,232 @@
 = UEFA Champions League 2012/13
 
-# Date       Tue Sep/18 2012 - Sat May/25 2013 (249d)
+# Date       Tue Sep 18 2012 - Sat May 25 2013 (249d)
 # Teams      32
 # Matches    125
 
 
 
-» Group A
-  Tue Sep/18 2012
-    20.45  Paris Saint-Germain (FRA) v Dinamo Kiev (UKR)        4-1 (3-0)
+▪ Group A
+  Tue Sep 18 2012
+    20:45  Paris Saint-Germain (FRA) v Dinamo Kiev (UKR)        4-1 (3-0)
            Dinamo Zagreb (CRO)     v FC Porto (POR)           0-2 (0-1)
-  Wed Oct/3
-    20.45  FC Porto (POR)          v Paris Saint-Germain (FRA)  1-0 (0-0)
+  Wed Oct 3
+    20:45  FC Porto (POR)          v Paris Saint-Germain (FRA)  1-0 (0-0)
            Dinamo Kiev (UKR)       v Dinamo Zagreb (CRO)      2-0 (2-0)
-  Wed Oct/24
-    20.45  FC Porto (POR)          v Dinamo Kiev (UKR)        3-2 (2-1)
+  Wed Oct 24
+    20:45  FC Porto (POR)          v Dinamo Kiev (UKR)        3-2 (2-1)
            Dinamo Zagreb (CRO)     v Paris Saint-Germain (FRA)  0-2 (0-2)
-  Tue Nov/6
-    20.45  Dinamo Kiev (UKR)       v FC Porto (POR)           0-0
+  Tue Nov 6
+    20:45  Dinamo Kiev (UKR)       v FC Porto (POR)           0-0
            Paris Saint-Germain (FRA) v Dinamo Zagreb (CRO)      4-0 (1-0)
-  Wed Nov/21
-    20.45  Dinamo Kiev (UKR)       v Paris Saint-Germain (FRA)  0-2 (0-1)
+  Wed Nov 21
+    20:45  Dinamo Kiev (UKR)       v Paris Saint-Germain (FRA)  0-2 (0-1)
            FC Porto (POR)          v Dinamo Zagreb (CRO)      3-0 (1-0)
-  Tue Dec/4
-    20.45  Paris Saint-Germain (FRA) v FC Porto (POR)           2-1 (1-1)
+  Tue Dec 4
+    20:45  Paris Saint-Germain (FRA) v FC Porto (POR)           2-1 (1-1)
            Dinamo Zagreb (CRO)     v Dinamo Kiev (UKR)        1-1 (0-1)
 
 
-» Group B
-  Tue Sep/18
-    20.45  Olympiakos Piraeus (GRE) v FC Schalke 04 (GER)      1-2 (0-1)
+▪ Group B
+  Tue Sep 18
+    20:45  Olympiakos Piraeus (GRE) v FC Schalke 04 (GER)      1-2 (0-1)
            Montpellier HSC (FRA)   v Arsenal FC (ENG)         1-2 (1-2)
-  Wed Oct/3
-    20.45  Arsenal FC (ENG)        v Olympiakos Piraeus (GRE)  3-1 (1-1)
+  Wed Oct 3
+    20:45  Arsenal FC (ENG)        v Olympiakos Piraeus (GRE)  3-1 (1-1)
            FC Schalke 04 (GER)     v Montpellier HSC (FRA)    2-2 (1-1)
-  Wed Oct/24
-    20.45  Arsenal FC (ENG)        v FC Schalke 04 (GER)      0-2 (0-0)
+  Wed Oct 24
+    20:45  Arsenal FC (ENG)        v FC Schalke 04 (GER)      0-2 (0-0)
            Montpellier HSC (FRA)   v Olympiakos Piraeus (GRE)  1-2 (0-0)
-  Tue Nov/6
-    20.45  FC Schalke 04 (GER)     v Arsenal FC (ENG)         2-2 (1-2)
+  Tue Nov 6
+    20:45  FC Schalke 04 (GER)     v Arsenal FC (ENG)         2-2 (1-2)
            Olympiakos Piraeus (GRE) v Montpellier HSC (FRA)    3-1 (1-0)
-  Wed Nov/21
-    20.45  FC Schalke 04 (GER)     v Olympiakos Piraeus (GRE)  1-0 (0-0)
+  Wed Nov 21
+    20:45  FC Schalke 04 (GER)     v Olympiakos Piraeus (GRE)  1-0 (0-0)
            Arsenal FC (ENG)        v Montpellier HSC (FRA)    2-0 (0-0)
-  Tue Dec/4
-    20.45  Olympiakos Piraeus (GRE) v Arsenal FC (ENG)         2-1 (0-1)
+  Tue Dec 4
+    20:45  Olympiakos Piraeus (GRE) v Arsenal FC (ENG)         2-1 (0-1)
            Montpellier HSC (FRA)   v FC Schalke 04 (GER)      1-1 (0-0)
 
 
-» Group C
-  Tue Sep/18
-    20.45  AC Milan (ITA)          v RSC Anderlecht (BEL)     0-0
+▪ Group C
+  Tue Sep 18
+    20:45  AC Milan (ITA)          v RSC Anderlecht (BEL)     0-0
            Málaga CF (ESP)         v Zenit St. Petersburg (RUS)  3-0 (2-0)
-  Wed Oct/3
-    18.00  Zenit St. Petersburg (RUS) v AC Milan (ITA)           2-3 (1-2)
-    20.45  RSC Anderlecht (BEL)    v Málaga CF (ESP)          0-3 (0-1)
-  Wed Oct/24
-    18.00  Zenit St. Petersburg (RUS) v RSC Anderlecht (BEL)     1-0 (0-0)
-    20.45  Málaga CF (ESP)         v AC Milan (ITA)           1-0 (0-0)
-  Tue Nov/6
-    20.45  RSC Anderlecht (BEL)    v Zenit St. Petersburg (RUS)  1-0 (1-0)
+  Wed Oct 3
+    18:00  Zenit St. Petersburg (RUS) v AC Milan (ITA)           2-3 (1-2)
+    20:45  RSC Anderlecht (BEL)    v Málaga CF (ESP)          0-3 (0-1)
+  Wed Oct 24
+    18:00  Zenit St. Petersburg (RUS) v RSC Anderlecht (BEL)     1-0 (0-0)
+    20:45  Málaga CF (ESP)         v AC Milan (ITA)           1-0 (0-0)
+  Tue Nov 6
+    20:45  RSC Anderlecht (BEL)    v Zenit St. Petersburg (RUS)  1-0 (1-0)
            AC Milan (ITA)          v Málaga CF (ESP)          1-1 (0-1)
-  Wed Nov/21
-    18.00  Zenit St. Petersburg (RUS) v Málaga CF (ESP)          2-2 (0-2)
-    20.45  RSC Anderlecht (BEL)    v AC Milan (ITA)           1-3 (0-0)
-  Tue Dec/4
-    20.45  AC Milan (ITA)          v Zenit St. Petersburg (RUS)  0-1 (0-1)
+  Wed Nov 21
+    18:00  Zenit St. Petersburg (RUS) v Málaga CF (ESP)          2-2 (0-2)
+    20:45  RSC Anderlecht (BEL)    v AC Milan (ITA)           1-3 (0-0)
+  Tue Dec 4
+    20:45  AC Milan (ITA)          v Zenit St. Petersburg (RUS)  0-1 (0-1)
            Málaga CF (ESP)         v RSC Anderlecht (BEL)     2-2 (1-0)
 
 
-» Group D
-  Tue Sep/18
-    20.45  Real Madrid (ESP)       v Manchester City (ENG)    3-2 (0-0)
+▪ Group D
+  Tue Sep 18
+    20:45  Real Madrid (ESP)       v Manchester City (ENG)    3-2 (0-0)
            Borussia Dortmund (GER) v AFC Ajax (NED)           1-0 (0-0)
-  Wed Oct/3
-    20.45  AFC Ajax (NED)          v Real Madrid (ESP)        1-4 (0-1)
+  Wed Oct 3
+    20:45  AFC Ajax (NED)          v Real Madrid (ESP)        1-4 (0-1)
            Manchester City (ENG)   v Borussia Dortmund (GER)  1-1 (0-0)
-  Wed Oct/24
-    20.45  AFC Ajax (NED)          v Manchester City (ENG)    3-1 (1-1)
+  Wed Oct 24
+    20:45  AFC Ajax (NED)          v Manchester City (ENG)    3-1 (1-1)
            Borussia Dortmund (GER) v Real Madrid (ESP)        2-1 (1-1)
-  Tue Nov/6
-    20.45  Manchester City (ENG)   v AFC Ajax (NED)           2-2 (1-2)
+  Tue Nov 6
+    20:45  Manchester City (ENG)   v AFC Ajax (NED)           2-2 (1-2)
            Real Madrid (ESP)       v Borussia Dortmund (GER)  2-2 (1-2)
-  Wed Nov/21
-    20.45  Manchester City (ENG)   v Real Madrid (ESP)        1-1 (0-1)
+  Wed Nov 21
+    20:45  Manchester City (ENG)   v Real Madrid (ESP)        1-1 (0-1)
            AFC Ajax (NED)          v Borussia Dortmund (GER)  1-4 (0-3)
-  Tue Dec/4
-    20.45  Real Madrid (ESP)       v AFC Ajax (NED)           4-1 (2-0)
+  Tue Dec 4
+    20:45  Real Madrid (ESP)       v AFC Ajax (NED)           4-1 (2-0)
            Borussia Dortmund (GER) v Manchester City (ENG)    1-0 (0-0)
 
 
-» Group E
-  Wed Sep/19
-    20.45  Chelsea FC (ENG)        v Juventus (ITA)           2-2 (2-1)
+▪ Group E
+  Wed Sep 19
+    20:45  Chelsea FC (ENG)        v Juventus (ITA)           2-2 (2-1)
            Shakhtar Donetsk (UKR)  v FC Nordsjælland (DEN)    2-0 (1-0)
-  Tue Oct/2
-    20.45  Juventus (ITA)          v Shakhtar Donetsk (UKR)   1-1 (1-1)
+  Tue Oct 2
+    20:45  Juventus (ITA)          v Shakhtar Donetsk (UKR)   1-1 (1-1)
            FC Nordsjælland (DEN)   v Chelsea FC (ENG)         0-4 (0-1)
-  Tue Oct/23
-    20.45  Shakhtar Donetsk (UKR)  v Chelsea FC (ENG)         2-1 (1-0)
+  Tue Oct 23
+    20:45  Shakhtar Donetsk (UKR)  v Chelsea FC (ENG)         2-1 (1-0)
            FC Nordsjælland (DEN)   v Juventus (ITA)           1-1 (0-0)
-  Wed Nov/7
-    20.45  Chelsea FC (ENG)        v Shakhtar Donetsk (UKR)   3-2 (2-1)
+  Wed Nov 7
+    20:45  Chelsea FC (ENG)        v Shakhtar Donetsk (UKR)   3-2 (2-1)
            Juventus (ITA)          v FC Nordsjælland (DEN)    4-0 (3-0)
-  Tue Nov/20
-    20.45  Juventus (ITA)          v Chelsea FC (ENG)         3-0 (1-0)
+  Tue Nov 20
+    20:45  Juventus (ITA)          v Chelsea FC (ENG)         3-0 (1-0)
            FC Nordsjælland (DEN)   v Shakhtar Donetsk (UKR)   2-5 (2-2)
-  Wed Dec/5
-    20.45  Shakhtar Donetsk (UKR)  v Juventus (ITA)           0-1 (0-0)
+  Wed Dec 5
+    20:45  Shakhtar Donetsk (UKR)  v Juventus (ITA)           0-1 (0-0)
            Chelsea FC (ENG)        v FC Nordsjælland (DEN)    6-1 (2-0)
 
 
-» Group F
-  Wed Sep/19
-    20.45  Bayern München (GER)    v Valencia CF (ESP)        2-1 (1-0)
+▪ Group F
+  Wed Sep 19
+    20:45  Bayern München (GER)    v Valencia CF (ESP)        2-1 (1-0)
            Lille OSC (FRA)         v BATE Borisov (BLR)       1-3 (0-3)
-  Tue Oct/2
-    20.45  Valencia CF (ESP)       v Lille OSC (FRA)          2-0 (1-0)
+  Tue Oct 2
+    20:45  Valencia CF (ESP)       v Lille OSC (FRA)          2-0 (1-0)
            BATE Borisov (BLR)      v Bayern München (GER)     3-1 (1-0)
-  Tue Oct/23
-    20.45  Lille OSC (FRA)         v Bayern München (GER)     0-1 (0-1)
+  Tue Oct 23
+    20:45  Lille OSC (FRA)         v Bayern München (GER)     0-1 (0-1)
            BATE Borisov (BLR)      v Valencia CF (ESP)        0-3 (0-1)
-  Wed Nov/7
-    20.45  Bayern München (GER)    v Lille OSC (FRA)          6-1 (5-0)
+  Wed Nov 7
+    20:45  Bayern München (GER)    v Lille OSC (FRA)          6-1 (5-0)
            Valencia CF (ESP)       v BATE Borisov (BLR)       4-2 (2-0)
-  Tue Nov/20
-    18.00  BATE Borisov (BLR)      v Lille OSC (FRA)          0-2 (0-2)
-    20.45  Valencia CF (ESP)       v Bayern München (GER)     1-1 (0-0)
-  Wed Dec/5
-    20.45  Lille OSC (FRA)         v Valencia CF (ESP)        0-1 (0-1)
+  Tue Nov 20
+    18:00  BATE Borisov (BLR)      v Lille OSC (FRA)          0-2 (0-2)
+    20:45  Valencia CF (ESP)       v Bayern München (GER)     1-1 (0-0)
+  Wed Dec 5
+    20:45  Lille OSC (FRA)         v Valencia CF (ESP)        0-1 (0-1)
            Bayern München (GER)    v BATE Borisov (BLR)       4-1 (1-0)
 
 
-» Group G
-  Wed Sep/19
-    20.45  FC Barcelona (ESP)      v Spartak Moskva (RUS)     3-2 (1-1)
+▪ Group G
+  Wed Sep 19
+    20:45  FC Barcelona (ESP)      v Spartak Moskva (RUS)     3-2 (1-1)
            Celtic FC (SCO)         v SL Benfica (POR)         0-0
-  Tue Oct/2
-    18.00  Spartak Moskva (RUS)    v Celtic FC (SCO)          2-3 (1-1)
-    20.45  SL Benfica (POR)        v FC Barcelona (ESP)       0-2 (0-1)
-  Tue Oct/23
-    18.00  Spartak Moskva (RUS)    v SL Benfica (POR)         2-1 (2-1)
-    20.45  FC Barcelona (ESP)      v Celtic FC (SCO)          2-1 (1-1)
-  Wed Nov/7
-    20.45  SL Benfica (POR)        v Spartak Moskva (RUS)     2-0 (0-0)
+  Tue Oct 2
+    18:00  Spartak Moskva (RUS)    v Celtic FC (SCO)          2-3 (1-1)
+    20:45  SL Benfica (POR)        v FC Barcelona (ESP)       0-2 (0-1)
+  Tue Oct 23
+    18:00  Spartak Moskva (RUS)    v SL Benfica (POR)         2-1 (2-1)
+    20:45  FC Barcelona (ESP)      v Celtic FC (SCO)          2-1 (1-1)
+  Wed Nov 7
+    20:45  SL Benfica (POR)        v Spartak Moskva (RUS)     2-0 (0-0)
            Celtic FC (SCO)         v FC Barcelona (ESP)       2-1 (1-0)
-  Tue Nov/20
-    18.00  Spartak Moskva (RUS)    v FC Barcelona (ESP)       0-3 (0-3)
-    20.45  SL Benfica (POR)        v Celtic FC (SCO)          2-1 (1-1)
-  Wed Dec/5
-    20.45  FC Barcelona (ESP)      v SL Benfica (POR)         0-0
+  Tue Nov 20
+    18:00  Spartak Moskva (RUS)    v FC Barcelona (ESP)       0-3 (0-3)
+    20:45  SL Benfica (POR)        v Celtic FC (SCO)          2-1 (1-1)
+  Wed Dec 5
+    20:45  FC Barcelona (ESP)      v SL Benfica (POR)         0-0
            Celtic FC (SCO)         v Spartak Moskva (RUS)     2-1 (1-1)
 
 
-» Group H
-  Wed Sep/19
-    20.45  Manchester United (ENG) v Galatasaray (TUR)        1-0 (1-0)
+▪ Group H
+  Wed Sep 19
+    20:45  Manchester United (ENG) v Galatasaray (TUR)        1-0 (1-0)
            Sporting Braga (POR)    v CFR Cluj (ROU)           0-2 (0-2)
-  Tue Oct/2
-    20.45  Galatasaray (TUR)       v Sporting Braga (POR)     0-2 (0-1)
+  Tue Oct 2
+    20:45  Galatasaray (TUR)       v Sporting Braga (POR)     0-2 (0-1)
            CFR Cluj (ROU)          v Manchester United (ENG)  1-2 (1-1)
-  Tue Oct/23
-    20.45  Manchester United (ENG) v Sporting Braga (POR)     3-2 (1-2)
+  Tue Oct 23
+    20:45  Manchester United (ENG) v Sporting Braga (POR)     3-2 (1-2)
            Galatasaray (TUR)       v CFR Cluj (ROU)           1-1 (0-1)
-  Wed Nov/7
-    20.45  Sporting Braga (POR)    v Manchester United (ENG)  1-3 (0-0)
+  Wed Nov 7
+    20:45  Sporting Braga (POR)    v Manchester United (ENG)  1-3 (0-0)
            CFR Cluj (ROU)          v Galatasaray (TUR)        1-3 (0-1)
-  Tue Nov/20
-    20.45  Galatasaray (TUR)       v Manchester United (ENG)  1-0 (0-0)
+  Tue Nov 20
+    20:45  Galatasaray (TUR)       v Manchester United (ENG)  1-0 (0-0)
            CFR Cluj (ROU)          v Sporting Braga (POR)     3-1 (3-1)
-  Wed Dec/5
-    20.45  Sporting Braga (POR)    v Galatasaray (TUR)        1-2 (1-0)
+  Wed Dec 5
+    20:45  Sporting Braga (POR)    v Galatasaray (TUR)        1-2 (1-0)
            Manchester United (ENG) v CFR Cluj (ROU)           0-1 (0-0)
 
 
-» Round of 16
-  Tue Feb/12 2013
-    20.45  Celtic FC (SCO)         v Juventus (ITA)           0-3 (0-1)
+▪ Round of 16
+  Tue Feb 12 2013
+    20:45  Celtic FC (SCO)         v Juventus (ITA)           0-3 (0-1)
            Valencia CF (ESP)       v Paris Saint-Germain (FRA)  1-2 (0-2)
-  Wed Feb/13
-    20.45  Shakhtar Donetsk (UKR)  v Borussia Dortmund (GER)  2-2 (1-1)
+  Wed Feb 13
+    20:45  Shakhtar Donetsk (UKR)  v Borussia Dortmund (GER)  2-2 (1-1)
            Real Madrid (ESP)       v Manchester United (ENG)  1-1 (1-1)
-  Tue Feb/19
-    20.45  Arsenal FC (ENG)        v Bayern München (GER)     1-3 (0-2)
+  Tue Feb 19
+    20:45  Arsenal FC (ENG)        v Bayern München (GER)     1-3 (0-2)
            FC Porto (POR)          v Málaga CF (ESP)          1-0 (0-0)
-  Wed Feb/20
-    20.45  Galatasaray (TUR)       v FC Schalke 04 (GER)      1-1 (1-1)
+  Wed Feb 20
+    20:45  Galatasaray (TUR)       v FC Schalke 04 (GER)      1-1 (1-1)
            AC Milan (ITA)          v FC Barcelona (ESP)       2-0 (0-0)
-  Tue Mar/5
-    20.45  Borussia Dortmund (GER) v Shakhtar Donetsk (UKR)   3-0 (2-0)
+  Tue Mar 5
+    20:45  Borussia Dortmund (GER) v Shakhtar Donetsk (UKR)   3-0 (2-0)
            Manchester United (ENG) v Real Madrid (ESP)        1-2 (0-0)
-  Wed Mar/6
-    20.45  Juventus (ITA)          v Celtic FC (SCO)          2-0 (1-0)
+  Wed Mar 6
+    20:45  Juventus (ITA)          v Celtic FC (SCO)          2-0 (1-0)
            Paris Saint-Germain (FRA) v Valencia CF (ESP)        1-1 (0-0)
-  Tue Mar/12
-    20.45  FC Schalke 04 (GER)     v Galatasaray (TUR)        2-3 (1-2)
+  Tue Mar 12
+    20:45  FC Schalke 04 (GER)     v Galatasaray (TUR)        2-3 (1-2)
            FC Barcelona (ESP)      v AC Milan (ITA)           4-0 (2-0)
-  Wed Mar/13
-    20.45  Bayern München (GER)    v Arsenal FC (ENG)         0-2 (0-1)
+  Wed Mar 13
+    20:45  Bayern München (GER)    v Arsenal FC (ENG)         0-2 (0-1)
            Málaga CF (ESP)         v FC Porto (POR)           2-0 (1-0)
 
 
-» Quarterfinals
-  Tue Apr/2
-    20.45  Paris Saint-Germain (FRA) v FC Barcelona (ESP)       2-2 (0-1)
+▪ Quarterfinals
+  Tue Apr 2
+    20:45  Paris Saint-Germain (FRA) v FC Barcelona (ESP)       2-2 (0-1)
            Bayern München (GER)    v Juventus (ITA)           2-0 (1-0)
-  Wed Apr/3
-    20.45  Málaga CF (ESP)         v Borussia Dortmund (GER)  0-0
+  Wed Apr 3
+    20:45  Málaga CF (ESP)         v Borussia Dortmund (GER)  0-0
            Real Madrid (ESP)       v Galatasaray (TUR)        3-0 (2-0)
-  Tue Apr/9
-    20.45  Borussia Dortmund (GER) v Málaga CF (ESP)          3-2 (1-1)
+  Tue Apr 9
+    20:45  Borussia Dortmund (GER) v Málaga CF (ESP)          3-2 (1-1)
            Galatasaray (TUR)       v Real Madrid (ESP)        3-2 (0-1)
-  Wed Apr/10
-    20.45  FC Barcelona (ESP)      v Paris Saint-Germain (FRA)  1-1 (0-0)
+  Wed Apr 10
+    20:45  FC Barcelona (ESP)      v Paris Saint-Germain (FRA)  1-1 (0-0)
            Juventus (ITA)          v Bayern München (GER)     0-2 (0-0)
 
 
-» Semifinals
-  Tue Apr/23
-    20.45  Bayern München (GER)    v FC Barcelona (ESP)       4-0 (1-0)
-  Wed Apr/24
-    20.45  Borussia Dortmund (GER) v Real Madrid (ESP)        4-1 (1-1)
-  Tue Apr/30
-    20.45  Real Madrid (ESP)       v Borussia Dortmund (GER)  2-0 (0-0)
-  Wed May/1
-    20.45  FC Barcelona (ESP)      v Bayern München (GER)     0-3 (0-0)
+▪ Semifinals
+  Tue Apr 23
+    20:45  Bayern München (GER)    v FC Barcelona (ESP)       4-0 (1-0)
+  Wed Apr 24
+    20:45  Borussia Dortmund (GER) v Real Madrid (ESP)        4-1 (1-1)
+  Tue Apr 30
+    20:45  Real Madrid (ESP)       v Borussia Dortmund (GER)  2-0 (0-0)
+  Wed May 1
+    20:45  FC Barcelona (ESP)      v Bayern München (GER)     0-3 (0-0)
 
 
-» Final
-  Sat May/25
-    20.45  Borussia Dortmund (GER) v Bayern München (GER)     1-2 (0-0)
+▪ Final
+  Sat May 25
+    20:45  Borussia Dortmund (GER) v Bayern München (GER)     1-2 (0-0)

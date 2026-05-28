@@ -1,34 +1,34 @@
 = UEFA Europa League 2024/25
 
-# Date       Wed Sep/25 2024 - Wed May/21 2025 (238d)
+# Date       Wed Sep 25 2024 - Wed May 21 2025 (238d)
 # Teams      36
 # Matches    189
 
 
 
-» League phase
-  Wed Sep/25 2024
-    18.45  AZ Alkmaar (NED)        v IF Elfsborg (SWE)        3-2 (1-1)
+▪ League phase
+  Wed Sep 25 2024
+    18:45  AZ Alkmaar (NED)        v IF Elfsborg (SWE)        3-2 (1-1)
            FK Bodø/Glimt (NOR)     v FC Porto (POR)           3-2 (2-1)
-    21.00  Manchester United (ENG) v FC Twente (NED)          1-1 (1-0)
+    21:00  Manchester United (ENG) v FC Twente (NED)          1-1 (1-0)
            PFC Ludogorets Razgrad (BUL) v Slavia Praha (CZE)       0-2 (0-1)
            Galatasaray (TUR)       v PAOK Saloniki (GRE)      3-1 (0-0)
            Dinamo Kiev (UKR)       v Lazio Roma (ITA)         0-3 (0-3)
            FC Midtjylland (DEN)    v 1899 Hoffenheim (GER)    1-1 (1-0)
            RSC Anderlecht (BEL)    v Ferencvárosi TC (HUN)    2-1 (0-0)
            OGC Nice (FRA)          v Real Sociedad (ESP)      1-1 (1-1)
-  Thu Sep/26
-    18.45  Fenerbahçe (TUR)        v Union Saint-Gilloise (BEL)  2-1 (1-0)
+  Thu Sep 26
+    18:45  Fenerbahçe (TUR)        v Union Saint-Gilloise (BEL)  2-1 (1-0)
            Malmö FF (SWE)          v Rangers FC (SCO)         0-2 (0-1)
-    21.00  AS Roma (ITA)           v Athletic Club (ESP)      1-1 (1-0)
+    21:00  AS Roma (ITA)           v Athletic Club (ESP)      1-1 (1-0)
            Eintracht Frankfurt (GER) v Viktoria Plzeň (CZE)     3-3 (1-1)
            AFC Ajax (NED)          v Beşiktaş (TUR)           4-0 (1-0)
            Sporting Braga (POR)    v Maccabi Tel Aviv (ISR)   2-1 (0-1)
            Olympique Lyonnais (FRA) v Olympiakos Piraeus (GRE)  2-0 (0-0)
            FCSB (ROU)              v FK RFS (LVA)             4-1 (2-1)
-    21.35  Tottenham Hotspur (ENG) v Qarabağ FK (AZE)         3-0 (1-0)
-  Thu Oct/3
-    18.45  Slavia Praha (CZE)      v AFC Ajax (NED)           1-1 (0-1)
+    21:35  Tottenham Hotspur (ENG) v Qarabağ FK (AZE)         3-0 (1-0)
+  Thu Oct 3
+    18:45  Slavia Praha (CZE)      v AFC Ajax (NED)           1-1 (0-1)
            Lazio Roma (ITA)        v OGC Nice (FRA)           4-1 (2-1)
            Maccabi Tel Aviv (ISR)  v FC Midtjylland (DEN)     0-2 (0-1)
            Ferencvárosi TC (HUN)   v Tottenham Hotspur (ENG)  1-2 (0-1)
@@ -37,7 +37,7 @@
            Qarabağ FK (AZE)        v Malmö FF (SWE)           1-2 (1-1)
            1899 Hoffenheim (GER)   v Dinamo Kiev (UKR)        2-0 (1-0)
            FK RFS (LVA)            v Galatasaray (TUR)        2-2 (1-2)
-    21.00  Rangers FC (SCO)        v Olympique Lyonnais (FRA)  1-4 (1-3)
+    21:00  Rangers FC (SCO)        v Olympique Lyonnais (FRA)  1-4 (1-3)
            FC Porto (POR)          v Manchester United (ENG)  3-3 (2-2)
            PAOK Saloniki (GRE)     v FCSB (ROU)               0-1 (0-1)
            Union Saint-Gilloise (BEL) v FK Bodø/Glimt (NOR)      0-0
@@ -46,18 +46,18 @@
            FC Twente (NED)         v Fenerbahçe (TUR)         1-1 (1-0)
            IF Elfsborg (SWE)       v AS Roma (ITA)            1-0 (1-0)
            Athletic Club (ESP)     v AZ Alkmaar (NED)         2-0 (0-0)
-  Wed Oct/23
-    16.30  Sporting Braga (POR)    v FK Bodø/Glimt (NOR)      1-2 (0-0)
+  Wed Oct 23
+    16:30  Sporting Braga (POR)    v FK Bodø/Glimt (NOR)      1-2 (0-0)
            Galatasaray (TUR)       v IF Elfsborg (SWE)        4-3 (3-0)
-  Thu Oct/24
-    18.45  AS Roma (ITA)           v Dinamo Kiev (UKR)        1-0 (1-0)
+  Thu Oct 24
+    18:45  AS Roma (ITA)           v Dinamo Kiev (UKR)        1-0 (1-0)
            Eintracht Frankfurt (GER) v FK RFS (LVA)             1-0 (0-0)
            Maccabi Tel Aviv (ISR)  v Real Sociedad (ESP)      1-2 (0-1)
            Ferencvárosi TC (HUN)   v OGC Nice (FRA)           1-0 (1-0)
            PAOK Saloniki (GRE)     v Viktoria Plzeň (CZE)     2-2 (0-2)
            FC Midtjylland (DEN)    v Union Saint-Gilloise (BEL)  1-0 (1-0)
            Qarabağ FK (AZE)        v AFC Ajax (NED)           0-3 (0-1)
-    21.00  Rangers FC (SCO)        v FCSB (ROU)               4-0 (2-0)
+    21:00  Rangers FC (SCO)        v FCSB (ROU)               4-0 (2-0)
            FC Porto (POR)          v 1899 Hoffenheim (GER)    2-0 (1-0)
            Tottenham Hotspur (ENG) v AZ Alkmaar (NED)         1-0 (0-0)
            Fenerbahçe (TUR)        v Manchester United (ENG)  1-1 (0-1)
@@ -66,10 +66,10 @@
            FC Twente (NED)         v Lazio Roma (ITA)         0-2 (0-1)
            Athletic Club (ESP)     v Slavia Praha (CZE)       1-0 (1-0)
            RSC Anderlecht (BEL)    v PFC Ludogorets Razgrad (BUL)  2-0 (0-0)
-  Wed Nov/6
-    16.30  Beşiktaş (TUR)          v Malmö FF (SWE)           2-1 (0-0)
-  Thu Nov/7
-    18.45  Eintracht Frankfurt (GER) v Slavia Praha (CZE)       1-0 (0-0)
+  Wed Nov 6
+    16:30  Beşiktaş (TUR)          v Malmö FF (SWE)           2-1 (0-0)
+  Thu Nov 7
+    18:45  Eintracht Frankfurt (GER) v Slavia Praha (CZE)       1-0 (0-0)
            Olympiakos Piraeus (GRE) v Rangers FC (SCO)         1-1 (0-0)
            Union Saint-Gilloise (BEL) v AS Roma (ITA)            1-1 (0-0)
            PFC Ludogorets Razgrad (BUL) v Athletic Club (ESP)      1-2 (1-0)
@@ -78,7 +78,7 @@
            IF Elfsborg (SWE)       v Sporting Braga (POR)     1-1 (0-0)
            FCSB (ROU)              v FC Midtjylland (DEN)     2-0 (1-0)
            OGC Nice (FRA)          v FC Twente (NED)          2-2 (0-1)
-    21.00  Manchester United (ENG) v PAOK Saloniki (GRE)      2-0 (0-0)
+    21:00  Manchester United (ENG) v PAOK Saloniki (GRE)      2-0 (0-0)
            Lazio Roma (ITA)        v FC Porto (POR)           2-1 (1-0)
            AFC Ajax (NED)          v Maccabi Tel Aviv (ISR)   5-0 (3-0)
            AZ Alkmaar (NED)        v Fenerbahçe (TUR)         3-1 (0-0)
@@ -86,8 +86,8 @@
            Viktoria Plzeň (CZE)    v Real Sociedad (ESP)      2-1 (1-1)
            1899 Hoffenheim (GER)   v Olympique Lyonnais (FRA)  2-2 (0-0)
            FK RFS (LVA)            v RSC Anderlecht (BEL)     1-1 (0-0)
-  Thu Nov/28
-    18.45  Lazio Roma (ITA)        v PFC Ludogorets Razgrad (BUL)  0-0
+  Thu Nov 28
+    18:45  Lazio Roma (ITA)        v PFC Ludogorets Razgrad (BUL)  0-0
            AZ Alkmaar (NED)        v Galatasaray (TUR)        1-1 (1-1)
            Dinamo Kiev (UKR)       v Viktoria Plzeň (CZE)     1-2 (0-0)
            Qarabağ FK (AZE)        v Olympique Lyonnais (FRA)  1-4 (0-1)
@@ -95,7 +95,7 @@
            Athletic Club (ESP)     v IF Elfsborg (SWE)        3-0 (2-0)
            RSC Anderlecht (BEL)    v FC Porto (POR)           2-2 (0-1)
            FK RFS (LVA)            v PAOK Saloniki (GRE)      0-2 (0-1)
-    21.00  Slavia Praha (CZE)      v Fenerbahçe (TUR)         1-2 (1-1)
+    21:00  Slavia Praha (CZE)      v Fenerbahçe (TUR)         1-2 (1-1)
            Manchester United (ENG) v FK Bodø/Glimt (NOR)      3-2 (2-2)
            Tottenham Hotspur (ENG) v AS Roma (ITA)            2-2 (2-1)
            Ferencvárosi TC (HUN)   v Malmö FF (SWE)           4-1 (2-1)
@@ -105,10 +105,10 @@
            FC Twente (NED)         v Union Saint-Gilloise (BEL)  0-1 (0-1)
            FCSB (ROU)              v Olympiakos Piraeus (GRE)  0-0
            OGC Nice (FRA)          v Rangers FC (SCO)         1-4 (0-3)
-  Wed Dec/11
-    16.30  Fenerbahçe (TUR)        v Athletic Club (ESP)      0-2 (0-2)
-  Thu Dec/12
-    18.45  AS Roma (ITA)           v Sporting Braga (POR)     3-0 (1-0)
+  Wed Dec 11
+    16:30  Fenerbahçe (TUR)        v Athletic Club (ESP)      0-2 (0-2)
+  Thu Dec 12
+    18:45  AS Roma (ITA)           v Sporting Braga (POR)     3-0 (1-0)
            PAOK Saloniki (GRE)     v Ferencvárosi TC (HUN)    5-0 (2-0)
            Olympiakos Piraeus (GRE) v FC Twente (NED)          0-0
            Union Saint-Gilloise (BEL) v OGC Nice (FRA)           2-1 (1-1)
@@ -116,7 +116,7 @@
            Malmö FF (SWE)          v Galatasaray (TUR)        2-2 (1-1)
            Viktoria Plzeň (CZE)    v Manchester United (ENG)  1-2 (0-0)
            1899 Hoffenheim (GER)   v FCSB (ROU)               0-0
-    21.00  Rangers FC (SCO)        v Tottenham Hotspur (ENG)  1-1 (0-0)
+    21:00  Rangers FC (SCO)        v Tottenham Hotspur (ENG)  1-1 (0-0)
            FC Porto (POR)          v FC Midtjylland (DEN)     2-0 (1-0)
            Slavia Praha (CZE)      v RSC Anderlecht (BEL)     1-2 (0-2)
            AFC Ajax (NED)          v Lazio Roma (ITA)         1-3 (0-1)
@@ -125,12 +125,12 @@
            Olympique Lyonnais (FRA) v Eintracht Frankfurt (GER)  3-2 (1-1)
            FK Bodø/Glimt (NOR)     v Beşiktaş (TUR)           2-1 (2-1)
            IF Elfsborg (SWE)       v Qarabağ FK (AZE)         1-0 (0-0)
-  Tue Jan/21 2025
-    16.30  Galatasaray (TUR)       v Dinamo Kiev (UKR)        3-3 (2-1)
-  Wed Jan/22
-    16.30  Beşiktaş (TUR)          v Athletic Club (ESP)      4-1 (1-1)
-  Thu Jan/23
-    18.45  FC Porto (POR)          v Olympiakos Piraeus (GRE)  0-1 (0-0)
+  Tue Jan 21 2025
+    16:30  Galatasaray (TUR)       v Dinamo Kiev (UKR)        3-3 (2-1)
+  Wed Jan 22
+    16:30  Beşiktaş (TUR)          v Athletic Club (ESP)      4-1 (1-1)
+  Thu Jan 23
+    18:45  FC Porto (POR)          v Olympiakos Piraeus (GRE)  0-1 (0-0)
            Fenerbahçe (TUR)        v Olympique Lyonnais (FRA)  0-0
            AZ Alkmaar (NED)        v AS Roma (ITA)            1-0 (0-0)
            Malmö FF (SWE)          v FC Twente (NED)          2-3 (1-1)
@@ -138,7 +138,7 @@
            FK Bodø/Glimt (NOR)     v Maccabi Tel Aviv (ISR)   3-1 (1-1)
            Viktoria Plzeň (CZE)    v RSC Anderlecht (BEL)     2-0 (2-0)
            1899 Hoffenheim (GER)   v Tottenham Hotspur (ENG)  2-3 (0-2)
-    21.00  Eintracht Frankfurt (GER) v Ferencvárosi TC (HUN)    2-0 (0-0)
+    21:00  Eintracht Frankfurt (GER) v Ferencvárosi TC (HUN)    2-0 (0-0)
            Manchester United (ENG) v Rangers FC (SCO)         2-1 (0-0)
            Lazio Roma (ITA)        v Real Sociedad (ESP)      3-1 (3-0)
            PAOK Saloniki (GRE)     v Slavia Praha (CZE)       2-0 (1-0)
@@ -146,8 +146,8 @@
            PFC Ludogorets Razgrad (BUL) v FC Midtjylland (DEN)     0-2 (0-1)
            IF Elfsborg (SWE)       v OGC Nice (FRA)           1-0 (0-0)
            FK RFS (LVA)            v AFC Ajax (NED)           1-0 (0-0)
-  Thu Jan/30
-    21.00  Rangers FC (SCO)        v Union Saint-Gilloise (BEL)  2-1 (1-0)
+  Thu Jan 30
+    21:00  Rangers FC (SCO)        v Union Saint-Gilloise (BEL)  2-1 (1-0)
            AS Roma (ITA)           v Eintracht Frankfurt (GER)  2-0 (1-0)
            Slavia Praha (CZE)      v Malmö FF (SWE)           2-2 (0-0)
            Tottenham Hotspur (ENG) v IF Elfsborg (SWE)        3-0 (0-0)
@@ -167,70 +167,70 @@
            OGC Nice (FRA)          v FK Bodø/Glimt (NOR)      1-1 (0-0)
 
 
-» Playoffs
-  Thu Feb/13
-    18.45  Fenerbahçe (TUR)        v RSC Anderlecht (BEL)     3-0 (2-0)
+▪ Playoffs
+  Thu Feb 13
+    18:45  Fenerbahçe (TUR)        v RSC Anderlecht (BEL)     3-0 (2-0)
            Union Saint-Gilloise (BEL) v AFC Ajax (NED)           0-2 (0-0)
            FC Midtjylland (DEN)    v Real Sociedad (ESP)      1-2 (1-2)
            Ferencvárosi TC (HUN)   v Viktoria Plzeň (CZE)     1-0 (1-0)
-    21.00  FC Twente (NED)         v FK Bodø/Glimt (NOR)      2-1 (1-0)
+    21:00  FC Twente (NED)         v FK Bodø/Glimt (NOR)      2-1 (1-0)
            PAOK Saloniki (GRE)     v FCSB (ROU)               1-2 (1-0)
            AZ Alkmaar (NED)        v Galatasaray (TUR)        4-1 (2-1)
            FC Porto (POR)          v AS Roma (ITA)            1-1 (0-1)
-  Thu Feb/20
-    18.45  FK Bodø/Glimt (NOR)     v FC Twente (NED)          5-2 a.e.t. (3-2, 0-1)
+  Thu Feb 20
+    18:45  FK Bodø/Glimt (NOR)     v FC Twente (NED)          5-2 a.e.t. (3-2, 0-1)
            FCSB (ROU)              v PAOK Saloniki (GRE)      2-0 (1-0)
            Galatasaray (TUR)       v AZ Alkmaar (NED)         2-2 (0-1)
            AS Roma (ITA)           v FC Porto (POR)           3-2 (2-1)
-    21.00  RSC Anderlecht (BEL)    v Fenerbahçe (TUR)         2-2 (1-1)
+    21:00  RSC Anderlecht (BEL)    v Fenerbahçe (TUR)         2-2 (1-1)
            AFC Ajax (NED)          v Union Saint-Gilloise (BEL)  1-2 a.e.t. (0-2, 0-2)
            Real Sociedad (ESP)     v FC Midtjylland (DEN)     5-2 (3-2)
            Viktoria Plzeň (CZE)    v Ferencvárosi TC (HUN)    3-0 (3-0)
 
 
-» Round of 16
-  Thu Mar/6
-    18.45  AZ Alkmaar (NED)        v Tottenham Hotspur (ENG)  1-0 (1-0)
+▪ Round of 16
+  Thu Mar 6
+    18:45  AZ Alkmaar (NED)        v Tottenham Hotspur (ENG)  1-0 (1-0)
            Real Sociedad (ESP)     v Manchester United (ENG)  1-1 (0-0)
            FCSB (ROU)              v Olympique Lyonnais (FRA)  1-3 (0-1)
            Fenerbahçe (TUR)        v Rangers FC (SCO)         1-3 (1-2)
-    21.00  AS Roma (ITA)           v Athletic Club (ESP)      2-1 (0-0)
+    21:00  AS Roma (ITA)           v Athletic Club (ESP)      2-1 (0-0)
            FK Bodø/Glimt (NOR)     v Olympiakos Piraeus (GRE)  3-0 (2-0)
            AFC Ajax (NED)          v Eintracht Frankfurt (GER)  1-2 (1-1)
            Viktoria Plzeň (CZE)    v Lazio Roma (ITA)         1-2 (0-1)
-  Thu Mar/13
-    18.45  Lazio Roma (ITA)        v Viktoria Plzeň (CZE)     1-1 (0-0)
+  Thu Mar 13
+    18:45  Lazio Roma (ITA)        v Viktoria Plzeň (CZE)     1-1 (0-0)
            Olympiakos Piraeus (GRE) v FK Bodø/Glimt (NOR)      2-1 (0-1)
            Eintracht Frankfurt (GER) v AFC Ajax (NED)           4-1 (2-0)
            Athletic Club (ESP)     v AS Roma (ITA)            3-1 (1-0)
-    21.00  Tottenham Hotspur (ENG) v AZ Alkmaar (NED)         3-1 (1-0)
+    21:00  Tottenham Hotspur (ENG) v AZ Alkmaar (NED)         3-1 (1-0)
            Manchester United (ENG) v Real Sociedad (ESP)      4-1 (1-1)
            Olympique Lyonnais (FRA) v FCSB (ROU)               4-0 (2-0)
            Rangers FC (SCO)        v Fenerbahçe (TUR)         3-2 pen. 0-2 a.e.t. (0-2, 0-1)
 
 
-» Quarterfinals
-  Thu Apr/10
-    18.45  FK Bodø/Glimt (NOR)     v Lazio Roma (ITA)         2-0 (0-0)
-    21.00  Tottenham Hotspur (ENG) v Eintracht Frankfurt (GER)  1-1 (1-1)
+▪ Quarterfinals
+  Thu Apr 10
+    18:45  FK Bodø/Glimt (NOR)     v Lazio Roma (ITA)         2-0 (0-0)
+    21:00  Tottenham Hotspur (ENG) v Eintracht Frankfurt (GER)  1-1 (1-1)
            Rangers FC (SCO)        v Athletic Club (ESP)      0-0
            Olympique Lyonnais (FRA) v Manchester United (ENG)  2-2 (1-1)
-  Thu Apr/17
-    21.00  Eintracht Frankfurt (GER) v Tottenham Hotspur (ENG)  0-1 (0-1)
+  Thu Apr 17
+    21:00  Eintracht Frankfurt (GER) v Tottenham Hotspur (ENG)  0-1 (0-1)
            Lazio Roma (ITA)        v FK Bodø/Glimt (NOR)      2-3 pen. 3-1 a.e.t. (2-0, 1-0)
            Athletic Club (ESP)     v Rangers FC (SCO)         2-0 (1-0)
            Manchester United (ENG) v Olympique Lyonnais (FRA)  5-4 a.e.t. (2-2, 2-0)
 
 
-» Semifinals
-  Thu May/1
-    21.00  Tottenham Hotspur (ENG) v FK Bodø/Glimt (NOR)      3-1 (2-0)
+▪ Semifinals
+  Thu May 1
+    21:00  Tottenham Hotspur (ENG) v FK Bodø/Glimt (NOR)      3-1 (2-0)
            Athletic Club (ESP)     v Manchester United (ENG)  0-3 (0-3)
-  Thu May/8
-    21.00  FK Bodø/Glimt (NOR)     v Tottenham Hotspur (ENG)  0-2 (0-0)
+  Thu May 8
+    21:00  FK Bodø/Glimt (NOR)     v Tottenham Hotspur (ENG)  0-2 (0-0)
            Manchester United (ENG) v Athletic Club (ESP)      4-1 (0-1)
 
 
-» Final
-  Wed May/21
-    21.00  Tottenham Hotspur (ENG) v Manchester United (ENG)  1-0 (1-0)
+▪ Final
+  Wed May 21
+    21:00  Tottenham Hotspur (ENG) v Manchester United (ENG)  1-0 (1-0)

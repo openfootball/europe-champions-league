@@ -1,112 +1,112 @@
 = UEFA Europa League - Quali 2025/26
 
-# Date       Thu Jul/10 - Thu Aug/28 2025 (49d)
+# Date       Thu Jul 10 - Thu Aug 28 2025 (49d)
 # Teams      53
 # Matches    82
 
 
 
-» 1. Round
-  Thu Jul/10 2025
-    17.00  Sabah FK (AZE)          v NK Celje (SVN)           2-3 (2-1)
-    17.30  AEK Larnaca (CYP)       v Partizan (SRB)           1-0 (0-0)
-    18.00  FC Sheriff (MDA)        v FC Prishtina (KOS)       4-0 (2-0)
+▪ 1. Round
+  Thu Jul 10 2025
+    17:00  Sabah FK (AZE)          v NK Celje (SVN)           2-3 (2-1)
+    17:30  AEK Larnaca (CYP)       v Partizan (SRB)           1-0 (0-0)
+    18:00  FC Sheriff (MDA)        v FC Prishtina (KOS)       4-0 (2-0)
            Paksi SE (HUN)          v CFR Cluj (ROU)           0-0
-    18.30  Levski Sofia (BUL)      v Hapoel Be'er Sheva (ISR)  0-0
-    19.00  Shakhtar Donetsk (UKR)  v Ilves Tampere (FIN)      6-0 (2-0)
-    19.15  Spartak Trnava (SVK)    v BK Häcken (SWE)          0-1 (0-0)
-    20.00  Legia Warszawa (POL)    v FK Aktobe (KAZ)          1-0 (1-0)
-  Thu Jul/17
-    17.00  Ilves Tampere (FIN)     v Shakhtar Donetsk (UKR)   0-0
+    18:30  Levski Sofia (BUL)      v Hapoel Be'er Sheva (ISR)  0-0
+    19:00  Shakhtar Donetsk (UKR)  v Ilves Tampere (FIN)      6-0 (2-0)
+    19:15  Spartak Trnava (SVK)    v BK Häcken (SWE)          0-1 (0-0)
+    20:00  Legia Warszawa (POL)    v FK Aktobe (KAZ)          1-0 (1-0)
+  Thu Jul 17
+    17:00  Ilves Tampere (FIN)     v Shakhtar Donetsk (UKR)   0-0
            FK Aktobe (KAZ)         v Legia Warszawa (POL)     0-1 (0-0)
-    18.00  BK Häcken (SWE)         v Spartak Trnava (SVK)     2-2 (1-0)
-    18.30  CFR Cluj (ROU)          v Paksi SE (HUN)           3-0 (1-0)
-    19.00  FC Prishtina (KOS)      v FC Sheriff (MDA)         2-1 (0-0)
+    18:00  BK Häcken (SWE)         v Spartak Trnava (SVK)     2-2 (1-0)
+    18:30  CFR Cluj (ROU)          v Paksi SE (HUN)           3-0 (1-0)
+    19:00  FC Prishtina (KOS)      v FC Sheriff (MDA)         2-1 (0-0)
            NK Celje (SVN)          v Sabah FK (AZE)           3-3 a.e.t. (2-3, 1-1)
            Hapoel Be'er Sheva (ISR) v Levski Sofia (BUL)       1-3 pen. 1-1 a.e.t. (0-0)
-    20.00  Partizan (SRB)          v AEK Larnaca (CYP)        5-6 pen. 2-1 a.e.t. (1-0, 0-0)
+    20:00  Partizan (SRB)          v AEK Larnaca (CYP)        5-6 pen. 2-1 a.e.t. (1-0, 0-0)
 
 
-» 2. Round
-  Thu Jul/24
-    18.00  Baník Ostrava (CZE)     v Legia Warszawa (POL)     2-2 (1-1)
+▪ 2. Round
+  Thu Jul 24
+    18:00  Baník Ostrava (CZE)     v Legia Warszawa (POL)     2-2 (1-1)
            FC Sheriff (MDA)        v FC Utrecht (NED)         1-3 (1-1)
-    18.30  Levski Sofia (BUL)      v Sporting Braga (POR)     0-0
+    18:30  Levski Sofia (BUL)      v Sporting Braga (POR)     0-0
            FC Midtjylland (DEN)    v Hibernian FC (SCO)       1-1 (0-1)
-    19.00  NK Celje (SVN)          v AEK Larnaca (CYP)        1-1 (1-0)
+    19:00  NK Celje (SVN)          v AEK Larnaca (CYP)        1-1 (1-0)
            RSC Anderlecht (BEL)    v BK Häcken (SWE)          1-0 (1-0)
            Beşiktaş (TUR)          v Shakhtar Donetsk (UKR)   2-4 (1-2)
-    19.30  FC Lugano (SUI)         v CFR Cluj (ROU)           0-0
-  Thu Jul/31
-    17.30  AEK Larnaca (CYP)       v NK Celje (SVN)           2-1 (1-0)
-    18.00  BK Häcken (SWE)         v RSC Anderlecht (BEL)     4-2 pen. 2-1 a.e.t. (2-1, 1-0)
-    18.30  CFR Cluj (ROU)          v FC Lugano (SUI)          1-0 a.e.t. (0-0)
-    19.00  FC Utrecht (NED)        v FC Sheriff (MDA)         4-1 (1-0)
+    19:30  FC Lugano (SUI)         v CFR Cluj (ROU)           0-0
+  Thu Jul 31
+    17:30  AEK Larnaca (CYP)       v NK Celje (SVN)           2-1 (1-0)
+    18:00  BK Häcken (SWE)         v RSC Anderlecht (BEL)     4-2 pen. 2-1 a.e.t. (2-1, 1-0)
+    18:30  CFR Cluj (ROU)          v FC Lugano (SUI)          1-0 a.e.t. (0-0)
+    19:00  FC Utrecht (NED)        v FC Sheriff (MDA)         4-1 (1-0)
            Shakhtar Donetsk (UKR)  v Beşiktaş (TUR)           2-0 (2-0)
-    20.00  Sporting Braga (POR)    v Levski Sofia (BUL)       1-0 a.e.t. (0-0)
+    20:00  Sporting Braga (POR)    v Levski Sofia (BUL)       1-0 a.e.t. (0-0)
            Legia Warszawa (POL)    v Baník Ostrava (CZE)      2-1 (0-1)
            Hibernian FC (SCO)      v FC Midtjylland (DEN)     1-2 a.e.t. (0-0)
 
 
-» 3. Round
-  Tue Aug/5
-    18.00  Hamrun Spartans (MLT)   v Maccabi Tel Aviv (ISR)   1-2 (0-0)
-  Wed Aug/6
-    18.00  FK RFS (LVA)            v Kuopion PS (FIN)         1-2 (0-2)
-    19.45  HNK Rijeka (CRO)        v Shelbourne FC (IRL)      1-2 (0-0)
-  Thu Aug/7
-    17.00  Lincoln Red Imps (GIB)  v FC Noah (ARM)            1-1 (1-1)
+▪ 3. Round
+  Tue Aug 5
+    18:00  Hamrun Spartans (MLT)   v Maccabi Tel Aviv (ISR)   1-2 (0-0)
+  Wed Aug 6
+    18:00  FK RFS (LVA)            v Kuopion PS (FIN)         1-2 (0-2)
+    19:45  HNK Rijeka (CRO)        v Shelbourne FC (IRL)      1-2 (0-0)
+  Thu Aug 7
+    17:00  Lincoln Red Imps (GIB)  v FC Noah (ARM)            1-1 (1-1)
            Fredrikstad FK (NOR)    v FC Midtjylland (DEN)     1-3 (0-2)
-    17.30  AEK Larnaca (CYP)       v Legia Warszawa (POL)     4-1 (1-1)
+    17:30  AEK Larnaca (CYP)       v Legia Warszawa (POL)     4-1 (1-1)
            CFR Cluj (ROU)          v Sporting Braga (POR)     1-2 (1-1)
-    18.00  BK Häcken (SWE)         v SK Brann (NOR)           0-2 (0-1)
-    18.30  PAOK Saloniki (GRE)     v Wolfsberger AC (AUT)     0-0
-    19.00  Zrinjski Mostar (BIH)   v Breiðablik (ISL)         1-1 (0-1)
+    18:00  BK Häcken (SWE)         v SK Brann (NOR)           0-2 (0-1)
+    18:30  PAOK Saloniki (GRE)     v Wolfsberger AC (AUT)     0-0
+    19:00  Zrinjski Mostar (BIH)   v Breiðablik (ISL)         1-1 (0-1)
            Panathinaikos (GRE)     v Shakhtar Donetsk (UKR)   0-0
-    19.30  FCSB (ROU)              v KF Drita (KOS)           3-2 (0-1)
+    19:30  FCSB (ROU)              v KF Drita (KOS)           3-2 (0-1)
            Servette FC (SUI)       v FC Utrecht (NED)         1-3 (1-0)
-  Tue Aug/12
-    19.45  Shelbourne FC (IRL)     v HNK Rijeka (CRO)         1-3 (0-1)
-  Thu Aug/14
-    16.00  Kuopion PS (FIN)        v FK RFS (LVA)             1-0 (0-0)
-    17.00  FC Midtjylland (DEN)    v Fredrikstad FK (NOR)     2-0 (2-0)
-    18.00  FC Noah (ARM)           v Lincoln Red Imps (GIB)   5-6 pen. 0-0 a.e.t. (0-0)
+  Tue Aug 12
+    19:45  Shelbourne FC (IRL)     v HNK Rijeka (CRO)         1-3 (0-1)
+  Thu Aug 14
+    16:00  Kuopion PS (FIN)        v FK RFS (LVA)             1-0 (0-0)
+    17:00  FC Midtjylland (DEN)    v Fredrikstad FK (NOR)     2-0 (2-0)
+    18:00  FC Noah (ARM)           v Lincoln Red Imps (GIB)   5-6 pen. 0-0 a.e.t. (0-0)
            Wolfsberger AC (AUT)    v PAOK Saloniki (GRE)      0-1 a.e.t. (0-0)
            SK Brann (NOR)          v BK Häcken (SWE)          0-1 (0-1)
-    18.30  Breiðablik (ISL)        v Zrinjski Mostar (BIH)    1-2 (0-1)
-    19.00  Maccabi Tel Aviv (ISR)  v Hamrun Spartans (MLT)    3-1 (2-1)
+    18:30  Breiðablik (ISL)        v Zrinjski Mostar (BIH)    1-2 (0-1)
+    19:00  Maccabi Tel Aviv (ISR)  v Hamrun Spartans (MLT)    3-1 (2-1)
            KF Drita (KOS)          v FCSB (ROU)               1-3 (0-2)
            FC Utrecht (NED)        v Servette FC (SUI)        2-1 (0-0)
            Shakhtar Donetsk (UKR)  v Panathinaikos (GRE)      3-4 pen. 0-0 a.e.t. (0-0)
-    19.30  Sporting Braga (POR)    v CFR Cluj (ROU)           2-0 (2-0)
-    20.00  Legia Warszawa (POL)    v AEK Larnaca (CYP)        2-1 (2-0)
+    19:30  Sporting Braga (POR)    v CFR Cluj (ROU)           2-0 (2-0)
+    20:00  Legia Warszawa (POL)    v AEK Larnaca (CYP)        2-1 (2-0)
 
 
-» Play-offs
-  Thu Aug/21
-    17.30  FC Midtjylland (DEN)    v Kuopion PS (FIN)         4-0 (2-0)
-    18.00  Malmö FF (SWE)          v Sigma Olomouc (CZE)      3-0 (2-0)
+▪ Play-offs
+  Thu Aug 21
+    17:30  FC Midtjylland (DEN)    v Kuopion PS (FIN)         4-0 (2-0)
+    18:00  Malmö FF (SWE)          v Sigma Olomouc (CZE)      3-0 (2-0)
            SK Brann (NOR)          v AEK Larnaca (CYP)        2-1 (1-1)
-    19.00  Maccabi Tel Aviv (ISR)  v Dinamo Kiev (UKR)        3-1 (1-1)
+    19:00  Maccabi Tel Aviv (ISR)  v Dinamo Kiev (UKR)        3-1 (1-1)
            KF Shkëndija 79 (MKD)   v PFC Ludogorets Razgrad (BUL)  2-1 (1-1)
            Panathinaikos (GRE)     v Samsunspor (TUR)         2-1 (0-0)
            Zrinjski Mostar (BIH)   v FC Utrecht (NED)         0-2 (0-1)
-    19.15  Slovan Bratislava (SVK) v BSC Young Boys (SUI)     0-1 (0-1)
-    19.30  Lech Poznań (POL)       v KRC Genk (BEL)           1-5 (1-4)
-    19.45  Aberdeen FC (SCO)       v FCSB (ROU)               2-2 (0-1)
+    19:15  Slovan Bratislava (SVK) v BSC Young Boys (SUI)     0-1 (0-1)
+    19:30  Lech Poznań (POL)       v KRC Genk (BEL)           1-5 (1-4)
+    19:45  Aberdeen FC (SCO)       v FCSB (ROU)               2-2 (0-1)
            HNK Rijeka (CRO)        v PAOK Saloniki (GRE)      1-0 (1-0)
-    20.00  Lincoln Red Imps (GIB)  v Sporting Braga (POR)     0-4 (0-2)
-  Wed Aug/27
-    17.30  AEK Larnaca (CYP)       v SK Brann (NOR)           0-4 (0-1)
-  Thu Aug/28
-    16.00  Kuopion PS (FIN)        v FC Midtjylland (DEN)     0-2 (0-0)
-    17.30  Sigma Olomouc (CZE)     v Malmö FF (SWE)           0-2 (0-0)
-    18.00  Samsunspor (TUR)        v Panathinaikos (GRE)      0-0
-    18.30  PFC Ludogorets Razgrad (BUL) v KF Shkëndija 79 (MKD)    4-1 a.e.t. (2-1, 2-0)
+    20:00  Lincoln Red Imps (GIB)  v Sporting Braga (POR)     0-4 (0-2)
+  Wed Aug 27
+    17:30  AEK Larnaca (CYP)       v SK Brann (NOR)           0-4 (0-1)
+  Thu Aug 28
+    16:00  Kuopion PS (FIN)        v FC Midtjylland (DEN)     0-2 (0-0)
+    17:30  Sigma Olomouc (CZE)     v Malmö FF (SWE)           0-2 (0-0)
+    18:00  Samsunspor (TUR)        v Panathinaikos (GRE)      0-0
+    18:30  PFC Ludogorets Razgrad (BUL) v KF Shkëndija 79 (MKD)    4-1 a.e.t. (2-1, 2-0)
            PAOK Saloniki (GRE)     v HNK Rijeka (CRO)         5-0 (2-0)
-    19.00  Dinamo Kiev (UKR)       v Maccabi Tel Aviv (ISR)   1-0 (1-0)
+    19:00  Dinamo Kiev (UKR)       v Maccabi Tel Aviv (ISR)   1-0 (1-0)
            BSC Young Boys (SUI)    v Slovan Bratislava (SVK)  3-2 (2-1)
            KRC Genk (BEL)          v Lech Poznań (POL)        1-2 (1-1)
            FC Utrecht (NED)        v Zrinjski Mostar (BIH)    0-0
-    19.30  FCSB (ROU)              v Aberdeen FC (SCO)        3-0 (1-0)
-    20.00  Sporting Braga (POR)    v Lincoln Red Imps (GIB)   5-1 (3-0)
+    19:30  FCSB (ROU)              v Aberdeen FC (SCO)        3-0 (1-0)
+    20:00  Sporting Braga (POR)    v Lincoln Red Imps (GIB)   5-1 (3-0)

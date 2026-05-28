@@ -1,248 +1,248 @@
 = UEFA Europa League 2021/22
 
-# Date       Wed Sep/15 2021 - Wed May/18 2022 (245d)
+# Date       Wed Sep 15 2021 - Wed May 18 2022 (245d)
 # Teams      40
 # Matches    141
 
 
 
-» Group A
-  Thu Sep/16 2021
-    21.00  Brøndby IF (DEN)        v AC Sparta Praha (CZE)    0-0
+▪ Group A
+  Thu Sep 16 2021
+    21:00  Brøndby IF (DEN)        v AC Sparta Praha (CZE)    0-0
            Rangers FC (SCO)        v Olympique Lyonnais (FRA)  0-2 (0-1)
-  Thu Sep/30
-    18.45  Olympique Lyonnais (FRA) v Brøndby IF (DEN)         3-0 (0-0)
+  Thu Sep 30
+    18:45  Olympique Lyonnais (FRA) v Brøndby IF (DEN)         3-0 (0-0)
            AC Sparta Praha (CZE)   v Rangers FC (SCO)         1-0 (1-0)
-  Thu Oct/21
-    21.00  Rangers FC (SCO)        v Brøndby IF (DEN)         2-0 (2-0)
+  Thu Oct 21
+    21:00  Rangers FC (SCO)        v Brøndby IF (DEN)         2-0 (2-0)
            AC Sparta Praha (CZE)   v Olympique Lyonnais (FRA)  3-4 (2-1)
-  Thu Nov/4
-    18.45  Brøndby IF (DEN)        v Rangers FC (SCO)         1-1 (1-0)
+  Thu Nov 4
+    18:45  Brøndby IF (DEN)        v Rangers FC (SCO)         1-1 (1-0)
            Olympique Lyonnais (FRA) v AC Sparta Praha (CZE)    3-0 (0-0)
-  Thu Nov/25
-    21.00  Brøndby IF (DEN)        v Olympique Lyonnais (FRA)  1-3 (0-0)
+  Thu Nov 25
+    21:00  Brøndby IF (DEN)        v Olympique Lyonnais (FRA)  1-3 (0-0)
            Rangers FC (SCO)        v AC Sparta Praha (CZE)    2-0 (1-0)
-  Thu Dec/9
-    18.45  AC Sparta Praha (CZE)   v Brøndby IF (DEN)         2-0 (1-0)
+  Thu Dec 9
+    18:45  AC Sparta Praha (CZE)   v Brøndby IF (DEN)         2-0 (1-0)
            Olympique Lyonnais (FRA) v Rangers FC (SCO)         1-1 (0-1)
 
 
-» Group B
-  Thu Sep/16
-    21.00  AS Monaco (FRA)         v Sturm Graz (AUT)         1-0 (0-0)
+▪ Group B
+  Thu Sep 16
+    21:00  AS Monaco (FRA)         v Sturm Graz (AUT)         1-0 (0-0)
            PSV Eindhoven (NED)     v Real Sociedad (ESP)      2-2 (1-2)
-  Thu Sep/30
-    18.45  Real Sociedad (ESP)     v AS Monaco (FRA)          1-1 (0-1)
+  Thu Sep 30
+    18:45  Real Sociedad (ESP)     v AS Monaco (FRA)          1-1 (0-1)
            Sturm Graz (AUT)        v PSV Eindhoven (NED)      1-4 (0-1)
-  Thu Oct/21
-    21.00  PSV Eindhoven (NED)     v AS Monaco (FRA)          1-2 (0-1)
+  Thu Oct 21
+    21:00  PSV Eindhoven (NED)     v AS Monaco (FRA)          1-2 (0-1)
            Sturm Graz (AUT)        v Real Sociedad (ESP)      0-1 (0-0)
-  Thu Nov/4
-    18.45  AS Monaco (FRA)         v PSV Eindhoven (NED)      0-0
+  Thu Nov 4
+    18:45  AS Monaco (FRA)         v PSV Eindhoven (NED)      0-0
            Real Sociedad (ESP)     v Sturm Graz (AUT)         1-1 (0-1)
-  Thu Nov/25
-    21.00  AS Monaco (FRA)         v Real Sociedad (ESP)      2-1 (2-1)
+  Thu Nov 25
+    21:00  AS Monaco (FRA)         v Real Sociedad (ESP)      2-1 (2-1)
            PSV Eindhoven (NED)     v Sturm Graz (AUT)         2-0 (1-0)
-  Thu Dec/9
-    18.45  Sturm Graz (AUT)        v AS Monaco (FRA)          1-1 (1-1)
+  Thu Dec 9
+    18:45  Sturm Graz (AUT)        v AS Monaco (FRA)          1-1 (1-1)
            Real Sociedad (ESP)     v PSV Eindhoven (NED)      3-0 (1-0)
 
 
-» Group C
-  Wed Sep/15
-    16.30  Spartak Moskva (RUS)    v Legia Warszawa (POL)     0-1 (0-0)
-  Thu Sep/16
-    21.00  Leicester City (ENG)    v SSC Napoli (ITA)         2-2 (1-0)
-  Thu Sep/30
-    18.45  Legia Warszawa (POL)    v Leicester City (ENG)     1-0 (1-0)
+▪ Group C
+  Wed Sep 15
+    16:30  Spartak Moskva (RUS)    v Legia Warszawa (POL)     0-1 (0-0)
+  Thu Sep 16
+    21:00  Leicester City (ENG)    v SSC Napoli (ITA)         2-2 (1-0)
+  Thu Sep 30
+    18:45  Legia Warszawa (POL)    v Leicester City (ENG)     1-0 (1-0)
            SSC Napoli (ITA)        v Spartak Moskva (RUS)     2-3 (1-0)
-  Wed Oct/20
-    16.30  Spartak Moskva (RUS)    v Leicester City (ENG)     3-4 (2-1)
-  Thu Oct/21
-    21.00  SSC Napoli (ITA)        v Legia Warszawa (POL)     3-0 (0-0)
-  Thu Nov/4
-    18.45  Legia Warszawa (POL)    v SSC Napoli (ITA)         1-4 (1-0)
-    21.00  Leicester City (ENG)    v Spartak Moskva (RUS)     1-1 (0-0)
-  Wed Nov/24
-    16.30  Spartak Moskva (RUS)    v SSC Napoli (ITA)         2-1 (2-0)
-  Thu Nov/25
-    21.00  Leicester City (ENG)    v Legia Warszawa (POL)     3-1 (3-1)
-  Thu Dec/9
-    18.45  Legia Warszawa (POL)    v Spartak Moskva (RUS)     0-1 (0-1)
+  Wed Oct 20
+    16:30  Spartak Moskva (RUS)    v Leicester City (ENG)     3-4 (2-1)
+  Thu Oct 21
+    21:00  SSC Napoli (ITA)        v Legia Warszawa (POL)     3-0 (0-0)
+  Thu Nov 4
+    18:45  Legia Warszawa (POL)    v SSC Napoli (ITA)         1-4 (1-0)
+    21:00  Leicester City (ENG)    v Spartak Moskva (RUS)     1-1 (0-0)
+  Wed Nov 24
+    16:30  Spartak Moskva (RUS)    v SSC Napoli (ITA)         2-1 (2-0)
+  Thu Nov 25
+    21:00  Leicester City (ENG)    v Legia Warszawa (POL)     3-1 (3-1)
+  Thu Dec 9
+    18:45  Legia Warszawa (POL)    v Spartak Moskva (RUS)     0-1 (0-1)
            SSC Napoli (ITA)        v Leicester City (ENG)     3-2 (2-2)
 
 
-» Group D
-  Thu Sep/16
-    21.00  Eintracht Frankfurt (GER) v Fenerbahçe (TUR)         1-1 (1-1)
+▪ Group D
+  Thu Sep 16
+    21:00  Eintracht Frankfurt (GER) v Fenerbahçe (TUR)         1-1 (1-1)
            Olympiakos Piraeus (GRE) v Royal Antwerp FC (BEL)   2-1 (0-0)
-  Thu Sep/30
-    18.45  Royal Antwerp FC (BEL)  v Eintracht Frankfurt (GER)  0-1 (0-0)
+  Thu Sep 30
+    18:45  Royal Antwerp FC (BEL)  v Eintracht Frankfurt (GER)  0-1 (0-0)
            Fenerbahçe (TUR)        v Olympiakos Piraeus (GRE)  0-3 (0-1)
-  Thu Oct/21
-    18.45  Fenerbahçe (TUR)        v Royal Antwerp FC (BEL)   2-2 (2-1)
-    21.00  Eintracht Frankfurt (GER) v Olympiakos Piraeus (GRE)  3-1 (2-1)
-  Thu Nov/4
-    18.45  Olympiakos Piraeus (GRE) v Eintracht Frankfurt (GER)  1-2 (1-1)
-    21.00  Royal Antwerp FC (BEL)  v Fenerbahçe (TUR)         0-3 (0-3)
-  Thu Nov/25
-    21.00  Eintracht Frankfurt (GER) v Royal Antwerp FC (BEL)   2-2 (1-1)
+  Thu Oct 21
+    18:45  Fenerbahçe (TUR)        v Royal Antwerp FC (BEL)   2-2 (2-1)
+    21:00  Eintracht Frankfurt (GER) v Olympiakos Piraeus (GRE)  3-1 (2-1)
+  Thu Nov 4
+    18:45  Olympiakos Piraeus (GRE) v Eintracht Frankfurt (GER)  1-2 (1-1)
+    21:00  Royal Antwerp FC (BEL)  v Fenerbahçe (TUR)         0-3 (0-3)
+  Thu Nov 25
+    21:00  Eintracht Frankfurt (GER) v Royal Antwerp FC (BEL)   2-2 (1-1)
            Olympiakos Piraeus (GRE) v Fenerbahçe (TUR)         1-0 (0-0)
-  Thu Dec/9
-    18.45  Fenerbahçe (TUR)        v Eintracht Frankfurt (GER)  1-1 (1-1)
+  Thu Dec 9
+    18:45  Fenerbahçe (TUR)        v Eintracht Frankfurt (GER)  1-1 (1-1)
            Royal Antwerp FC (BEL)  v Olympiakos Piraeus (GRE)  1-0 (1-0)
 
 
-» Group E
-  Thu Sep/16
-    18.45  Galatasaray (TUR)       v Lazio Roma (ITA)         1-0 (0-0)
+▪ Group E
+  Thu Sep 16
+    18:45  Galatasaray (TUR)       v Lazio Roma (ITA)         1-0 (0-0)
            Lokomotiv Moskva (RUS)  v Olympique Marseille (FRA)  1-1 (0-0)
-  Thu Sep/30
-    21.00  Olympique Marseille (FRA) v Galatasaray (TUR)        0-0
+  Thu Sep 30
+    21:00  Olympique Marseille (FRA) v Galatasaray (TUR)        0-0
            Lazio Roma (ITA)        v Lokomotiv Moskva (RUS)   2-0 (2-0)
-  Thu Oct/21
-    18.45  Lazio Roma (ITA)        v Olympique Marseille (FRA)  0-0
-    21.00  Lokomotiv Moskva (RUS)  v Galatasaray (TUR)        0-1 (0-0)
-  Thu Nov/4
-    18.45  Galatasaray (TUR)       v Lokomotiv Moskva (RUS)   1-1 (1-0)
-    21.00  Olympique Marseille (FRA) v Lazio Roma (ITA)         2-2 (1-1)
-  Thu Nov/25
-    18.45  Galatasaray (TUR)       v Olympique Marseille (FRA)  4-2 (2-0)
+  Thu Oct 21
+    18:45  Lazio Roma (ITA)        v Olympique Marseille (FRA)  0-0
+    21:00  Lokomotiv Moskva (RUS)  v Galatasaray (TUR)        0-1 (0-0)
+  Thu Nov 4
+    18:45  Galatasaray (TUR)       v Lokomotiv Moskva (RUS)   1-1 (1-0)
+    21:00  Olympique Marseille (FRA) v Lazio Roma (ITA)         2-2 (1-1)
+  Thu Nov 25
+    18:45  Galatasaray (TUR)       v Olympique Marseille (FRA)  4-2 (2-0)
            Lokomotiv Moskva (RUS)  v Lazio Roma (ITA)         0-3 (0-0)
-  Thu Dec/9
-    21.00  Lazio Roma (ITA)        v Galatasaray (TUR)        0-0
+  Thu Dec 9
+    21:00  Lazio Roma (ITA)        v Galatasaray (TUR)        0-0
            Olympique Marseille (FRA) v Lokomotiv Moskva (RUS)   1-0 (1-0)
 
 
-» Group F
-  Thu Sep/16
-    18.45  Crvena Zvezda (SRB)     v Sporting Braga (POR)     2-1 (0-0)
+▪ Group F
+  Thu Sep 16
+    18:45  Crvena Zvezda (SRB)     v Sporting Braga (POR)     2-1 (0-0)
            FC Midtjylland (DEN)    v PFC Ludogorets Razgrad (BUL)  1-1 (1-1)
-  Thu Sep/30
-    21.00  PFC Ludogorets Razgrad (BUL) v Crvena Zvezda (SRB)      0-1 (0-0)
+  Thu Sep 30
+    21:00  PFC Ludogorets Razgrad (BUL) v Crvena Zvezda (SRB)      0-1 (0-0)
            Sporting Braga (POR)    v FC Midtjylland (DEN)     3-1 (0-1)
-  Thu Oct/21
-    18.45  FC Midtjylland (DEN)    v Crvena Zvezda (SRB)      1-1 (0-0)
+  Thu Oct 21
+    18:45  FC Midtjylland (DEN)    v Crvena Zvezda (SRB)      1-1 (0-0)
            PFC Ludogorets Razgrad (BUL) v Sporting Braga (POR)     0-1 (0-1)
-  Thu Nov/4
-    21.00  Crvena Zvezda (SRB)     v FC Midtjylland (DEN)     0-1 (0-0)
+  Thu Nov 4
+    21:00  Crvena Zvezda (SRB)     v FC Midtjylland (DEN)     0-1 (0-0)
            Sporting Braga (POR)    v PFC Ludogorets Razgrad (BUL)  4-2 (3-1)
-  Thu Nov/25
-    18.45  Crvena Zvezda (SRB)     v PFC Ludogorets Razgrad (BUL)  1-0 (0-0)
+  Thu Nov 25
+    18:45  Crvena Zvezda (SRB)     v PFC Ludogorets Razgrad (BUL)  1-0 (0-0)
            FC Midtjylland (DEN)    v Sporting Braga (POR)     3-2 (1-1)
-  Thu Dec/9
-    21.00  Sporting Braga (POR)    v Crvena Zvezda (SRB)      1-1 (0-0)
+  Thu Dec 9
+    21:00  Sporting Braga (POR)    v Crvena Zvezda (SRB)      1-1 (0-0)
            PFC Ludogorets Razgrad (BUL) v FC Midtjylland (DEN)     0-0
 
 
-» Gruppe G
-  Thu Sep/16
-    18.45  Bayer Leverkusen (GER)  v Ferencvárosi TC (HUN)    2-1 (1-1)
+▪ Gruppe G
+  Thu Sep 16
+    18:45  Bayer Leverkusen (GER)  v Ferencvárosi TC (HUN)    2-1 (1-1)
            Real Betis (ESP)        v Celtic FC (SCO)          4-3 (2-2)
-  Thu Sep/30
-    21.00  Celtic FC (SCO)         v Bayer Leverkusen (GER)   0-4 (0-2)
+  Thu Sep 30
+    21:00  Celtic FC (SCO)         v Bayer Leverkusen (GER)   0-4 (0-2)
            Ferencvárosi TC (HUN)   v Real Betis (ESP)         1-3 (1-1)
-  Tue Oct/19
-    16.30  Celtic FC (SCO)         v Ferencvárosi TC (HUN)    2-0 (0-0)
-  Thu Oct/21
-    18.45  Real Betis (ESP)        v Bayer Leverkusen (GER)   1-1 (0-0)
-  Thu Nov/4
-    21.00  Bayer Leverkusen (GER)  v Real Betis (ESP)         4-0 (1-0)
+  Tue Oct 19
+    16:30  Celtic FC (SCO)         v Ferencvárosi TC (HUN)    2-0 (0-0)
+  Thu Oct 21
+    18:45  Real Betis (ESP)        v Bayer Leverkusen (GER)   1-1 (0-0)
+  Thu Nov 4
+    21:00  Bayer Leverkusen (GER)  v Real Betis (ESP)         4-0 (1-0)
            Ferencvárosi TC (HUN)   v Celtic FC (SCO)          2-3 (1-2)
-  Thu Nov/25
-    18.45  Bayer Leverkusen (GER)  v Celtic FC (SCO)          3-2 (1-1)
+  Thu Nov 25
+    18:45  Bayer Leverkusen (GER)  v Celtic FC (SCO)          3-2 (1-1)
            Real Betis (ESP)        v Ferencvárosi TC (HUN)    2-0 (1-0)
-  Thu Dec/9
-    21.00  Ferencvárosi TC (HUN)   v Bayer Leverkusen (GER)   1-0 (0-0)
+  Thu Dec 9
+    21:00  Ferencvárosi TC (HUN)   v Bayer Leverkusen (GER)   1-0 (0-0)
            Celtic FC (SCO)         v Real Betis (ESP)         3-2 (1-0)
 
 
-» Gruppe H
-  Thu Sep/16
-    18.45  Dinamo Zagreb (CRO)     v West Ham United (ENG)    0-2 (0-1)
+▪ Gruppe H
+  Thu Sep 16
+    18:45  Dinamo Zagreb (CRO)     v West Ham United (ENG)    0-2 (0-1)
            Rapid Wien (AUT)        v KRC Genk (BEL)           0-1 (0-0)
-  Thu Sep/30
-    21.00  KRC Genk (BEL)          v Dinamo Zagreb (CRO)      0-3 (0-2)
+  Thu Sep 30
+    21:00  KRC Genk (BEL)          v Dinamo Zagreb (CRO)      0-3 (0-2)
            West Ham United (ENG)   v Rapid Wien (AUT)         2-0 (1-0)
-  Thu Oct/21
-    18.45  Rapid Wien (AUT)        v Dinamo Zagreb (CRO)      2-1 (2-1)
-    21.00  West Ham United (ENG)   v KRC Genk (BEL)           3-0 (1-0)
-  Thu Nov/4
-    18.45  KRC Genk (BEL)          v West Ham United (ENG)    2-2 (1-0)
-    21.00  Dinamo Zagreb (CRO)     v Rapid Wien (AUT)         3-1 (2-1)
-  Thu Nov/25
-    18.45  Dinamo Zagreb (CRO)     v KRC Genk (BEL)           1-1 (1-1)
+  Thu Oct 21
+    18:45  Rapid Wien (AUT)        v Dinamo Zagreb (CRO)      2-1 (2-1)
+    21:00  West Ham United (ENG)   v KRC Genk (BEL)           3-0 (1-0)
+  Thu Nov 4
+    18:45  KRC Genk (BEL)          v West Ham United (ENG)    2-2 (1-0)
+    21:00  Dinamo Zagreb (CRO)     v Rapid Wien (AUT)         3-1 (2-1)
+  Thu Nov 25
+    18:45  Dinamo Zagreb (CRO)     v KRC Genk (BEL)           1-1 (1-1)
            Rapid Wien (AUT)        v West Ham United (ENG)    0-2 (0-2)
-  Thu Dec/9
-    21.00  West Ham United (ENG)   v Dinamo Zagreb (CRO)      0-1 (0-1)
+  Thu Dec 9
+    21:00  West Ham United (ENG)   v Dinamo Zagreb (CRO)      0-1 (0-1)
            KRC Genk (BEL)          v Rapid Wien (AUT)         0-1 (0-1)
 
 
-» Playoffs
-  Thu Feb/17 2022
-    18.45  FC Barcelona (ESP)      v SSC Napoli (ITA)         1-1 (0-1)
+▪ Playoffs
+  Thu Feb 17 2022
+    18:45  FC Barcelona (ESP)      v SSC Napoli (ITA)         1-1 (0-1)
            Zenit St. Petersburg (RUS) v Real Betis (ESP)         2-3 (2-3)
            Borussia Dortmund (GER) v Rangers FC (SCO)         2-4 (0-2)
            FC Sheriff (MDA)        v Sporting Braga (POR)     2-0 (1-0)
-    21.00  Sevilla FC (ESP)        v Dinamo Zagreb (CRO)      3-1 (3-1)
+    21:00  Sevilla FC (ESP)        v Dinamo Zagreb (CRO)      3-1 (3-1)
            Atalanta (ITA)          v Olympiakos Piraeus (GRE)  2-1 (0-1)
            RB Leipzig (GER)        v Real Sociedad (ESP)      2-2 (1-1)
            FC Porto (POR)          v Lazio Roma (ITA)         2-1 (1-1)
-  Thu Feb/24
-    18.45  Dinamo Zagreb (CRO)     v Sevilla FC (ESP)         1-0 (0-0)
+  Thu Feb 24
+    18:45  Dinamo Zagreb (CRO)     v Sevilla FC (ESP)         1-0 (0-0)
            Olympiakos Piraeus (GRE) v Atalanta (ITA)           0-3 (0-1)
            Real Sociedad (ESP)     v RB Leipzig (GER)         1-3 (0-1)
            Lazio Roma (ITA)        v FC Porto (POR)           2-2 (1-1)
-    21.00  SSC Napoli (ITA)        v FC Barcelona (ESP)       2-4 (1-3)
+    21:00  SSC Napoli (ITA)        v FC Barcelona (ESP)       2-4 (1-3)
            Real Betis (ESP)        v Zenit St. Petersburg (RUS)  0-0
            Rangers FC (SCO)        v Borussia Dortmund (GER)  2-2 (1-2)
            Sporting Braga (POR)    v FC Sheriff (MDA)         3-2 pen. 2-0 a.e.t. (2-0, 2-0)
 
 
-» Round of 16
-  Wed Mar/9
-    18.45  FC Porto (POR)          v Olympique Lyonnais (FRA)  0-1 (0-0)
+▪ Round of 16
+  Wed Mar 9
+    18:45  FC Porto (POR)          v Olympique Lyonnais (FRA)  0-1 (0-0)
            Real Betis (ESP)        v Eintracht Frankfurt (GER)  1-2 (1-2)
-  Thu Mar/10
+  Thu Mar 10
            RB Leipzig (GER)        v Spartak Moskva (RUS)     [cancelled]
-    18.45  Sevilla FC (ESP)        v West Ham United (ENG)    1-0 (0-0)
-    21.00  Rangers FC (SCO)        v Crvena Zvezda (SRB)      3-0 (2-0)
+    18:45  Sevilla FC (ESP)        v West Ham United (ENG)    1-0 (0-0)
+    21:00  Rangers FC (SCO)        v Crvena Zvezda (SRB)      3-0 (2-0)
            Sporting Braga (POR)    v AS Monaco (FRA)          2-0 (1-0)
            Atalanta (ITA)          v Bayer Leverkusen (GER)   3-2 (2-1)
            FC Barcelona (ESP)      v Galatasaray (TUR)        0-0
-  Thu Mar/17
+  Thu Mar 17
            Spartak Moskva (RUS)    v RB Leipzig (GER)         [cancelled]
-    18.45  Crvena Zvezda (SRB)     v Rangers FC (SCO)         2-1 (1-0)
+    18:45  Crvena Zvezda (SRB)     v Rangers FC (SCO)         2-1 (1-0)
            AS Monaco (FRA)         v Sporting Braga (POR)     1-1 (0-1)
            Bayer Leverkusen (GER)  v Atalanta (ITA)           0-1 (0-0)
            Galatasaray (TUR)       v FC Barcelona (ESP)       1-2 (1-1)
-    21.00  Olympique Lyonnais (FRA) v FC Porto (POR)           1-1 (1-1)
+    21:00  Olympique Lyonnais (FRA) v FC Porto (POR)           1-1 (1-1)
            West Ham United (ENG)   v Sevilla FC (ESP)         2-0 a.e.t. (1-0, 1-0)
            Eintracht Frankfurt (GER) v Real Betis (ESP)         1-1 a.e.t. (0-1, 0-0)
 
 
-» Quarterfinals
-  Thu Apr/7
-    18.45  RB Leipzig (GER)        v Atalanta (ITA)           1-1 (0-1)
-    21.00  Eintracht Frankfurt (GER) v FC Barcelona (ESP)       1-1 (0-0)
+▪ Quarterfinals
+  Thu Apr 7
+    18:45  RB Leipzig (GER)        v Atalanta (ITA)           1-1 (0-1)
+    21:00  Eintracht Frankfurt (GER) v FC Barcelona (ESP)       1-1 (0-0)
            West Ham United (ENG)   v Olympique Lyonnais (FRA)  1-1 (0-0)
            Sporting Braga (POR)    v Rangers FC (SCO)         1-0 (1-0)
-  Thu Apr/14
-    18.45  Atalanta (ITA)          v RB Leipzig (GER)         0-2 (0-1)
-    21.00  FC Barcelona (ESP)      v Eintracht Frankfurt (GER)  2-3 (0-2)
+  Thu Apr 14
+    18:45  Atalanta (ITA)          v RB Leipzig (GER)         0-2 (0-1)
+    21:00  FC Barcelona (ESP)      v Eintracht Frankfurt (GER)  2-3 (0-2)
            Olympique Lyonnais (FRA) v West Ham United (ENG)    0-3 (0-2)
            Rangers FC (SCO)        v Sporting Braga (POR)     3-1 a.e.t. (2-1, 2-0)
 
 
-» Semifinals
-  Thu Apr/28
-    21.00  RB Leipzig (GER)        v Rangers FC (SCO)         1-0 (0-0)
+▪ Semifinals
+  Thu Apr 28
+    21:00  RB Leipzig (GER)        v Rangers FC (SCO)         1-0 (0-0)
            West Ham United (ENG)   v Eintracht Frankfurt (GER)  1-2 (1-1)
-  Thu May/5
-    21.00  Rangers FC (SCO)        v RB Leipzig (GER)         3-1 (2-0)
+  Thu May 5
+    21:00  Rangers FC (SCO)        v RB Leipzig (GER)         3-1 (2-0)
            Eintracht Frankfurt (GER) v West Ham United (ENG)    1-0 (1-0)
 
 
-» Final
-  Wed May/18
-    21.00  Eintracht Frankfurt (GER) v Rangers FC (SCO)         5-4 pen. 1-1 a.e.t. (1-1, 0-0)
+▪ Final
+  Wed May 18
+    21:00  Eintracht Frankfurt (GER) v Rangers FC (SCO)         5-4 pen. 1-1 a.e.t. (1-1, 0-0)

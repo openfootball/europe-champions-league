@@ -1,245 +1,245 @@
 = UEFA Europa League 2023/24
 
-# Date       Thu Sep/21 2023 - Wed May/22 2024 (244d)
+# Date       Thu Sep 21 2023 - Wed May 22 2024 (244d)
 # Teams      40
 # Matches    141
 
 
 
-» Group A
-  Thu Sep/21 2023
-    21.00  Olympiakos Piraeus (GRE) v SC Freiburg (GER)        2-3 (1-2)
+▪ Group A
+  Thu Sep 21 2023
+    21:00  Olympiakos Piraeus (GRE) v SC Freiburg (GER)        2-3 (1-2)
            West Ham United (ENG)   v TSC Bačka Topola (SRB)   3-1 (0-0)
-  Thu Oct/5
-    18.45  SC Freiburg (GER)       v West Ham United (ENG)    1-2 (0-1)
+  Thu Oct 5
+    18:45  SC Freiburg (GER)       v West Ham United (ENG)    1-2 (0-1)
            TSC Bačka Topola (SRB)  v Olympiakos Piraeus (GRE)  2-2 (0-1)
-  Thu Oct/26
-    18.45  Olympiakos Piraeus (GRE) v West Ham United (ENG)    2-1 (2-0)
+  Thu Oct 26
+    18:45  Olympiakos Piraeus (GRE) v West Ham United (ENG)    2-1 (2-0)
            TSC Bačka Topola (SRB)  v SC Freiburg (GER)        1-3 (1-0)
-  Thu Nov/9
-    21.00  SC Freiburg (GER)       v TSC Bačka Topola (SRB)   5-0 (1-0)
+  Thu Nov 9
+    21:00  SC Freiburg (GER)       v TSC Bačka Topola (SRB)   5-0 (1-0)
            West Ham United (ENG)   v Olympiakos Piraeus (GRE)  1-0 (0-0)
-  Thu Nov/30
-    18.45  SC Freiburg (GER)       v Olympiakos Piraeus (GRE)  5-0 (4-0)
+  Thu Nov 30
+    18:45  SC Freiburg (GER)       v Olympiakos Piraeus (GRE)  5-0 (4-0)
            TSC Bačka Topola (SRB)  v West Ham United (ENG)    0-1 (0-0)
-  Thu Dec/14
-    21.00  Olympiakos Piraeus (GRE) v TSC Bačka Topola (SRB)   5-2 (3-0)
+  Thu Dec 14
+    21:00  Olympiakos Piraeus (GRE) v TSC Bačka Topola (SRB)   5-2 (3-0)
            West Ham United (ENG)   v SC Freiburg (GER)        2-0 (2-0)
 
 
-» Group B
-  Thu Sep/21
-    21.00  AFC Ajax (NED)          v Olympique Marseille (FRA)  3-3 (2-2)
+▪ Group B
+  Thu Sep 21
+    21:00  AFC Ajax (NED)          v Olympique Marseille (FRA)  3-3 (2-2)
            Brighton & Hove Albion (ENG) v AEK Athen (GRE)          2-3 (1-2)
-  Thu Oct/5
-    18.45  AEK Athen (GRE)         v AFC Ajax (NED)           1-1 (0-1)
+  Thu Oct 5
+    18:45  AEK Athen (GRE)         v AFC Ajax (NED)           1-1 (0-1)
            Olympique Marseille (FRA) v Brighton & Hove Albion (ENG)  2-2 (2-0)
-  Thu Oct/26
-    18.45  Olympique Marseille (FRA) v AEK Athen (GRE)          3-1 (1-0)
-    21.00  Brighton & Hove Albion (ENG) v AFC Ajax (NED)           2-0 (1-0)
-  Thu Nov/9
-    18.45  AFC Ajax (NED)          v Brighton & Hove Albion (ENG)  0-2 (0-1)
-    21.00  AEK Athen (GRE)         v Olympique Marseille (FRA)  0-2 (0-1)
-  Thu Nov/30
-    18.45  AEK Athen (GRE)         v Brighton & Hove Albion (ENG)  0-1 (0-0)
-    21.00  Olympique Marseille (FRA) v AFC Ajax (NED)           4-3 (2-2)
-  Thu Dec/14
-    21.00  AFC Ajax (NED)          v AEK Athen (GRE)          3-1 (2-1)
+  Thu Oct 26
+    18:45  Olympique Marseille (FRA) v AEK Athen (GRE)          3-1 (1-0)
+    21:00  Brighton & Hove Albion (ENG) v AFC Ajax (NED)           2-0 (1-0)
+  Thu Nov 9
+    18:45  AFC Ajax (NED)          v Brighton & Hove Albion (ENG)  0-2 (0-1)
+    21:00  AEK Athen (GRE)         v Olympique Marseille (FRA)  0-2 (0-1)
+  Thu Nov 30
+    18:45  AEK Athen (GRE)         v Brighton & Hove Albion (ENG)  0-1 (0-0)
+    21:00  Olympique Marseille (FRA) v AFC Ajax (NED)           4-3 (2-2)
+  Thu Dec 14
+    21:00  AFC Ajax (NED)          v AEK Athen (GRE)          3-1 (2-1)
            Brighton & Hove Albion (ENG) v Olympique Marseille (FRA)  1-0 (0-0)
 
 
-» Group C
-  Thu Sep/21
-    21.00  AC Sparta Praha (CZE)   v Aris Limassol (CYP)      3-2 (2-1)
+▪ Group C
+  Thu Sep 21
+    21:00  AC Sparta Praha (CZE)   v Aris Limassol (CYP)      3-2 (2-1)
            Rangers FC (SCO)        v Real Betis (ESP)         1-0 (0-0)
-  Thu Oct/5
-    18.45  Aris Limassol (CYP)     v Rangers FC (SCO)         2-1 (1-0)
+  Thu Oct 5
+    18:45  Aris Limassol (CYP)     v Rangers FC (SCO)         2-1 (1-0)
            Real Betis (ESP)        v AC Sparta Praha (CZE)    2-1 (1-1)
-  Thu Oct/26
-    18.45  AC Sparta Praha (CZE)   v Rangers FC (SCO)         0-0
+  Thu Oct 26
+    18:45  AC Sparta Praha (CZE)   v Rangers FC (SCO)         0-0
            Aris Limassol (CYP)     v Real Betis (ESP)         0-1 (0-0)
-  Thu Nov/9
-    21.00  Rangers FC (SCO)        v AC Sparta Praha (CZE)    2-1 (2-0)
+  Thu Nov 9
+    21:00  Rangers FC (SCO)        v AC Sparta Praha (CZE)    2-1 (2-0)
            Real Betis (ESP)        v Aris Limassol (CYP)      4-1 (1-0)
-  Thu Nov/30
-    18.45  AC Sparta Praha (CZE)   v Real Betis (ESP)         1-0 (0-0)
-    21.00  Rangers FC (SCO)        v Aris Limassol (CYP)      1-1 (0-1)
-  Thu Dec/14
-    21.00  Aris Limassol (CYP)     v AC Sparta Praha (CZE)    1-3 (0-3)
+  Thu Nov 30
+    18:45  AC Sparta Praha (CZE)   v Real Betis (ESP)         1-0 (0-0)
+    21:00  Rangers FC (SCO)        v Aris Limassol (CYP)      1-1 (0-1)
+  Thu Dec 14
+    21:00  Aris Limassol (CYP)     v AC Sparta Praha (CZE)    1-3 (0-3)
            Real Betis (ESP)        v Rangers FC (SCO)         2-3 (2-2)
 
 
-» Group D
-  Thu Sep/21
-    21.00  Atalanta (ITA)          v Raków Częstochowa (POL)  2-0 (0-0)
+▪ Group D
+  Thu Sep 21
+    21:00  Atalanta (ITA)          v Raków Częstochowa (POL)  2-0 (0-0)
            Sturm Graz (AUT)        v Sporting CP (POR)        1-2 (0-0)
-  Thu Oct/5
-    18.45  Raków Częstochowa (POL) v Sturm Graz (AUT)         0-1 (0-1)
+  Thu Oct 5
+    18:45  Raków Częstochowa (POL) v Sturm Graz (AUT)         0-1 (0-1)
            Sporting CP (POR)       v Atalanta (ITA)           1-2 (0-2)
-  Thu Oct/26
-    18.45  Raków Częstochowa (POL) v Sporting CP (POR)        1-1 (0-1)
+  Thu Oct 26
+    18:45  Raków Częstochowa (POL) v Sporting CP (POR)        1-1 (0-1)
            Sturm Graz (AUT)        v Atalanta (ITA)           2-2 (1-2)
-  Thu Nov/9
-    21.00  Atalanta (ITA)          v Sturm Graz (AUT)         1-0 (0-0)
+  Thu Nov 9
+    21:00  Atalanta (ITA)          v Sturm Graz (AUT)         1-0 (0-0)
            Sporting CP (POR)       v Raków Częstochowa (POL)  2-1 (1-0)
-  Thu Nov/30
-    18.45  Atalanta (ITA)          v Sporting CP (POR)        1-1 (1-0)
+  Thu Nov 30
+    18:45  Atalanta (ITA)          v Sporting CP (POR)        1-1 (1-0)
            Sturm Graz (AUT)        v Raków Częstochowa (POL)  0-1 (0-0)
-  Thu Dec/14
-    21.00  Raków Częstochowa (POL) v Atalanta (ITA)           0-4 (0-2)
+  Thu Dec 14
+    21:00  Raków Częstochowa (POL) v Atalanta (ITA)           0-4 (0-2)
            Sporting CP (POR)       v Sturm Graz (AUT)         3-0 (1-0)
 
 
-» Group E
-  Thu Sep/21
-    18.45  Union Saint-Gilloise (BEL) v Toulouse FC (FRA)        1-1 (0-1)
+▪ Group E
+  Thu Sep 21
+    18:45  Union Saint-Gilloise (BEL) v Toulouse FC (FRA)        1-1 (0-1)
            LASK (AUT)              v Liverpool FC (ENG)       1-3 (1-0)
-  Thu Oct/5
-    21.00  Liverpool FC (ENG)      v Union Saint-Gilloise (BEL)  2-0 (1-0)
+  Thu Oct 5
+    21:00  Liverpool FC (ENG)      v Union Saint-Gilloise (BEL)  2-0 (1-0)
            Toulouse FC (FRA)       v LASK (AUT)               1-0 (1-0)
-  Thu Oct/26
-    21.00  Liverpool FC (ENG)      v Toulouse FC (FRA)        5-1 (3-1)
+  Thu Oct 26
+    21:00  Liverpool FC (ENG)      v Toulouse FC (FRA)        5-1 (3-1)
            Union Saint-Gilloise (BEL) v LASK (AUT)               2-1 (0-1)
-  Thu Nov/9
-    18.45  Toulouse FC (FRA)       v Liverpool FC (ENG)       3-2 (1-0)
+  Thu Nov 9
+    18:45  Toulouse FC (FRA)       v Liverpool FC (ENG)       3-2 (1-0)
            LASK (AUT)              v Union Saint-Gilloise (BEL)  3-0 (2-0)
-  Thu Nov/30
-    21.00  Liverpool FC (ENG)      v LASK (AUT)               4-0 (2-0)
+  Thu Nov 30
+    21:00  Liverpool FC (ENG)      v LASK (AUT)               4-0 (2-0)
            Toulouse FC (FRA)       v Union Saint-Gilloise (BEL)  0-0
-  Thu Dec/14
-    18.45  Union Saint-Gilloise (BEL) v Liverpool FC (ENG)       2-1 (2-1)
+  Thu Dec 14
+    18:45  Union Saint-Gilloise (BEL) v Liverpool FC (ENG)       2-1 (2-1)
            LASK (AUT)              v Toulouse FC (FRA)        1-2 (0-0)
 
 
-» Group F
-  Thu Sep/21
-    18.45  Stade Rennais (FRA)     v Maccabi Haifa (ISR)      3-0 (2-0)
+▪ Group F
+  Thu Sep 21
+    18:45  Stade Rennais (FRA)     v Maccabi Haifa (ISR)      3-0 (2-0)
            Panathinaikos (GRE)     v Villarreal CF (ESP)      2-0 (1-0)
-  Thu Oct/5
-    21.00  Villarreal CF (ESP)     v Stade Rennais (FRA)      1-0 (1-0)
+  Thu Oct 5
+    21:00  Villarreal CF (ESP)     v Stade Rennais (FRA)      1-0 (1-0)
            Maccabi Haifa (ISR)     v Panathinaikos (GRE)      0-0
-  Thu Oct/26
-    21.00  Panathinaikos (GRE)     v Stade Rennais (FRA)      1-2 (0-1)
-  Thu Nov/9
-    18.45  Stade Rennais (FRA)     v Panathinaikos (GRE)      3-1 (1-1)
+  Thu Oct 26
+    21:00  Panathinaikos (GRE)     v Stade Rennais (FRA)      1-2 (0-1)
+  Thu Nov 9
+    18:45  Stade Rennais (FRA)     v Panathinaikos (GRE)      3-1 (1-1)
            Maccabi Haifa (ISR)     v Villarreal CF (ESP)      1-2 (1-0)
-  Thu Nov/30
-    18.45  Maccabi Haifa (ISR)     v Stade Rennais (FRA)      0-3 (0-1)
-    21.00  Villarreal CF (ESP)     v Panathinaikos (GRE)      3-2 (2-0)
-  Wed Dec/6
-    21.00  Villarreal CF (ESP)     v Maccabi Haifa (ISR)      0-0
-  Thu Dec/14
-    18.45  Stade Rennais (FRA)     v Villarreal CF (ESP)      2-3 (1-1)
+  Thu Nov 30
+    18:45  Maccabi Haifa (ISR)     v Stade Rennais (FRA)      0-3 (0-1)
+    21:00  Villarreal CF (ESP)     v Panathinaikos (GRE)      3-2 (2-0)
+  Wed Dec 6
+    21:00  Villarreal CF (ESP)     v Maccabi Haifa (ISR)      0-0
+  Thu Dec 14
+    18:45  Stade Rennais (FRA)     v Villarreal CF (ESP)      2-3 (1-1)
            Panathinaikos (GRE)     v Maccabi Haifa (ISR)      1-2 (0-1)
 
 
-» Gruppe G
-  Thu Sep/21
-    18.45  FC Sheriff (MDA)        v AS Roma (ITA)            1-2 (0-1)
+▪ Gruppe G
+  Thu Sep 21
+    18:45  FC Sheriff (MDA)        v AS Roma (ITA)            1-2 (0-1)
            Servette FC (SUI)       v Slavia Praha (CZE)       0-2 (0-1)
-  Thu Oct/5
-    21.00  AS Roma (ITA)           v Servette FC (SUI)        4-0 (1-0)
+  Thu Oct 5
+    21:00  AS Roma (ITA)           v Servette FC (SUI)        4-0 (1-0)
            Slavia Praha (CZE)      v FC Sheriff (MDA)         6-0 (3-0)
-  Thu Oct/26
-    21.00  AS Roma (ITA)           v Slavia Praha (CZE)       2-0 (2-0)
+  Thu Oct 26
+    21:00  AS Roma (ITA)           v Slavia Praha (CZE)       2-0 (2-0)
            FC Sheriff (MDA)        v Servette FC (SUI)        1-1 (0-1)
-  Thu Nov/9
-    18.45  Slavia Praha (CZE)      v AS Roma (ITA)            2-0 (0-0)
+  Thu Nov 9
+    18:45  Slavia Praha (CZE)      v AS Roma (ITA)            2-0 (0-0)
            Servette FC (SUI)       v FC Sheriff (MDA)         2-1 (0-1)
-  Thu Nov/30
-    21.00  Servette FC (SUI)       v AS Roma (ITA)            1-1 (0-1)
+  Thu Nov 30
+    21:00  Servette FC (SUI)       v AS Roma (ITA)            1-1 (0-1)
            FC Sheriff (MDA)        v Slavia Praha (CZE)       2-3 (1-1)
-  Thu Dec/14
-    18.45  AS Roma (ITA)           v FC Sheriff (MDA)         3-0 (2-0)
+  Thu Dec 14
+    18:45  AS Roma (ITA)           v FC Sheriff (MDA)         3-0 (2-0)
            Slavia Praha (CZE)      v Servette FC (SUI)        4-0 (4-0)
 
 
-» Gruppe H
-  Thu Sep/21
-    18.45  Bayer Leverkusen (GER)  v BK Häcken (SWE)          4-0 (2-0)
+▪ Gruppe H
+  Thu Sep 21
+    18:45  Bayer Leverkusen (GER)  v BK Häcken (SWE)          4-0 (2-0)
            Qarabağ FK (AZE)        v Molde FK (NOR)           1-0 (0-0)
-  Thu Oct/5
-    21.00  Molde FK (NOR)          v Bayer Leverkusen (GER)   1-2 (0-2)
+  Thu Oct 5
+    21:00  Molde FK (NOR)          v Bayer Leverkusen (GER)   1-2 (0-2)
            BK Häcken (SWE)         v Qarabağ FK (AZE)         0-1 (0-0)
-  Thu Oct/26
-    18.45  Molde FK (NOR)          v BK Häcken (SWE)          5-1 (3-1)
-    21.00  Bayer Leverkusen (GER)  v Qarabağ FK (AZE)         5-1 (3-1)
-  Thu Nov/9
-    18.45  Qarabağ FK (AZE)        v Bayer Leverkusen (GER)   0-1 (0-0)
-    21.00  BK Häcken (SWE)         v Molde FK (NOR)           1-3 (0-2)
-  Thu Nov/30
-    21.00  BK Häcken (SWE)         v Bayer Leverkusen (GER)   0-2 (0-1)
+  Thu Oct 26
+    18:45  Molde FK (NOR)          v BK Häcken (SWE)          5-1 (3-1)
+    21:00  Bayer Leverkusen (GER)  v Qarabağ FK (AZE)         5-1 (3-1)
+  Thu Nov 9
+    18:45  Qarabağ FK (AZE)        v Bayer Leverkusen (GER)   0-1 (0-0)
+    21:00  BK Häcken (SWE)         v Molde FK (NOR)           1-3 (0-2)
+  Thu Nov 30
+    21:00  BK Häcken (SWE)         v Bayer Leverkusen (GER)   0-2 (0-1)
            Molde FK (NOR)          v Qarabağ FK (AZE)         2-2 (0-1)
-  Thu Dec/14
-    18.45  Bayer Leverkusen (GER)  v Molde FK (NOR)           5-1 (3-0)
+  Thu Dec 14
+    18:45  Bayer Leverkusen (GER)  v Molde FK (NOR)           5-1 (3-0)
            Qarabağ FK (AZE)        v BK Häcken (SWE)          2-1 (2-0)
 
 
-» Playoffs
-  Thu Feb/15 2024
-    18.45  Feyenoord (NED)         v AS Roma (ITA)            1-1 (1-0)
+▪ Playoffs
+  Thu Feb 15 2024
+    18:45  Feyenoord (NED)         v AS Roma (ITA)            1-1 (1-0)
            BSC Young Boys (SUI)    v Sporting CP (POR)        1-3 (1-2)
            Galatasaray (TUR)       v AC Sparta Praha (CZE)    3-2 (1-0)
            Shakhtar Donetsk (UKR)  v Olympique Marseille (FRA)  2-2 (0-0)
-    21.00  AC Milan (ITA)          v Stade Rennais (FRA)      3-0 (1-0)
+    21:00  AC Milan (ITA)          v Stade Rennais (FRA)      3-0 (1-0)
            RC Lens (FRA)           v SC Freiburg (GER)        0-0
            SL Benfica (POR)        v Toulouse FC (FRA)        2-1 (0-0)
            Sporting Braga (POR)    v Qarabağ FK (AZE)         2-4 (1-1)
-  Thu Feb/22
-    18.45  Stade Rennais (FRA)     v AC Milan (ITA)           3-2 (1-1)
+  Thu Feb 22
+    18:45  Stade Rennais (FRA)     v AC Milan (ITA)           3-2 (1-1)
            SC Freiburg (GER)       v RC Lens (FRA)            3-2 a.e.t. (2-2, 0-2)
            Toulouse FC (FRA)       v SL Benfica (POR)         0-0
            Qarabağ FK (AZE)        v Sporting Braga (POR)     2-3 a.e.t. (0-2, 0-0)
-    21.00  AS Roma (ITA)           v Feyenoord (NED)          4-2 pen. 1-1 a.e.t. (1-1, 1-1)
+    21:00  AS Roma (ITA)           v Feyenoord (NED)          4-2 pen. 1-1 a.e.t. (1-1, 1-1)
            Sporting CP (POR)       v BSC Young Boys (SUI)     1-1 (1-0)
            AC Sparta Praha (CZE)   v Galatasaray (TUR)        4-1 (1-1)
            Olympique Marseille (FRA) v Shakhtar Donetsk (UKR)   3-1 (1-1)
 
 
-» Round of 16
-  Wed Mar/6
-    18.45  Sporting CP (POR)       v Atalanta (ITA)           1-1 (1-1)
-  Thu Mar/7
-    18.45  AC Sparta Praha (CZE)   v Liverpool FC (ENG)       1-5 (0-3)
+▪ Round of 16
+  Wed Mar 6
+    18:45  Sporting CP (POR)       v Atalanta (ITA)           1-1 (1-1)
+  Thu Mar 7
+    18:45  AC Sparta Praha (CZE)   v Liverpool FC (ENG)       1-5 (0-3)
            AS Roma (ITA)           v Brighton & Hove Albion (ENG)  4-0 (2-0)
            Qarabağ FK (AZE)        v Bayer Leverkusen (GER)   2-2 (2-0)
-    21.00  Olympique Marseille (FRA) v Villarreal CF (ESP)      4-0 (3-0)
+    21:00  Olympique Marseille (FRA) v Villarreal CF (ESP)      4-0 (3-0)
            SL Benfica (POR)        v Rangers FC (SCO)         2-2 (1-2)
            SC Freiburg (GER)       v West Ham United (ENG)    1-0 (0-0)
            AC Milan (ITA)          v Slavia Praha (CZE)       4-2 (3-1)
-  Thu Mar/14
-    18.45  Villarreal CF (ESP)     v Olympique Marseille (FRA)  3-1 (1-0)
+  Thu Mar 14
+    18:45  Villarreal CF (ESP)     v Olympique Marseille (FRA)  3-1 (1-0)
            Rangers FC (SCO)        v SL Benfica (POR)         0-1 (0-0)
            West Ham United (ENG)   v SC Freiburg (GER)        5-0 (2-0)
            Slavia Praha (CZE)      v AC Milan (ITA)           1-3 (0-3)
-    21.00  Liverpool FC (ENG)      v AC Sparta Praha (CZE)    6-1 (4-1)
+    21:00  Liverpool FC (ENG)      v AC Sparta Praha (CZE)    6-1 (4-1)
            Brighton & Hove Albion (ENG) v AS Roma (ITA)            1-0 (1-0)
            Atalanta (ITA)          v Sporting CP (POR)        2-1 (0-1)
            Bayer Leverkusen (GER)  v Qarabağ FK (AZE)         3-2 (0-0)
 
 
-» Quarterfinals
-  Thu Apr/11
-    21.00  AC Milan (ITA)          v AS Roma (ITA)            0-1 (0-1)
+▪ Quarterfinals
+  Thu Apr 11
+    21:00  AC Milan (ITA)          v AS Roma (ITA)            0-1 (0-1)
            Liverpool FC (ENG)      v Atalanta (ITA)           0-3 (0-1)
            Bayer Leverkusen (GER)  v West Ham United (ENG)    2-0 (0-0)
            SL Benfica (POR)        v Olympique Marseille (FRA)  2-1 (1-0)
-  Thu Apr/18
-    21.00  AS Roma (ITA)           v AC Milan (ITA)           2-1 (2-0)
+  Thu Apr 18
+    21:00  AS Roma (ITA)           v AC Milan (ITA)           2-1 (2-0)
            Atalanta (ITA)          v Liverpool FC (ENG)       0-1 (0-1)
            West Ham United (ENG)   v Bayer Leverkusen (GER)   1-1 (1-0)
            Olympique Marseille (FRA) v SL Benfica (POR)         4-2 pen. 1-0 a.e.t. (1-0, 0-0)
 
 
-» Semifinals
-  Thu May/2
-    21.00  Olympique Marseille (FRA) v Atalanta (ITA)           1-1 (1-1)
+▪ Semifinals
+  Thu May 2
+    21:00  Olympique Marseille (FRA) v Atalanta (ITA)           1-1 (1-1)
            AS Roma (ITA)           v Bayer Leverkusen (GER)   0-2 (0-1)
-  Thu May/9
-    21.00  Atalanta (ITA)          v Olympique Marseille (FRA)  3-0 (1-0)
+  Thu May 9
+    21:00  Atalanta (ITA)          v Olympique Marseille (FRA)  3-0 (1-0)
            Bayer Leverkusen (GER)  v AS Roma (ITA)            2-2 (0-1)
 
 
-» Final
-  Wed May/22
-    21.00  Atalanta (ITA)          v Bayer Leverkusen (GER)   3-0 (2-0)
+▪ Final
+  Wed May 22
+    21:00  Atalanta (ITA)          v Bayer Leverkusen (GER)   3-0 (2-0)
