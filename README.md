@@ -51,7 +51,7 @@ Wed Apr 2
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the datasets in (structured) text. [More »](https://github.com/openfootball/datafile)
+from the datasets in (structured) text. [More »](https://github.com/openfootball/quick-starter)
 
 
 ## Questions? Comments?
